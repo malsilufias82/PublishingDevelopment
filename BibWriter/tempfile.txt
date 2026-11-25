@@ -1,0 +1,2090 @@
+@article{AbadieDiamondHainmueller2010,
+author = {Abadie, A., A. Diamond, and J. Hainmueller},
+year = {2010},
+title = {Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California's Tobacco Control Program},
+journal = {Journal of the American Statistical Association},
+volume = {105},
+pages = {493--505}
+}
+
+***************************************
+
+@article{AbadieDiamondHainmueller2015,
+author = {Abadie, A., A. Diamond, and J. Hainmueller},
+year = {2015},
+title = {Comparative Politics and the Synthetic Control Method},
+journal = {American Journal of Political Science},
+volume = {xx},
+ yy-zz.
+***************************************
+
+@article{AbadieGardeazabal2003,
+author = {Abadie, A., and J. Gardeazabal},
+year = {2003},
+title = {The Economic Costs of Conflict: A Case Study of the Basque Country},
+journal = {American Economic Review},
+volume = {93},
+pages = {113--132}
+}
+
+***************************************
+
+@book{AcemogluJohnsonKermaniKwakMitton2013,
+author = {Acemoglu, D., S. Johnson, A. Kermani, J. Kwak, and T. Mitton},
+year = {2013},
+journal = {The Value of Connections in the Turbulent Times: Evidence from the United States},
+publisher = {Working paper, at http://ssrn.com/abstract-2363609.}
+}
+
+***************************************
+
+Acemoglu, D., S. Johnson, and J., A. Robinson.title = {The Colonial Origins of Comparative Development: An Empirical Investigation},
+,journal = {American Economic Review},
+volume = {91},
+pages = {1369--1401}
+}
+
+***************************************
+
+@article{AdamsSantos2006,
+author = {Adams, R., and J. Santos},
+year = {2006},
+title = {Identifying the Effect of Managerial Control on Firm Performance},
+journal = {Journal of Accounting and Economics},
+volume = {41},
+pages = {55--85}
+}
+
+***************************************
+
+@article{AdamsAlmeidaFerreira2005,
+author = {Adams, R., H. Almeida, and D. Ferreira},
+year = {2005},
+title = {Powerful CEOs and Their Impact on Corporate Performance},
+journal = {Review of Financial Studies},
+volume = {18},
+pages = {1403--1432}
+}
+
+***************************************
+
+@article{AkhigbeMartin2005,
+author = {Akhigbe, A. and A. Martin},
+year = {2005},
+title = {Valuation impact of Sarbanes--Oxley: Evidence from disclosure and governance within the financial services industry},
+journal = {Journal of Banking and Finance},
+volume = {30},
+pages = {989--1006}
+}
+
+***************************************
+
+@article{AkhigbeMartinNewman2010,
+author = {Akhigbe, A., A. Martin, and M. Newman},
+year = {2010},
+title = {Information Asymmetry Determinants of Sarbanes-Oxley Wealth Effects},
+journal = {Finance Management},
+volume = {31},
+pages = {1253--1272}
+}
+
+***************************************
+
+@article{AivazianGeQiu2005,
+author = {Aivazian, V., Y. Ge, and J. Qiu},
+year = {2005},
+title = {Can Corporatization Improve the Performance of State-owned Enterprises even without Privatization},
+journal = {Journal of Corporate Finance},
+volume = {11},
+pages = {791--808}
+}
+
+***************************************
+
+@article{AltamuroBeatty2010,
+author = {Altamuro, J., and A. Beatty},
+year = {2010},
+title = {How Does Internal Control Regulation Affect Financial Reporting},
+journal = {Journal of Accounting and Economics},
+volume = {49},
+pages = {58--74}
+}
+
+***************************************
+
+@article{AltamuroBeattyWeber2005,
+author = {Altamuro, J., A. Beatty, and J. Weber},
+year = {2005},
+title = {The Effects of Accelerated Revenue Recognition on Earnings Management and Earnings Informativeness: Evidence from SEC Staff Accounting Bulletin No. 101},
+journal = {Accounting Review},
+volume = {80},
+pages = {373--401}
+}
+
+***************************************
+
+@article{AltonjiElderTaber2005,
+author = {Altonji, J., T. Elder, and C. Taber},
+year = {2005},
+title = {Selection on Observed and Unobserved Variables: Assessing the Effectiveness of Catholic Schools},
+journal = {Journal of Political Economy},
+volume = {113},
+pages = {151--184}
+}
+
+***************************************
+
+@article{AngristEvans1998,
+author = {Angrist, J., and W. Evans},
+year = {1998},
+title = {Children and Their Parents' Labor Supply: Evidence from Exogenous Variation in Family Size},
+journal = {American Economic Review},
+volume = {88},
+pages = {450--477}
+}
+
+***************************************
+
+@article{AngristImbensRubin1996,
+author = {Angrist, J., G. Imbens, and D. Rubin},
+year = {1996},
+title = {Identification of Causal Effects Using Instrumental Variables},
+journal = {Journal of the American Statistical Association},
+volume = {91},
+pages = {444--455}
+}
+
+***************************************
+
+@article{AngristPischke2009,
+author = {Angrist, J., and J-S. Pischke},
+year = {2009},
+title = {Mostly Harmless Econometrics: An Empiricist's Companion}
+}
+
+***************************************
+
+@article{ArmstrongJagolinzerLarcker2010,
+author = {Armstrong, C., A. Jagolinzer, and D. Larcker},
+year = {2010},
+title = {Chief Executive Officer Equity Incentives and Accounting Irregularities},
+journal = {Journal of Accounting Research},
+volume = {48},
+pages = {225--271}
+}
+
+***************************************
+
+@article{AtanasovBlackCiccotelloGyoshev2010,
+author = {Atanasov, V., B. Black, C. Ciccotello, and S. Gyoshev},
+year = {2010},
+title = {How Does Law Affect Finance? An Examination of Equity Tunneling in Bulgaria},
+journal = {Journal of Financial Economics},
+volume = {96},
+pages = {155--173}
+}
+
+***************************************
+
+Atanasov, V., and B. Black. 2016a.journal = {Database of Shocks Used in Corporate Finance and Accounting Research},
+publisher = {working paper, at http://ssrn.com/abstract=2227717.}
+}
+
+***************************************
+
+Atanasov, V., and B. Black. 2016b.journal = {The Trouble with Instruments: Re-examining Shock-Based IV Designs},
+publisher = {working paper, at http://ssrn.com/abstract=2417689.}
+}
+
+***************************************
+
+@article{AtanasovIvanovLitvak2012,
+author = {Atanasov, V., V. Ivanov, and K. Litvak},
+year = {2012},
+title = {Does Reputation Limit Opportunistic Behavior in the VC Industry: Evidence from Litigation against VDs},
+journal = {Journal of Finance},
+volume = {67},
+pages = {2215--2246}
+}
+
+***************************************
+
+@article{AutorD2003,
+author = {Autor, D},
+year = {2003},
+title = {Outsourcing at Will: The Contribution of Unjust Dismissal Doctrine to the Growth of Employment Outsourcing},
+journal = {Journal of Labor Economics},
+volume = {21},
+pages = {1--42}
+}
+
+***************************************
+
+@article{BaeGoyal2010,
+author = {Bae, K. and V. Goyal},
+year = {2010},
+title = {Equity Market Liberalization and Corporate Governance},
+journal = {Journal of Corporate Finance},
+pages = {609--621}
+}
+
+***************************************
+
+@article{BaekKangPark2004,
+author = {Baek, J., J. Kang, and K. Park},
+year = {2004},
+title = {Corporate governance and firm value: evidence from the Korean financial crisis},
+journal = {Journal of Financial Economics},
+pages = {265--313}
+}
+
+***************************************
+
+@article{BakkeWhited2012,
+author = {Bakke, T., and T. Whited},
+year = {2012},
+title = {Threshold Events and Identification: A Study of Cash Shortfalls},
+journal = {Journal of Finance},
+volume = {67},
+ 1083-1111
+***************************************
+
+@article{BargeronLehnZutter2010,
+author = {Bargeron, L., K. Lehn, and C. Zutter},
+year = {2010},
+title = {Sarbanes-Oxley and Corporate Risk-Taking},
+journal = {Journal of Accounting and Economics},
+volume = {49},
+pages = {34--52}
+}
+
+***************************************
+
+Battalio, R., B. Hatch, and T. Loughran, 2011.title = { Who benefited from the disclosure mandates of the 1964 Securities Act Amendments},
+journal = {Journal of Corporate Finance},
+volume = {17},
+pages = {1047--1063}
+}
+
+***************************************
+
+@article{BennedsenNielssenPerez-GonzalezWolfenzon2007,
+author = {Bennedsen, M., K. Nielssen, F. Perez-Gonzalez, and D. Wolfenzon},
+year = {2007},
+title = {Inside the Family Firm: The Role of Families in Succession Decisions and Performance},
+journal = {Quarterly Journal of Economics},
+volume = {122},
+pages = {647--691}
+}
+
+***************************************
+
+@book{BergerButlerHuZekhnini2014,
+author = {Berger, E., A. Butler, E. Hu, and M. Zekhnini},
+year = {2014},
+journal = {Credit Be Dammed: The Impact of Banking Deregulation on Economic Growth},
+publisher = {Working paper, at http://ssrn.com/abstract=2139679.}
+}
+
+***************************************
+
+Berkman, H., R. Cole, and L. Fu.title = {Political Connections and Minority-Shareholder, Protection: Evidence from Securities-Market Regulation in China},
+journal = {Journal of Financial and Quantitative Analysis},
+pages = {1391--1417}
+}
+
+***************************************
+
+@article{BertrandDufloMullainathan2004,
+author = {Bertrand, M., E. Duflo, and S. Mullainathan},
+year = {2004},
+title = {How Much Should We Trust Differences-in-Differences Estimates},
+journal = {Quarterly Journal of Economics},
+volume = {119},
+pages = {249--75}
+}
+
+***************************************
+
+@article{BertrandMullainathan2003,
+author = {Bertrand, M., and S. Mullainathan},
+year = {2003},
+title = {Enjoying the Quiet Life? Corporate Governance and Managerial Preferences},
+journal = {Journal of Political Economy},
+volume = {111},
+pages = {1043--1075}
+}
+
+***************************************
+
+@article{BesleyCase2000,
+author = {Besley, T., and A. Case},
+year = {2000},
+title = {Unnatural Experiments? Estimating the Incidence of Endogenous Policies},
+journal = {Economic Journal},
+volume = {110},
+ F672-F694.
+***************************************
+
+Bhagat, S., and R. Romano. 2002a.title = {Event Studies and the Law: Part I -- Technique and Corporate Litigation},
+journal = {American Law and Economics Review},
+volume = {4},
+pages = {141--167}
+}
+
+***************************************
+
+Bhagat, S., and R. Romano. 2002b.title = {Event Studies and the Law: Part II -- Empirical Studies of Corporate Law},
+journal = {American Law and Economics Review},
+volume = {4},
+pages = {380--423}
+}
+
+***************************************
+
+@article{BlackdeCarvalhoKhannaKimYurtoglu2014,
+author = {Black, B., A. de Carvalho, V. Khanna, W. Kim and B. Yurtoglu},
+year = {2014},
+title = {Methods for Multicountry Studies of Corporate Governance and Evidence from the BRIKT Countries},
+journal = {Journal of Econometrics},
+volume = {183},
+pages = {230--240}
+}
+
+***************************************
+
+@article{BlackJangKim2006,
+author = {Black, B., H. Jang, and W. Kim},
+year = {2006},
+title = {Does Corporate Governance Affect Firms' Market Values? Evidence from Korea},
+journal = {Journal of Law, Economics and Organization},
+volume = {22},
+pages = {366--413}
+}
+
+***************************************
+
+@article{BlackKim2012,
+author = {Black, B., and W. Kim},
+year = {2012},
+title = {The Effect of Board Structure on Firm Value:~ A Multiple Identification Strategy Approach Using Korean Data},
+journal = {Journal of Financial Economics},
+volume = {103},
+pages = {203--226}
+}
+
+***************************************
+
+@book{BlackKimJangPark2013,
+author = {Black, B., W. Kim, H. Jang, and K. Park},
+year = {2013},
+journal = {How Corporate Governance Affects Firm Value: Evidence from Korea on a Related Party Transactions Channel},
+publisher = {working paper, at http://ssrn.com/abstract=844744.}
+}
+
+***************************************
+
+@article{BlackKhanna2007,
+author = {Black, B. and V. Khanna},
+year = {2007},
+title = {Can Corporate Governance Reforms Increase Firm Market Values? Event Study Evidence from India},
+journal = {Journal of Empirical Legal Studies},
+volume = {4},
+pages = {749--796}
+}
+
+***************************************
+
+@book{BowenFresardTaillard2015,
+author = {Bowen, D., L. Fresard, and J. Taillard},
+year = {2015},
+journal = {What's Your Identification Strategy? Innovation in Corporate Finance Research},
+publisher = {working paper, at http://ssrn.com/abstract=2378460.}
+}
+
+***************************************
+
+@article{BrochetF2010,
+author = {Brochet, F},
+year = {2010},
+title = {Information Content of Insider Trades before and after the Sarbanes-Oxley Act},
+journal = {The Accounting Review},
+volume = {85},
+pages = {419--446}
+}
+
+***************************************
+
+@article{BroughmanFried2010,
+author = {Broughman, B., and J. Fried},
+year = {2010},
+title = {Renegotiation of Cash Flow Rights in the Sale of VC-backed Firms},
+journal = {Journal of Financial Economics},
+volume = {95},
+pages = {384--399}
+}
+
+***************************************
+
+Brown, J., N. Liang, and S. Weisbenner.title = {Executive Financial Incentives and Payout Policy: Firm Responses to the 2003 Dividend Tax Cut},
+journal = {Journal of Finance},
+volume = {62},
+pages = {1935--1965}
+}
+
+***************************************
+
+@article{BrownBeekesVerhoeven2011,
+author = {Brown, P., W. Beekes, and P. Verhoeven},
+year = {2011},
+title = {Corporate Governance, Accounting and Finance: A Review},
+journal = {Accounting and Finance},
+volume = {51},
+pages = {96--172}
+}
+
+***************************************
+
+@article{BussoDiNardoMcCrary2014,
+author = {Busso, M., J. DiNardo, and J. McCrary},
+year = {2014},
+title = {New Evidence on the Finite Sample Properties of Propensity Score Reweighting and Matching Estimators},
+journal = {Review of Economics and Statistics},
+volume = {96},
+pages = {885--897}
+}
+
+***************************************
+
+@article{ByardLiYi2011,
+author = {Byard, D., Y. Li, and Y. Yi},
+year = {2011},
+title = {The Effect of Mandatory IFRS Adoption on Financial Analysts' Information Environment},
+ No. 1journal = {Journal of Accounting Research},
+volume = {49},
+pages = {69--96}
+}
+
+***************************************
+
+@article{CameronGelbachMiller2008,
+author = {Cameron, C., J. Gelbach, and D. Miller},
+year = {2008},
+title = {Bootstrap-Based Improvements for Inference with Clustered Errors},
+journal = {Review of Economics and Statistics},
+volume = {90},
+pages = {414--427}
+}
+
+***************************************
+
+@article{CameronGelbachMiller2011,
+author = {Cameron, C., J. Gelbach, and D. Miller},
+year = {2011},
+title = {Robust Inference with Multiway Clustering},
+journal = {Journal of Business and Economic Statistics},
+volume = {29},
+pages = {238--249}
+}
+
+***************************************
+
+@book{CatanKahan2015,
+author = {Catan, E., and M. Kahan},
+year = {2015},
+journal = {The Law and Finance of Anti-Takeover Statutes},
+publisher = {working paper, at http://ssrn.com/abstract=2517594.}
+}
+
+***************************************
+
+@article{ChangChenLiao2006,
+author = {Chang, H., J. Chen, W. Liao},
+year = {2006},
+title = {Birendra K. Mishra, CEOs'/CFOs' Swearing by the Numbers: Does It Impact Share Price of the Firm},
+journal = {The Accounting Review},
+volume = {81},
+pages = {1--27}
+}
+
+***************************************
+
+@article{CarvalhaldaSilvaSubrahmanyam2007,
+author = {Carvalhal da Silva, A., and A. Subrahmanyam},
+year = {2007},
+title = {Dual-class Premium, Corporate Governance, and the Mandatory Bid Rule: Evidence from the Brazilian Stock Market},
+journal = {Journal of Corporate Finance},
+volume = {13},
+pages = {1--24}
+}
+
+***************************************
+
+@article{ChavaPurnanandam2010,
+author = {Chava, S., and A. Purnanandam},
+year = {2010},
+title = {CEOs versus CFOs: Incentives and corporate policies},
+journal = {Journal of Financial Economics},
+volume = {97},
+pages = {263--278}
+}
+
+***************************************
+
+@article{ChenChouChou2009,
+author = {Chen, S., R. Chou, and S. Chou},
+year = {2009},
+title = {The Impact of Investment Opportunities and Free Cash Flow on Financial Liberalization: A Cross-Firm Analysis of Emerging Economies},
+journal = {Financial Management},
+pages = {543--566}
+}
+
+***************************************
+
+@article{ChengFarber2008,
+author = {Cheng, Q., and D. Farber},
+year = {2008},
+title = {Earnings Restatements, Changes in CEO Compensation, and Firm Performance},
+journal = {The Accounting Review},
+volume = {83},
+ 1217-1250
+***************************************
+
+@article{ChettySaez2005,
+author = {Chetty, R., and E. Saez},
+year = {2005},
+title = {Dividend Taxes and Corporate Behavior: Evidence from the 2003 Dividend Tax Cut},
+journal = {Quarterly Journal of Economics},
+volume = {120},
+pages = {791--833}
+}
+
+***************************************
+
+@article{ChhaochhariaGrinstein2007,
+author = {Chhaochharia, V., and Y. Grinstein},
+year = {2007},
+title = {Corporate Governance and Firm Value: The Impact of the 2002 Governance Rules},
+journal = {Journal of Finance},
+volume = {62},
+pages = {1789--1825}
+}
+
+***************************************
+
+@article{ChhaochhariaGrinstein2009,
+author = {Chhaochharia, V., and Y. Grinstein},
+year = {2009},
+title = {CEO Compensation and Board Structure},
+journal = {Journal of Finance},
+volume = {64},
+pages = {231--261}
+}
+
+***************************************
+
+@article{ChoiParkYoo,2007,
+author = {Choi, J., S. Park, and S. Yoo,},
+year = {2007},
+title = {The Value of Outside Directors: Evidence from Corporate Governance Reform in Korea},
+journal = {Journal of Financial and Quantitative Analysis},
+volume = {42},
+pages = {941--962}
+}
+
+***************************************
+
+@article{CiceroD2009,
+author = {Cicero, D},
+year = {2009},
+title = {The Manipulation of Executive Stock Option Exercise Strategies: Information Timing and Backdating},
+journal = {Journal of Finance},
+volume = {64},
+pages = {2627--2663}
+}
+
+***************************************
+
+@book{ClaessensYurtoglu2012,
+author = {Claessens, S., and B. Yurtoglu},
+year = {2012},
+journal = {Corporate Governance in Emerging Markets: A Survey},
+publisher = {working paper, at http://ssrn.com/abstract=1988880.}
+}
+
+***************************************
+
+@article{CoatesJ2000,
+author = {Coates, J},
+year = {2000},
+title = {Takeover Defenses in the Shadow of the Pill: A Critique of the Scientific Evidence},
+journal = {Texas Law Review},
+volume = {79},
+pages = {271--382}
+}
+
+***************************************
+
+@article{CochranW1965,
+author = {Cochran, W},
+year = {1965},
+title = {The Planning of Observational Studies of Human Populations (with discussion)},
+journal = {Journal of the Royal Statistical Society A},
+volume = {128},
+pages = {234--265}
+}
+
+***************************************
+
+@article{ConleyHansenRossi2012,
+author = {Conley, T., C. Hansen, and P. Rossi},
+year = {2012},
+title = {Plausibly Exogenous},
+journal = {Review of Economics and},
+ Statisticsvolume = {94},
+pages = {260--272}
+}
+
+***************************************
+
+@article{ConleyTaber2011,
+author = {Conley, T., and C. Taber},
+year = {2011},
+title = {Inference with ``Difference in Differences'' with a Small Number of Policy Changes},
+journal = {Review of Economics and Statistics},
+volume = {93},
+pages = {113--125}
+}
+
+***************************************
+
+@book{CremersFerrell2014,
+author = {Cremers, M., and A. Ferrell},
+year = {2014},
+journal = {Thirty Years of Shareholder Rights and Firm Valuation},
+publisher = {\textit{Journal of Finance} (forthcoming), working paper at http://ssrn.com/abstract=1413133.}
+}
+
+***************************************
+
+@book{CrumpHotzImbensMitnik2009,
+author = {Crump, R., V. Hotz, G. Imbens, and O. Mitnik},
+year = {2009},
+ ``Dealing with Limited Overlap in Estimation of Average Treatment Effects''journal = {Biometrika},
+publisher =volume = {96},
+ 187-199
+}
+
+***************************************
+
+@article{DahyaMcConnellTravlos2002,
+author = {Dahya, J., J. McConnell, and N. Travlos},
+year = {2002},
+title = {The Cadbury Committee, Corporate Performance, and Top Management Turnover},
+journal = {Journal of Finance},
+volume = {57},
+pages = {461--483}
+}
+
+***************************************
+
+@article{DahyaMcConnell2007,
+author = {Dahya, J., and J. McConnell},
+year = {2007},
+title = {Board Composition, Corporate Performance, and the Cadbury Committee Recommendation},
+journal = {Journal of Financial and Quantitative Analysis},
+volume = {42},
+pages = {535--564}
+}
+
+***************************************
+
+@article{DaskeHailLeuzVerdi2008,
+author = {Daske, H., L. Hail, C. Leuz, and R. Verdi},
+year = {2008},
+title = {Mandatory IFRS Reporting around the World: Early Evidence on the Economic Consequences},
+journal = {Journal of Accounting Research},
+,volume = {46},
+pages = {1085--1141}
+}
+
+***************************************
+
+@article{DeJongDeJongMertensaWasleyc2005,
+author = {De Jong, A., D. DeJong, G. Mertensa, and C. Wasleyc},
+year = {2005},
+title = {The Role of Self-Regulation in Corporate Governance: Evidence and Implications from the Netherlands},
+journal = {Journal of Finance},
+volume = {11},
+pages = {473--503}
+}
+
+***************************************
+
+@article{DeFondHuHungLi2011,
+author = {DeFond, M., X. Hu, M. Hung, and S. Li},
+year = {2011},
+title = {The Impact of Mandatory IFRS Adoption on Foreign Mutual Fund Ownership: The Role of Comparability},
+journal = {Journal of Accounting and Economics},
+volume = {51},
+pages = {240--258}
+}
+
+***************************************
+
+@article{Demirguc-KuntLoveMaksimovic2006,
+author = {Demirguc-Kunt, A., I. Love, and V. Maksimovic},
+year = {2006},
+title = {Business Environment and the Incorporation Decision},
+journal = {Journal of Banking and Finance},
+volume = {30},
+pages = {2967--2993}
+}
+
+***************************************
+
+@article{DesaiDharmapala2009,
+author = {Desai, M., and D. Dharmapala},
+year = {2009},
+title = {Corporate Tax Avoidance and Firm Value},
+journal = {Review of Economics and Statistics},
+volume = {91},
+pages = {537--546}
+}
+
+***************************************
+
+@article{DharmapalaFoleyForbes2011,
+author = {Dharmapala, D., F. Foley, and K. Forbes},
+year = {2011},
+title = {Watch What I Do, Not What I Say},
+ The Unintended Consequences of the Homeland Investment Act.''journal = {Journal of Finance},
+volume = {66},
+pages = {753--787}
+}
+
+***************************************
+
+@article{DharmapalaKhanna2013,
+author = {Dharmapala, D., and V. Khanna},
+year = {2013},
+title = {Corporate Governance, Enforcement, and Firm Value: Evidence from India},
+journal = {Journal of Law, Economics and Organization},
+volume = {29},
+pages = {1056--1082}
+}
+
+***************************************
+
+@article{DincS2005,
+author = {Dinc, S},
+year = {2005},
+title = {Politicians and Banks: Political Influences on Government-Owned Banks in Emerging Markets},
+journal = {Journal of Financial Economics},
+volume = {77},
+pages = {453--479}
+}
+
+***************************************
+
+@article{DoidgeKarolyiStulz2009,
+author = {Doidge, C., G. Karolyi, and R. Stulz},
+year = {2009},
+title = {Has New York Become Less Competitive than London in Global Markets? Evaluating Foreign Listing Choices Over Time},
+journal = {Journal of Financial Economics},
+volume = {91},
+pages = {253--277}
+}
+
+***************************************
+
+@article{DoidgeKarolyiStulz2010,
+author = {Doidge, C., G. Karolyi, and R. Stulz},
+year = {2010},
+title = {Why Do Foreign Firms Leave U.S. Equity Markets},
+journal = {Journal of Finance},
+volume = {65},
+pages = {1507--1553}
+}
+
+***************************************
+
+@article{DuchinMatsusakaOzbas2010,
+author = {Duchin, R., J. Matsusaka, and O. Ozbas},
+year = {2010},
+title = {When Are Outside Directors Effective},
+journal = {Journal of Financial Economics},
+volume = {95},
+pages = {195--214}
+}
+
+***************************************
+
+@book{DunningT2012,
+author = {Dunning, T},
+year = {2012},
+ ``Natural Experiments in the Social Sciences: A Design-Based Approach (Cambridge Univ. Press).''
+***************************************
+
+@book{DufloHannaRyan2010,
+author = {Duflo, E., R. Hanna, and S. Ryan},
+year = {2010},
+journal = {Incentives Work: Getting Teachers to Come to School},
+publisher = {working paper.}
+}
+
+***************************************
+
+@article{EngelHayesWang2010,
+author = {Engel, E., R. Hayes, and X. Wang},
+year = {2010},
+title = {Audit Committee Compensation and the Demand for Monitoring of the Financial Reporting Process},
+journal = {Journal of Accounting and Economics},
+volume = {49},
+pages = {136--154}
+}
+
+***************************************
+
+@article{EngelHayesWang2007,
+author = {Engel, E., R. Hayes, and X. Wang},
+year = {2007},
+title = {The Sarbanes--Oxley Act and Firms' Going-Private Decisions},
+journal = {Journal of Accounting and Economics},
+volume = {44},
+pages = {116--145}
+}
+
+***************************************
+
+@article{FaccioParsley2009,
+author = {Faccio, M. and D. Parsley},
+year = {2009},
+title = {Sudden Deaths: Taking Stock of Geographic Ties},
+journal = {Journal of},
+ journal = {Journal of},
+volume = {44},
+pages = {683--718}
+}
+
+***************************************
+
+@article{FahlenbrachLowStulz2010,
+author = {Fahlenbrach, R., A. Low, and R. Stulz},
+year = {2010},
+title = {Why Do Firms Appoint CEOs as Outside Directors},
+journal = {Journal of Financial Economics},
+volume = {97},
+pages = {12--32}
+}
+
+***************************************
+
+@article{FamaFisherJensenRoll1969,
+author = {Fama, E., L. Fisher, M. Jensen, and R. Roll},
+year = {1969},
+title = {The Adjustment of Stock Prices to New Information},
+journal = {International Economic Review},
+volume = {10},
+pages = {1--21}
+}
+
+***************************************
+
+@article{FernandesLelMiller2010,
+author = {Fernandes, N., U. Lel, and D. Miller},
+year = {2010},
+title = {Escape from New York: The market impact of loosening disclosure requirements},
+journal = {Journal of Financial Economics},
+volume = {95},
+pages = {129--147}
+}
+
+***************************************
+
+@article{FichShivdasani2007,
+author = {Fich, E., and A. Shivdasani},
+year = {2007},
+title = {Financial fraud, director reputation, and shareholder wealth},
+journal = {Journal of Financial Economics},
+volume = {86},
+pages = {306--336}
+}
+
+***************************************
+
+@article{FrancisHasanJohnSong2011,
+author = {Francis, B., I. Hasan, K. John, and L. Song},
+year = {2011},
+title = {Corporate Governance and Dividend Payout Policy: A Test Using Antitakeover Legislation},
+journal = {Financial Management},
+,volume = {37},
+ 83-112
+***************************************
+
+@article{FrancisHasanJohnWaisman2010,
+author = {Francis, B., I. Hasan, K. John, and M. Waisman},
+year = {2010},
+title = {The Effect of State Antitakeover Laws on the Firm's Bond Holders},
+journal = {Journal of Financial Economics},
+volume = {96},
+pages = {127--154}
+}
+
+***************************************
+
+@article{FrangakisRubin2002,
+author = {Frangakis, C., and D. Rubin},
+year = {2002},
+title = {Principal Stratification in Causal Inference},
+journal = {Biometrics},
+volume = {58},
+pages = {21--29}
+}
+
+***************************************
+
+@article{FrenchRoll1986,
+author = {French, K., and R. Roll},
+year = {1986},
+title = {Stock Return Variances: The Arrival of Information and the Reaction of Traders},
+journal = {Journal of Financial Economics},
+volume = {17},
+pages = {5--26}
+}
+
+***************************************
+
+@article{FrumentoMealliPaciniRubin2012,
+author = {Frumento, P., F. Mealli, B. Pacini, and D. Rubin},
+year = {2012},
+title = {Evaluating the Effect of Training on Wages in the Presence of Noncompliance, Nonemployment, and Missing Outcome Data},
+journal = {Journal of the American Statistical Association},
+volume = {107},
+pages = {450--466}
+}
+
+***************************************
+
+@book{GagnonKarolyi2012,
+author = {Gagnon, L., and G. Karolyi},
+year = {2012},
+journal = {The Economic Consequences of the U.S. Supreme Court's \textit{Morrison v. National Australia Bank} Decision for Foreign Stocks Cross-Listed in U.S. Markets},
+publisher = {working paper, at http://ssrn.com/abstract=1961178.}
+}
+
+***************************************
+
+@book{GalianiaMurphyPantano2012,
+author = {Galiania, S., A. Murphy, and J. Pantano},
+year = {2012},
+journal = {Estimating Neighborhood Choice Models: Lessons from the Moving to Opportunity Experiment},
+publisher = {working paper, at http://ssrn.com/abstract=2015474.}
+}
+
+***************************************
+
+@article{GaoWuZimmerman2009,
+author = {Gao, F., J. Wu, and J. Zimmerman},
+year = {2009},
+title = {Unintended Consequences of Granting Small Firms Exemptions from Securities Regulation: Evidence from the Sarbanes-Oxley Act},
+journal = {Journal of Accounting Research},
+volume = {47},
+pages = {459--506}
+}
+
+***************************************
+
+@article{GassenJ2014,
+author = {Gassen, J},
+year = {2014},
+title = {Causal Inference in Empirical Archival Financial Accounting Research},
+journal = {Accounting, Organizations and Society},
+volume = {39},
+pages = {535--544}
+}
+
+***************************************
+
+@article{GelbachHellandKlick2013,
+author = {Gelbach, J., E. Helland, and J. Klick},
+year = {2013},
+title = {Valid Inference in Single-Firm, Single-Event Studies},
+journal = {American Law and Economics Review},
+volume = {15},
+pages = {495--541}
+}
+
+***************************************
+
+@book{GerberGreen2012,
+author = {Gerber, A., and D. Green},
+year = {2012},
+ \textit{Field Experiments: Design, Analysis and Interpretation}.
+***************************************
+
+@article{GhoshHardingPhani2008,
+author = {Ghosh, C., J. Harding, and B. Phani},
+year = {2008},
+title = {Does Liberalization Reduce Agency Costs? Evidence from the Indian Banking Sector},
+journal = {Journal of Banking and Finance},
+volume = {32},
+pages = {405--419}
+}
+
+***************************************
+
+@article{GiannettiLaeven2009,
+author = {Giannetti, M., and L. Laeven},
+year = {2009},
+title = {Pension Reform, Ownership Structure and Corporate Governance: Evidence from a Natural Experiment},
+journal = {Review of Financial Studies},
+volume = {22},
+pages = {4092--4127}
+}
+
+***************************************
+
+@book{GilsonBlack1995,
+author = {Gilson, R., and B. Black},
+year = {1995},
+ \textit{The Law and Finance of Corporate Acquisitions}, second edition.
+***************************************
+
+@article{GippelSmithYZhu2015,
+author = {Gippel, J., T. Smith, and Y Zhu},
+year = {2015},
+title = {Endogeneity in Accounting and Finance Research: Natural Experiments as a State-of-the-Art Solution},
+journal = {Abacus},
+volume = {51},
+pages = {143--168}
+}
+
+***************************************
+
+@article{GiroudMueller2010,
+author = {Giroud, X., and H. Mueller},
+year = {2010},
+title = {Does Corporate Governance Matter in Competitive Industries},
+journal = {Journal of Financial Economics},
+ (2010)volume = {95},
+pages = {312--331}
+}
+
+***************************************
+
+@article{GlaeserLaPortaLopez-de-SilanesShleifer2010,
+author = {Glaeser, E., R. La Porta, F. Lopez-de-Silanes, and A. Shleifer},
+year = {2010},
+title = {Do Institutions Cause Growth},
+journal = {Journal of Economic Growth},
+volume = {9},
+pages = {271--303}
+}
+
+***************************************
+
+@book{GlaeserE2008,
+author = {Glaeser, E},
+year = {2008},
+journal = {Research Incentives and Empirical Methods, in Andrew Caplin and Andrew Schotter, eds},
+publisher = {\textit{The Foundations of Positive and Normative Economics} (Oxford Univ. Press), at 300-319 (working paper at http://ssrn.com/abstract=934557).}
+}
+
+***************************************
+
+@article{GoldmanRochollSo2009,
+author = {Goldman, E., J. Rocholl, and J. So},
+year = {2009},
+title = {Do Politically Connected Boards Affect Firm Value},
+journal = {Review of Financial Studies},
+volume = {22},
+pages = {2331--2360}
+}
+
+***************************************
+
+@article{GomesGortonMadureira2007,
+author = {Gomes, A., G. Gorton, and L. Madureira},
+year = {2007},
+title = {SEC Regulation Fair Disclosure, Information, and the Cost of Capital},
+journal = {Journal of Corporate Finance},
+volume = {113},
+pages = {300--334}
+}
+
+***************************************
+
+@article{GompersIshiiMetrick2003,
+author = {Gompers, P., J. Ishii, and A. Metrick},
+year = {2003},
+title = {Corporate Governance and Equity Prices},
+journal = {Quarterly Journal of Economics},
+volume = {118},
+pages = {107--155}
+}
+
+***************************************
+
+@article{GreenstoneOyerVissing-Jorgensen2006,
+author = {Greenstone, M., P. Oyer, and A. Vissing-Jorgensen},
+year = {2006},
+title = {Mandated Disclosure, Stock Returns, and the 1964 Securities Acts Amendments},
+journal = {Quarterly Journal of Economics},
+volume = {121},
+pages = {399--460}
+}
+
+***************************************
+
+@book{GrullonMichenaudWeston2012,
+author = {Grullon, G., S. Michenaud, and J. Weston},
+year = {2012},
+journal = {The Real Effects of Stock Market Prices},
+publisher = {working paper, at http://ssrn.com/abstract=1959615.}
+}
+
+***************************************
+
+@article{GunerMalmendierTate2008,
+author = {Guner, B., U. Malmendier, and J. Tate},
+year = {2008},
+title = {Financial Expertise of Directors},
+journal = {Journal of Financial Economics},
+volume = {88},
+pages = {323--354}
+}
+
+***************************************
+
+@article{HailLeuz2009,
+author = {Hail, L., and C. Leuz},
+year = {2009},
+title = {Cost of Capital Effects and Changes in Growth Expectations around U.S. Cross-Listings},
+journal = {Journal of Financial Economics},
+volume = {93},
+pages = {428--454}
+}
+
+***************************************
+
+@book{HarveyLiuZhu2013,
+author = {Harvey, C., Y. Liu, and H. Zhu},
+year = {2013},
+ .journal = {. . and the Cross-Section of Expected Returns},
+publisher = {working paper, at http://ssrn.com/abstract=2249314.}
+}
+
+***************************************
+
+@article{HeckmanIchimuraTodd1997,
+author = {Heckman, J., H. Ichimura, and P. Todd},
+year = {1997},
+title = {Matching as an Econometric Evaluation Estimator: Evidence from Evaluating a Job Training Programme},
+journal = {Review of Economic Studies},
+volume = {64},
+pages = {605--654}
+}
+
+***************************************
+
+@book{HennessyStrebulaev2015,
+author = {Hennessy, C. A., and I. A. Strebulaev},
+year = {2015},
+journal = {Beyond Random Assignment: Credible Inference of Causal Effects in Dynamic Economies},
+publisher = {Working paper, at http://ssrn.com/abstract=2564828.}
+}
+
+***************************************
+
+@article{HeronRandallEricLie2015,
+author = {Heron, Randall, and Eric Lie},
+year = {2015},
+title = {The Effect of Poison Pill Adoptions and Court Rulings on Firm Entrenchment},
+journal = {Journal of Corporate Finance},
+, forthcoming.
+***************************************
+
+@article{HiranoImbens2004,
+author = {Hirano, K., and G. Imbens},
+year = {2004},
+title = {The Propensity Score with Continuous Treatments, in Andrew Gelman and X.-L. Meng eds},
+journal = {Applied Bayesian Modeling and Causal Inference from Incomplete-Data Perspectives},
+pages = {73--84}
+}
+
+***************************************
+
+@article{HoImai2005,
+author = {Ho, D., and K. Imai},
+year = {2005},
+title = {Randomization Inference with Natural Experiments: An Analysis of Ballot Effects in the 2003 California Recall Election},
+journal = {Journal of the American Statistical Association},
+volume = {101},
+pages = {888--900}
+}
+
+***************************************
+
+@article{HochbergLindsey2010,
+author = {Hochberg, Y., and L. Lindsey},
+year = {2010},
+title = {Incentives, Targeting and Firm Performance: An Analysis of Non-executive Stock Options},
+journal = {Review of Financial Studies},
+volume = {23},
+pages = {4148--4186}
+}
+
+***************************************
+
+@article{HochbergSapienzaVissing-Jorgensen2009,
+author = {Hochberg, Y., P. Sapienza, and A. Vissing-Jorgensen},
+year = {2009},
+title = {A Lobbying Approach to Evaluating the Sarbanes-Oxley Act of 2002},
+journal = {Journal of Accounting Research},
+volume = {47},
+pages = {519--583}
+}
+
+***************************************
+
+@article{HolgerHailLeuz2008,
+author = {Holger, D., L. Hail, and C. Leuz},
+year = {2008},
+title = {Mandatory IFRS Reporting around the World: Early Evidence on the Economic Consequences},
+journal = {Journal of Accounting Research},
+volume = {46},
+pages = {1085--1142}
+}
+
+***************************************
+
+@article{HollandP1986,
+author = {Holland, P},
+year = {1986},
+title = {Statistics and Causal Inference},
+journal = {Journal of the American Statistical Association},
+volume = {81},
+pages = {945--960}
+}
+
+***************************************
+
+@article{HopeThomas2008,
+author = {Hope, O., and W. Thomas},
+year = {2008},
+title = {Managerial Empire Building and Firm Disclosure},
+journal = {Journal of Accounting Research},
+volume = {46},
+pages = {591--626}
+}
+
+***************************************
+
+@article{HosmanHansenHolland2010,
+author = {Hosman, C., B. Hansen, and P. Holland},
+year = {2010},
+title = {The Sensitivity of Linear Regression Coefficients' Confidence Limits to the Omission of a Confounder},
+journal = {Annals of Applied Statistics},
+volume = {4},
+pages = {849--870}
+}
+
+***************************************
+
+@article{HuangShenSun2011,
+author = {Huang, J., Y. Shen, and Q. Sun},
+year = {2011},
+title = {Nonnegotiable Shares, Controlling Shareholders, and Dividend Payments in China},
+journal = {Journal of Corporate Finance},
+volume = {17},
+pages = {122--133}
+}
+
+***************************************
+
+@article{IlievP2010,
+author = {Iliev, P},
+year = {2010},
+title = {The Effect of SOX Sectionvolume = {404},
+ Costs, Earnings Quality, and Stock Prices},
+journal = {Journal of Finance},
+ 65:pages = {1163--1196}
+}
+
+***************************************
+
+@article{ImaiVanDyk2004,
+author = {Imai, K., and D. Van Dyk},
+year = {2004},
+title = {Causal Inference with General Treatment Regimes: Generalizing the Propensity Score},
+journal = {Journal of the American Statistical Association},
+volume = {99},
+pages = {854--866}
+}
+
+***************************************
+
+@article{ImbensLemieux2008,
+author = {Imbens, G., and T. Lemieux},
+year = {2008},
+title = {Regression Discontinuity Designs: A Guide to Practice},
+journal = {Journal of Econometrics},
+volume = {142},
+pages = {615--635}
+}
+
+***************************************
+
+@article{ImbensRosenbaum2005,
+author = {Imbens, G., and P. Rosenbaum},
+year = {2005},
+title = {Robust, Accurate Confidence Intervals with a Weak Instrument: Quarter of Birth and Education},
+journal = {Journal of the Royal Statistical Society A},
+volume = {168},
+pages = {109--126}
+}
+
+***************************************
+
+@article{ImbensRubin2015,
+author = {Imbens, G., and D. Rubin},
+year = {2015},
+title = {Causal Inference in Statistics, Social, and Biomedical Sciences}
+}
+
+***************************************
+
+@article{ImbensWooldridge2009,
+author = {Imbens, G. W., and J. M. Wooldridge},
+year = {2009},
+title = {Recent Developments in the Econometrics of Program Evaluation},
+journal = {Journal of Economic Literature},
+volume = {47},
+ 5-86
+***************************************
+
+@article{JohnLitov2010,
+author = {John, K., and L. Litov},
+year = {2010},
+title = {Managerial Entrenchment and Capital Structure: New Evidence},
+journal = {Journal of Empirical Legal Studies},
+volume = {7},
+pages = {693--742}
+}
+
+***************************************
+
+@article{JohnsonBooneBreachFriedman2000,
+author = {Johnson, S., P. Boone, A. Breach, and E. Friedman},
+year = {2000},
+title = {Corporate Governance in the Asian Financial Crisis},
+journal = {Journal of Financial Economics},
+volume = {58},
+pages = {141--186}
+}
+
+***************************************
+
+@article{KamarKaraca-MandicTalley2008,
+author = {Kamar, E., P. Karaca-Mandic, and E. Talley},
+year = {2008},
+title = {Going-Private Decisions and the Sarbanes-Oxley Act ofvolume = {2002},
+ A Cross-Country Analysis},
+journal = {Journal of Law, Economics, and Organization},
+ 25:pages = {107--133}
+}
+
+***************************************
+
+@book{KarpoffWittry2015,
+author = {Karpoff, J. M., and M. D. Wittry},
+year = {2015},
+journal = {Test identification with legal changes: The case of state antitakeover laws},
+publisher = {Working paper, at http://ssrn.com/abstract=2493913.}
+}
+
+***************************************
+
+@book{KeeleMorgan2013,
+author = {Keele, L., and J. Morgan},
+year = {2013},
+journal = {Stronger Instruments by Design},
+publisher = {working paper, at http://ssrn.com/abstract=2280347. \textbf{}}
+}
+
+***************************************
+
+@book{KezdiG2004,
+author = {Kezdi, G},
+year = {2004},
+ ``Robust Standard Error Estimation in Fixed-Effects Panel Models."journal = {Hungarian Statistical Review},
+publisher =volume = {9},
+ 95-116
+}
+
+***************************************
+
+@article{KinneyJr.Shepardson2011,
+author = {Kinney Jr., W., and M. Shepardson},
+year = {2011},
+title = {Do Control Effectiveness Disclosures Require SOX 404(b) Internal Control Audits? A Natural Experiment with Small U.S. Public Companies},
+journal = {Journal of Accounting Research},
+volume = {49},
+pages = {413--448}
+}
+
+***************************************
+
+@article{LaPortaLopez-de-SilanesShleifer2008,
+author = {La Porta, R., F. Lopez-de-Silanes, and A. Shleifer},
+year = {2008},
+title = {The Economic Consequences of Legal Origins},
+journal = {Journal of Economic Literature},
+volume = {46},
+pages = {285--332}
+}
+
+***************************************
+
+@article{LarckerOrmazabalTaylor2011,
+author = {Larcker, D., G. Ormazabal, and D. Taylor},
+year = {2011},
+title = {The Market Reaction to Corporate Governance Regulation},
+journal = {Journal of Financial Economics},
+volume = {101},
+pages = {431--448}
+}
+
+***************************************
+
+@article{LarckerRusticus2010,
+author = {Larcker, D., and T. Rusticus},
+year = {2010},
+title = {On the Use of Instrumental Variables in Accounting Research},
+journal = {Journal of Accounting and Economics},
+volume = {49},
+pages = {186--205}
+}
+
+***************************************
+
+@article{LeamerE1978,
+author = {Leamer, E},
+year = {1978},
+title = {Specification Searches: Ad Hoc Inference with Nonexperimental Data}
+}
+
+***************************************
+
+@article{LeeLemieux2010,
+author = {Lee, D., and T. Lemieux},
+year = {2010},
+title = {Regression Discontinuity Designs in Economics},
+journal = {Journal of Economic Literature},
+volume = {48},
+pages = {281--355}
+}
+
+***************************************
+
+@article{LeeSuhPark2009,
+author = {Lee, D. and K. Suh Park},
+year = {2009},
+title = {Does Institutional Activism Increase Shareholder Wealth? Evidence from Spillovers on Non-Target Companies},
+journal = {Journal of Corporate Finance},
+volume = {15},
+pages = {488--504}
+}
+
+***************************************
+
+@article{LemieuxMilligan2008,
+author = {Lemieux, T., and K. Milligan},
+year = {2008},
+title = {Incentive Effects of Social Assistance: A Regression Discontinuity Approach},
+journal = {Journal of Econometrics},
+volume = {142},
+pages = {807--828}
+}
+
+***************************************
+
+@article{LemmonLins2003,
+author = {Lemmon, M. and K. Lins},
+year = {2003},
+title = {Ownership Structure, Corporate Governance, and Firm Value: Evidence from the East Asian Financial Crisis},
+journal = {Journal of Finance},
+volume = {58},
+pages = {1445--1468}
+}
+
+***************************************
+
+@article{LennoxFrancisWang2012,
+author = {Lennox, C., J. Francis, and Z. Wang},
+year = {2012},
+title = {Selection Models in Accounting Research},
+journal = {The Accounting Review},
+volume = {87},
+pages = {589--616}
+}
+
+***************************************
+
+@article{LiPincusOlhoftRego2008,
+author = {Li, H., M. Pincus, and S. Olhoft Rego},
+year = {2008},
+title = {Market Reaction to Events Surrounding the Sarbanes-Oxley Act of 2002 and Earnings Management},
+journal = {Journal of Law and Economics},
+volume = {51},
+pages = {111--134}
+}
+
+***************************************
+
+@article{LinSu2008,
+author = {Lin, C., and D. Su},
+year = {2008},
+title = {Industrial Diversification, Partial Privatization, and Firm Valuation: Evidence from Publicly Listed Firms in China},
+journal = {Journal of Corporate Finance},
+volume = {14},
+pages = {405--417}
+}
+
+***************************************
+
+@article{LitvakK2007,
+author = {Litvak, K},
+year = {2007},
+title = {The Effect of the Sarbanes-Oxley Act on Non-US Companies Cross-Listed in the US},
+journal = {Journal of Corporate Finance},
+volume = {13},
+pages = {195--228}
+}
+
+***************************************
+
+@article{LitvakK2008,
+author = {Litvak, K},
+year = {2008},
+title = {Long-Term Effect of Sarbanes-Oxley on Cross-Listing Premia},
+journal = {European Financial Management},
+volume = {14},
+pages = {875--920}
+}
+
+***************************************
+
+@book{LitvakK2014,
+author = {Litvak, K},
+year = {2014},
+journal = {The Effect of Jurisdictional Competition for Corporate Charters on Financial and Accounting Measures of Firm Performance},
+publisher = {working paper, at http://ssrn.com/abstract=1990805.}
+}
+
+***************************************
+
+@article{LoK2003,
+author = {Lo, K},
+year = {2003},
+title = {Economic Consequences of Regulated Changes in Disclosure: the Case of Executive Compensation},
+journal = {Journal of Accounting and Economics},
+volume = {35},
+pages = {285--314}
+}
+
+***************************************
+
+@article{LowA2009,
+author = {Low, A},
+year = {2009},
+title = {Managerial Risk-Taking Behavior and Equity-Based Compensation},
+journal = {Journal of Financial Economics},
+volume = {92},
+pages = {470--490}
+}
+
+***************************************
+
+@article{MacKinlayA1997,
+author = {MacKinlay, A},
+year = {1997},
+title = {Event Studies in Economics and Finance},
+journal = {Journal of Economic Literature},
+volume = {35},
+pages = {13--39}
+}
+
+***************************************
+
+@book{MacKinnonGWebb2014,
+author = {MacKinnon J. G, and M. D. Webb},
+year = {2014},
+journal = {Wild Bootstrap Inference for Wildly Different Cluster Sizes},
+publisher = {working paper, at http://hdl.handle.net/10419/97471.}
+}
+
+***************************************
+
+@article{MalaniReif2015,
+author = {Malani, A., and J. Reif},
+year = {2015},
+title = {Interpreting Pre-trends as Anticipation: Impact on Estimated Treatment Effects from Tort Reform},
+journal = {Journal of Public Economics},
+ forthcoming.
+***************************************
+
+@article{MalmendierTate2009,
+author = {Malmendier, U., and G. Tate},
+year = {2009},
+title = {Superstar CEOs},
+journal = {Quarterly Journal of Economics},
+volume = {124},
+pages = {1593--1638}
+}
+
+***************************************
+
+@article{McCraryJ2008,
+author = {McCrary, J},
+year = {2008},
+title = {Manipulation of the Running Variable in the Regression Discontinuity Design: A Density Test},
+journal = {Journal of Econometrics},
+volume = {142},
+pages = {698--714}
+}
+
+***************************************
+
+@article{MengNingZhouZhu2011,
+author = {Meng, R., X. Ning, X. Zhou, and H. Zhu},
+year = {2011},
+title = {Do ESOPs Enhance Firm Performance? Evidence from China's Reform Experiment},
+journal = {Journal of Banking and Finance},
+volume = {35},
+pages = {1541--1551}
+}
+
+***************************************
+
+@article{MitchellNetter1989,
+author = {Mitchell, M., and J. Netter},
+year = {1989},
+title = {Triggering the 1987 Stock Market Crash: Antitakeover Provisions in the Proposed House Ways and Means Tax Bill},
+journal = {Journal of Financial Economics},
+volume = {24},
+pages = {37--68}
+}
+
+***************************************
+
+@article{MorckYavuzYeung2011,
+author = {Morck, R., D. Yavuz, and B. Yeung},
+year = {2011},
+title = {Banking System Control, Capital Allocation, and Economic Performance},
+journal = {Journal of Financial Economics},
+volume = {100},
+pages = {264--283}
+}
+
+***************************************
+
+@book{MorganWinship2014,
+author = {Morgan, S., and C. Winship},
+year = {2014},
+journal = {Counterfactuals and Causal Inference: Methods and Principles for Social Research},
+publisher = {second edition (Cambridge Univ. Press).}
+}
+
+***************************************
+
+@article{MulherinH2007,
+author = {Mulherin, H},
+year = {2007},
+title = {Measuring the costs and benefits of regulation: Conceptual issues in securities markets},
+journal = {Journal of Corporate Finance},
+volume = {13},
+pages = {421--437}
+}
+
+***************************************
+
+@article{MuravyevA2013,
+author = {Muravyev, A},
+year = {2013},
+title = {Investor Protection and the Value of Shares: Evidence from Statutory Rules Governing Variations of Shareholders' Class Rights in an Emerging Market},
+journal = {Journal of Law, Economics, and Organization},
+volume = {29},
+pages = {1344--1383}
+}
+
+***************************************
+
+@article{MurphySandino2010,
+author = {Murphy, K., and T. Sandino},
+year = {2010},
+title = {Executive Pay and ``Independent'' Compensation Consultants},
+journal = {Journal of Accounting and Economics},
+volume = {49},
+pages = {247--262}
+}
+
+***************************************
+
+@article{NagarNandaWysocki2003,
+author = {Nagar, V., D. Nanda, and P. Wysocki},
+year = {2003},
+title = {Discretionary Disclosure and Stock-Based Incentives},
+journal = {Journal of Accounting and Economics},
+volume = {34},
+pages = {283--309}
+}
+
+***************************************
+
+@book{NasevBlackKim2014,
+author = {Nasev, J., B. Black, and W. Kim},
+year = {2014},
+journal = {Does Corporate Governance Affect Firms' Financial Reporting and Performance? Panel Data versus Shock-Based Methods},
+publisher = {Working paper, at http://ssrn.com/abstract=2133283.}
+}
+
+***************************************
+
+@article{NenovaT2005,
+author = {Nenova, T},
+year = {2005},
+title = {Control Values and Changes in Corporate Law in Brazil},
+journal = {Latin American Business Review},
+volume = {6},
+pages = {1--37}
+}
+
+***************************************
+
+@article{NguyenNielsen2010,
+author = {Nguyen, B.D. and K.M. Nielsen},
+year = {2010},
+title = {The Value of Independent Directors: Evidence from Sudden Deaths},
+journal = {Journal of Financial Economics},
+volume = {98},
+pages = {550--567}
+}
+
+***************************************
+
+@book{OsterE2013,
+author = {Oster, E},
+year = {2013},
+journal = {Unobservable Selection and Coefficient Stability: Theory and Validation in Public Health},
+publisher = {working paper, at http://ssrn.com/abstract=2266720.\textbf{}}
+}
+
+***************************************
+
+@article{PaikBlackHyman2013,
+author = {Paik, M., B. Black, and D. Hyman},
+year = {2013},
+title = {The Receding Tide of Medical Malpractice Litigation Partvolume = {2},
+ Effect of Damage Caps},
+journal = {Journal of Empirical Legal Studies},
+ 10:pages = {639--670}
+}
+
+***************************************
+
+Paik, M., B. Black, and D.A. Hyman. 2015a.journal = {Damage Caps and the Labor Supply of Physicians: Evidence from the Third Reform Wave},
+publisher = {Working paper, at http://ssrn.com/abstract=2470370.}
+}
+
+***************************************
+
+Paik, M., B. Black, and D.A. Hyman. 2015b.journal = {Damage Caps and Defensive Medicine, Revisited},
+publisher = {Working paper, at http://ssrn.com/abstract=2110656.}
+}
+
+***************************************
+
+@article{Perez-GonzalezF2006,
+author = {Perez-Gonzalez, F},
+year = {2006},
+title = {Inherited Control and Firm Performance},
+journal = {American Economic Review},
+volume = {96},
+pages = {1559--1588}
+}
+
+***************************************
+
+@article{PetersenM2009,
+author = {Petersen, M},
+year = {2009},
+title = {Estimating Standard Errors in Finance Panel Data Sets: Comparing Approaches},
+journal = {Review of Financial Studies},
+volume = {22},
+pages = {435--480}
+}
+
+***************************************
+
+@article{QiuYu2009,
+author = {Qiu, J., and F. Yu},
+year = {2009},
+title = {The Market for Corporate Control and the Cost of Debt},
+journal = {Journal of Financial Economics},
+volume = {93},
+pages = {505--524}
+}
+
+***************************************
+
+@article{RauhJ2006,
+author = {Rauh, J},
+year = {2006},
+title = {Own Company Stock in Defined Contribution Pension Plans: A Takeover Defense},
+journal = {Journal of Financial Economics},
+volume = {81},
+pages = {379--410}
+}
+
+***************************************
+
+@article{RobertsWhited2013,
+author = {Roberts, M., and T. Whited},
+year = {2013},
+title = {Endogeneity in Empirical Corporate Finance, in George M. Constantinides, Milton Harris, and Rene M. Stulz},
+ eds.,journal = {Handbook of the Economics of Finance},
+, vol. 2A,pages = {493--572}
+}
+
+***************************************
+
+@article{RosenbaumP2009,
+author = {Rosenbaum, P},
+year = {2009},
+title = {Design of Observational Studies}
+}
+
+***************************************
+
+@article{RosenzweigWolpin2000,
+author = {Rosenzweig, M., and K. Wolpin},
+year = {2000},
+title = {Natural `Natural Experiments' in Economics},
+journal = {Journal of Economic Literature},
+volume = {38},
+pages = {827--874}
+}
+
+***************************************
+
+@article{RubinD1974,
+author = {Rubin, D},
+year = {1974},
+title = {Estimating Causal Effects of Treatments in Randomized and Nonrandomized Studies},
+journal = {Journal of Educational Psychology},
+volume = {66},
+ 688-701 (1974).
+***************************************
+
+@article{RubinD2008,
+author = {Rubin, D},
+year = {2008},
+title = {For Objective Causal Inference, Design Trumps Analysis},
+journal = {Annals of Applied Statistics},
+,volume = {2},
+pages = {808--840}
+}
+
+***************************************
+
+@article{RyanJr.WigginsIII2004,
+author = {Ryan Jr., H., and R. Wiggins III},
+year = {2004},
+title = {Who is in whose pocket? Director compensation, board independence, and barriers to effective monitoring},
+journal = {Journal of Financial Economics},
+volume = {73},
+pages = {497--524}
+}
+
+***************************************
+
+@article{SalasJ2010,
+author = {Salas, J},
+year = {2010},
+title = {Entrenchment, Governance, and the Stock Price Reaction to Sudden Executive Deaths},
+journal = {Journal Banking and Finance},
+volume = {34},
+pages = {656--666}
+}
+
+***************************************
+
+@article{ShadishCookCampbell2002,
+author = {Shadish, W., T. Cook, and D. Campbell},
+year = {2002},
+title = {Experimental and Quasi-Experimental Designs for Generalized Causal Inference}
+}
+
+***************************************
+
+@article{ShankenTamayo2012,
+author = {Shanken, J., and A. Tamayo},
+year = {2012},
+title = {Payout Yield, Risk, and Mispricing: A Bayesian Analysis},
+journal = {Journal of Financial Economics},
+volume = {105},
+pages = {131--152}
+}
+
+***************************************
+
+@article{SmallRosenbaum2008,
+author = {Small, D., and P. Rosenbaum},
+year = {2008},
+title = {War and Wages: The Strength of Instrumental Variables and their Sensitivity to Unobserved Biases},
+journal = {Journal of the American Statistical Association},
+volume = {103},
+pages = {924--933}
+}
+
+***************************************
+
+@article{SmithTodd2005,
+author = {Smith, J., and P. Todd},
+year = {2005},
+title = {Does Matching Overcome LaLonde's Critique of Nonexperimental Estimators},
+journal = {Journal of Econometrics},
+volume = {125},
+pages = {305--353}
+}
+
+***************************************
+
+@article{StockWrightYogo2002,
+author = {Stock, J., J. Wright, and M. Yogo},
+year = {2002},
+title = {A Survey of Weak Instruments and Weak Identification in Generalized Method of Moments},
+journal = {Journal of Business and Economic Statistics},
+volume = {20},
+pages = {518--529}
+}
+
+***************************************
+
+@article{StrebulaevWhited2013,
+author = {Strebulaev, I., and T. Whited},
+year = {2013},
+title = {Dynamic Models and Structural Estimation in Corporate Finance},
+journal = {Foundations and Trends in Finance},
+volume = {6},
+pages = {1--163}
+}
+
+***************************************
+
+@article{StuartYim2010,
+author = {Stuart, T., and S. Yim},
+year = {2010},
+title = {Board Interlocks and the Propensity to Be Targeted in Private Equity Transactions},
+journal = {Journal of Financial Economics},
+volume = {97},
+pages = {174--189}
+}
+
+***************************************
+
+@article{SubramanianG2004,
+author = {Subramanian, G},
+year = {2004},
+title = {The Disappearing Delaware Effect},
+journal = {Journal of Law, Economics, and Organization},
+volume = {20},
+pages = {32--59}
+}
+
+***************************************
+
+@article{ThompsonS2010,
+author = {Thompson, S},
+year = {2010},
+title = {Simple Formulas for Standard Errors that Cluster by Both Firm and Time},
+journal = {Journal of Financial Economics},
+volume = {99},
+pages = {1--10}
+}
+
+***************************************
+
+@article{WangX2010,
+author = {Wang, X},
+year = {2010},
+title = {Increased Disclosure Requirements and Corporate Governance Decisions: Evidence from Chief Financial Officers in the Pre- and Post--Sarbanes-Oxley Periods},
+journal = {Journal of},
+ journal = {Journal of},
+volume = {48},
+pages = {885--920}
+}
+
+***************************************
+
+@article{WelchI2012,
+author = {Welch, I},
+year = {2012},
+title = {A Critique of Recent Quantitative and Deep-Structure Modeling in Capital Structure Research and Beyond},
+journal = {Critical Finance Review},
+volume = {2},
+pages = {131--172}
+}
+
+***************************************
+
+@article{WintokiB2007,
+author = {Wintoki, M.B},
+year = {2007},
+title = {Corporate boards and regulation: The Effect of the Sarbanes--Oxley Act and the Exchange Listing Requirements on Firm Value},
+journal = {Journal of Corporate Finance},
+volume = {13},
+pages = {229--250}
+}
+
+***************************************
+
+@book{WooldridgeJ2010,
+author = {Wooldridge, J},
+year = {2010},
+ \textit{Econometric Analysis of Cross Section and Panel Data}, 2nd edition.
+***************************************
+
+@book{WooldridgeJ2012,
+author = {Wooldridge, J},
+year = {2012},
+journal = {Introductory Econometrics: A Modern Approach,},
+publisher = 5th edition
+}
+
+***************************************
+
+@article{YunH2008,
+author = {Yun, H},
+year = {2008},
+title = {The Choice of Corporate Liquidity and Corporate Governance},
+journal = {Review of Financial Studies},
+volume = {22},
+pages = {1447--1475}
+}
+
+***************************************
+
+@article{ZhangX2007,
+author = {Zhang, I.X},
+year = {2007},
+title = {Economic Consequences of the Sarbanes--Oxley Act of 2002},
+journal = {Journal of Accounting and Economics},
+volume = {44},
+pages = {74--115}
+}
+
+***************************************
+

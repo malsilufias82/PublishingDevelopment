@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?jobjacket cls="elsarticle" sty="els-master" mode=""?>
+<!DOCTYPE article PUBLIC "-//ES//DTD journal article DTD version 5.2.0//EN//XML" "art520.dtd" [
+<!ENTITY fx1 SYSTEM "fx1" NDATA IMAGE>
+<!ENTITY gr1 SYSTEM "gr1" NDATA IMAGE>
+<!ENTITY gr2 SYSTEM "gr2" NDATA IMAGE>
+<!ENTITY gr3 SYSTEM "gr3" NDATA IMAGE>
+<!ENTITY gr4 SYSTEM "gr4" NDATA IMAGE>
+<!ENTITY gr5 SYSTEM "gr5" NDATA IMAGE>
+<!ENTITY gr6 SYSTEM "gr6" NDATA IMAGE>
+<!ENTITY gr7 SYSTEM "gr7" NDATA IMAGE>
+]>
+<!-- Generated XML from LaTeX by PowerL2X, Build: 2.14.5, date: 2015/03/10-->
+<?xml-stylesheet type='text/xsl' href="/xmlbrowse/xsl/elsevier.xsl"?>
+<article docsubtype="sco" xmlns="http://www.elsevier.com/xml/ja/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd">
+<?articleinfo volume="000" firstpage="1" online="xxx"?>
+<?citethisarticle text="Unsupervised detection of non-iris occlusions"?>
+<item-info>
+<jid>PATREC</jid>
+<aid>6177</aid>
+<ce:pii>S0167-8655(15)00060-4</ce:pii>
+<ce:doi>10.1016/j.patrec.2015.02.012</ce:doi>
+<ce:copyright type="unknown" year="2015"/></item-info>
+<ce:floats>
+<ce:figure id="fig0001">
+<ce:label>Fig. 1</ce:label>
+<ce:caption id="cap0001"><ce:simple-para id="spara0004">Iris recognition processing pipeline.</ce:simple-para></ce:caption>
+<ce:link id="celink0001" locator="gr1"/>
+</ce:figure>
+<ce:figure id="fig0002">
+<ce:label>Fig. 2</ce:label>
+<ce:caption id="cap0002"><ce:simple-para id="spara0005">Iris detected reflections (<?delstart?>rightwards<?delend?><?insstart?>rightward<?insend?><?delstart?>-<?delend?><?insstart?>&#x02014;<?insend?>source image, blue channel, detected reflections, and their corrections).</ce:simple-para></ce:caption>
+<ce:link id="celink0002" locator="gr2"/>
+</ce:figure>
+<ce:figure id="fig0003">
+<ce:label>Fig. 3</ce:label>
+<ce:caption id="cap0003"><ce:simple-para id="spara0006">Iris region defects from iPhone5 device containing all four (a,b,c,d) occlusion types.</ce:simple-para></ce:caption>
+<ce:link id="celink0003" locator="gr3"/>
+</ce:figure>
+<ce:figure id="fig0004">
+<ce:label>Fig. 4</ce:label>
+<ce:caption id="cap0004"><ce:simple-para id="spara0007">Upper eyelid detection steps in the red spectral channel.</ce:simple-para></ce:caption>
+<ce:link id="celink0004" locator="gr4"/>
+</ce:figure>
+<ce:figure id="fig0005">
+<ce:label>Fig. 5</ce:label>
+<ce:caption id="cap0005"><ce:simple-para id="spara0008">Detected rough iris region using the generalized Hough transformation (<?delstart?>rightwards<?delend?><?insstart?>rightward<?insend?> Canny detector, GHT mask, search window, detected iris).</ce:simple-para></ce:caption>
+<ce:link id="celink0005" locator="gr5"/>
+</ce:figure>
+<ce:figure id="fig0006">
+<ce:label>Fig. 6</ce:label>
+<ce:caption id="cap0006"><ce:simple-para id="spara0009">Selected eye images from the MICHE database and their detected defects.</ce:simple-para></ce:caption>
+<ce:link id="celink0006" locator="gr6"/>
+</ce:figure>
+<ce:figure id="fig0007">
+<ce:label>Fig. 7</ce:label>
+<ce:caption id="cap0007"><ce:simple-para id="spara0010">Eye images from the UBIRIS v2 database, ground truth, detected occlusions masks, and their comparison with the ground truth.</ce:simple-para></ce:caption>
+<ce:link id="celink0007" locator="gr7"/>
+</ce:figure>
+<?att pos="bottom" ?><ce:table id="tbl0001" rowsep="0" colsep="0" frame="topbot">
+<ce:label>Table 1</ce:label>
+<ce:caption id="cap0008"><ce:simple-para id="spara0011">MICHE iris database.</ce:simple-para></ce:caption>
+<tgroup cols="3">
+<colspec colnum="1" colname="col1" align="left"/>
+<colspec colnum="2" colname="col2" align="left"/>
+<colspec colnum="3" colname="col3" align="left"/>
+<thead>
+<row>
+<entry/>
+<entry>(<?delstart?>no<?delend?><?insstart?>Number of<?insend?><?delstart?>.<?delend?> images)</entry>
+<entry><?delstart?>dist.<?delend?><?insstart?>Distance<?insend?></entry>
+</row>
+<row>
+<entry/>
+<entry><?delstart?>resolution<?delend?><?insstart?>Resolution<?insend?></entry>
+<entry><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si69.gif"><?TeX $ \lbrack \del {cm}\ins {\text{cm}}\rbrack $?></mml:math></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>iPhone5</entry>
+<entry>(1262)</entry>
+<entry/>
+</row>
+<row>
+<entry><?delstart?>front<?delend?><?insstart?>Front<?insend?> camera</entry>
+<entry><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si70.gif"><?TeX $ 960\times 960, 960\times 1280 $?></mml:math></entry>
+<entry><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si71.gif"><?TeX $ \approx 10 $?></mml:math></entry>
+</row>
+<row>
+<entry><?delstart?>rear<?delend?><?insstart?>Rear<?insend?> camera</entry>
+<entry><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si72.gif"><?TeX $ 1536\times 2048, 2448\times 2448 $?></mml:math></entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si73.gif"><?TeX $ 2448\times 3264 $?></mml:math></entry>
+<entry><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si74.gif"><?TeX $ \approx 13 $?></mml:math></entry>
+</row>
+<row>
+<entry>Samsung Galaxy S4</entry>
+<entry>(1297)</entry>
+<entry/>
+</row>
+<row>
+<entry><?delstart?>front<?delend?><?insstart?>Front<?insend?> camera</entry>
+<entry><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si75.gif"><?TeX $ 1080\times 1920 $?></mml:math></entry>
+<entry><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si76.gif"><?TeX $ \approx 10 $?></mml:math></entry>
+</row>
+<row>
+<entry><?delstart?>rear<?delend?><?insstart?>Rear<?insend?> camera</entry>
+<entry><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si77.gif"><?TeX $ 2320\times 4128 $?></mml:math></entry>
+<entry><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si78.gif"><?TeX $ \approx 13 $?></mml:math></entry>
+</row>
+<row>
+<entry>Samsung Galaxy Tab2</entry>
+<entry>(632)</entry>
+<entry/>
+</row>
+<row>
+<entry><?delstart?>front<?delend?><?insstart?>Front<?insend?> camera</entry>
+<entry><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si79.gif"><?TeX $ 640\times 480 $?></mml:math></entry>
+<entry><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si80.gif"><?TeX $ \approx 5 $?></mml:math></entry>
+</row></tbody>
+</tgroup>
+</ce:table>
+<ce:table id="tbl0002" rowsep="0" colsep="0" frame="topbot">
+<ce:label>Table 2</ce:label>
+<ce:caption id="cap0009"><ce:simple-para id="spara0012">Iris defect detection Noisy Iris Challenge Evaluation Contest <ce:cross-ref id="crf0001" refid="bib0031">[31]</ce:cross-ref> top eight results comparison.<?Qry msg="AU: Please provide the significance for bold values in &#x0201C;Table 2&#x0201D;."?></ce:simple-para></ce:caption>
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" align="left"/>
+<colspec colnum="2" colname="col2" align="left"/>
+<colspec colnum="3" colname="col3" align="left"/>
+<colspec colnum="4" colname="col4" align="left"/>
+<thead>
+<row>
+<entry>Rank</entry>
+<entry>Method</entry>
+<entry><?delstart?>No. par.<?delend?><?insstart?>Number of parameters<?insend?></entry>
+<entry>Error</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><?hph 0?>1</entry>
+<entry><ce:bold><?delstart?>presented<?delend?><?insstart?>Presented<?insend?> method</ce:bold></entry>
+<entry>7</entry>
+<entry><ce:bold>0.0124</ce:bold></entry>
+</row>
+<row>
+<entry><?hph 0?>2</entry>
+<entry>Tan et&#x000A0;al. <ce:cross-ref id="crf0002" refid="bib0038">[38]</ce:cross-ref></entry>
+<entry>9</entry>
+<entry>0.0131</entry>
+</row>
+<row>
+<entry><?hph 0?>3</entry>
+<entry>Sankowski et&#x000A0;al. <ce:cross-ref id="crf0003" refid="bib0034">[34]</ce:cross-ref></entry>
+<entry>6</entry>
+<entry>0.0162</entry>
+</row>
+<row>
+<entry><?hph 0?>4</entry>
+<entry>Haindl <?delstart?>&#x0026;<?delend?><?insstart?>and<?insend?> Krupi&#x0010D;ka <ce:cross-ref id="crf0004" refid="bib0013">[13]</ce:cross-ref></entry>
+<entry>2</entry>
+<entry>0.0168</entry>
+</row>
+<row>
+<entry><?hph 0?>5</entry>
+<entry>Almeida <ce:cross-ref id="crf0005" refid="bib0009">[9]</ce:cross-ref></entry>
+<entry>5</entry>
+<entry>0.0180</entry>
+</row>
+<row>
+<entry><?hph 0?>6</entry>
+<entry>Tan <?delstart?>&#x0026;<?delend?><?insstart?>and<?insend?> Kumar <ce:cross-ref id="crf0006" refid="bib0037">[37]</ce:cross-ref></entry>
+<entry><?delstart?>unknown<?delend?><?insstart?>Unknown<?insend?></entry>
+<entry>0.0190</entry>
+</row>
+<row>
+<entry><?hph 0?>7</entry>
+<entry>Li et&#x000A0;al. <ce:cross-ref id="crf0007" refid="bib0020">[20]</ce:cross-ref></entry>
+<entry>4</entry>
+<entry>0.0224</entry>
+</row>
+<row>
+<entry><?hph 0?>8</entry>
+<entry>Jeong et&#x000A0;al. <ce:cross-ref id="crf0008" refid="bib0016">[16]</ce:cross-ref></entry>
+<entry>3</entry>
+<entry>0.0282</entry>
+</row>
+<row>
+<entry><?hph 0?>9</entry>
+<entry>Chen et&#x000A0;al. <ce:cross-ref id="crf0009" refid="bib0005">[5]</ce:cross-ref></entry>
+<entry>5</entry>
+<entry>0.0297</entry>
+</row>
+<row>
+<entry>10</entry>
+<entry>Scotti <?delstart?>&#x0026;<?delend?><?insstart?>and<?insend?> Labbati <ce:cross-ref id="crf0010" refid="bib0019">[19]</ce:cross-ref></entry>
+<entry>12</entry>
+<entry>0.0301</entry>
+</row>
+<row>
+<entry>11</entry>
+<entry>Luengo-Oroz et&#x000A0;al. <ce:cross-ref id="crf0011" refid="bib0021">[21]</ce:cross-ref></entry>
+<entry>7</entry>
+<entry>0.0305</entry>
+</row></tbody>
+</tgroup>
+</ce:table>
+</ce:floats>
+<head>
+<ce:article-footnote>
+<ce:note-para id="notep0001"><?insstart?>This paper has been recommended for acceptance by Gabriella Sanniti di Baja.<?insend?>
+</ce:note-para>
+</ce:article-footnote>
+<ce:title id="ct0001">Unsupervised <?delstart?>Detection of Non-Iris Occlusions<?delend?><?insstart?>detection of non-iris occlusions<?insend?></ce:title>
+<ce:author-group id="aut0001">
+<ce:author id="au0001"><ce:given-name>Michal</ce:given-name><ce:surname>Haindl</ce:surname>
+<ce:cross-ref id="crf0012" refid="cor0001"><ce:sup>&#x002A;</ce:sup></ce:cross-ref>
+<ce:cross-ref id="crf0013" refid="aff0001"><ce:sup>a</ce:sup></ce:cross-ref>
+<ce:e-address type="email" id="ead0001">haindl@utia.cz</ce:e-address></ce:author>
+<ce:author id="au0002"><ce:given-name>Mikul&#x000E1;&#x00161;</ce:given-name><ce:surname>Krupi&#x0010D;ka</ce:surname>
+<ce:cross-ref id="crf0014" refid="aff0001"><ce:sup>a</ce:sup></ce:cross-ref>
+<ce:cross-ref id="crf0015" refid="aff0002"><ce:sup>b</ce:sup></ce:cross-ref>
+<ce:e-address type="email" id="ead0002">krupimik@utia.cas.cz</ce:e-address></ce:author>
+<ce:affiliation id="aff0001"><ce:label>a</ce:label><ce:textfn id="cetextfn0001">Institute of Information Theory and Automation of the Czech Academy of Sciences, 182 08 Prague, Czech Republic</ce:textfn>
+<sa:affiliation>
+<sa:organization>Institute of Information Theory and Automation of the Czech Academy of Sciences</sa:organization> <sa:address-line>182 08 Prague</sa:address-line> <sa:country>Czech Republic</sa:country>
+</sa:affiliation>
+</ce:affiliation>
+<ce:affiliation id="aff0002"><ce:label>b</ce:label><ce:textfn id="cetextfn0002">Faculty of Information Technology, Czech Technical University, 160 00 Prague, Czech Republic</ce:textfn>
+<sa:affiliation>
+<sa:organization>Faculty of Information Technology</sa:organization> <sa:address-line>Czech Technical University</sa:address-line> <sa:city>160 00 Prague</sa:city> <sa:country>Czech Republic</sa:country>
+</sa:affiliation>
+</ce:affiliation>
+<ce:correspondence id="cor0001"><ce:label>&#x002A;</ce:label><ce:text id="cor1">Corresponding author. Tel: &#x0002B;420 2 6605 2350; fax: &#x0002B;420 2 8468 3031.</ce:text>
+</ce:correspondence>
+</ce:author-group>
+<ce:date-received day="9" month="6" year="2014"/>
+<!-- <ce:date-accepted day="24" month="2" year="2015"/> --><ce:abstract class="author-highlights" id="absh001"><ce:section-title id="sectt0001">Highlights</ce:section-title>
+<ce:abstract-sec id="abssec0001"><ce:simple-para id="spara0001"><ce:list id="celist0001">
+<ce:list-item id="celistitem0001"><ce:label>&#x2022;</ce:label><ce:para id="para0009"><?delstart?>accurate<?delend?><?insstart?>Accurate<?insend?> iris defect detection.</ce:para></ce:list-item>
+<ce:list-item id="celistitem0002"><ce:label>&#x2022;</ce:label><ce:para id="para0010"><?delstart?>unconstrained<?delend?><?insstart?>Unconstrained<?insend?> mobile devices high resolution color iris images<?delstart?>,<?delend?><?insstart?>.<?insend?></ce:para></ce:list-item>
+<ce:list-item id="celistitem0003"><ce:label>&#x2022;</ce:label><ce:para id="para0011"><?delstart?>multispectral<?delend?><?insstart?>Multispectral<?insend?> Markovian spatial texture model<?delstart?>,<?delend?><?insstart?>.<?insend?></ce:para></ce:list-item>
+<ce:list-item id="celistitem0004"><ce:label>&#x2022;</ce:label><ce:para id="para0012"><?delstart?>ranked<?delend?><?insstart?>Ranked<?insend?> first from the 97&#x0002B;1 recent Noisy Iris Challenge Evaluation contest alternative methods<?delstart?>,<?delend?><?insstart?>.<?insend?></ce:para></ce:list-item>
+<ce:list-item id="celistitem0005"><ce:label>&#x2022;</ce:label><ce:para id="para0013"><?delstart?>promising<?delend?><?insstart?>Promising<?insend?> performance on the very challenging, high resolution, and highly variable Mobile Iris Challenge Evaluation data.</ce:para></ce:list-item>
+</ce:list></ce:simple-para></ce:abstract-sec>
+</ce:abstract><ce:abstract class="graphical" id="absh0002">
+<ce:section-title id="sectt0002">Graphical abstract</ce:section-title><ce:abstract-sec id="abssec0002"><ce:simple-para id="spara0002"><ce:list id="celist0002">
+<ce:list-item id="celistitem0006"><ce:label>&#x2022;</ce:label><ce:para id="para0014">Graphical Abstract</ce:para></ce:list-item>
+</ce:list></ce:simple-para></ce:abstract-sec>
+<ce:figure id="fig0008">
+<ce:link id="celink0008" locator="fx1"/>
+</ce:figure>
+</ce:abstract><ce:abstract id="abs0001" class="author">
+<ce:section-title id="sectt0003">Abstract</ce:section-title>
+<ce:abstract-sec id="abssec0003"><ce:simple-para id="spara0003">This paper presents a fast precise unsupervised iris defects detection method based on the underlying multispectral spatial probabilistic iris textural model and adaptive thresholding applied to demanding high resolution mobile device measurements. The accurate detection of iris eyelids and reflections is the prerequisite for the accurate iris recognition, both in near-infrared or visible spectrum measurements. The model adaptively learns its parameters on the iris texture part and subsequently checks for iris reflections using the recursive prediction analysis. The method is developed for <?delstart?>colour<?delend?><?insstart?>color<?insend?> eye images from unconstrained mobile devices but it was also successfully tested on the UBIRIS v2 eye database. Our method ranked first from the 97&#x0002B;1 recent Noisy Iris Challenge Evaluation contest alternative methods on this large <?delstart?>colour<?delend?><?insstart?>color<?insend?> iris database using the exact contest data and methodology.</ce:simple-para></ce:abstract-sec></ce:abstract>
+<ce:keywords id="keys0001" class="keyword">
+<ce:section-title id="sectt0004">Keywords</ce:section-title>
+<ce:keyword id="key0001"><ce:text id="cetext0001">Iris recognition</ce:text></ce:keyword>
+<ce:keyword id="key0002"><ce:text id="cetext0002">Color</ce:text></ce:keyword>
+<ce:keyword id="key0003"><ce:text id="cetext0003">Markov random field</ce:text></ce:keyword>
+<ce:keyword id="key0004"><ce:text id="cetext0004">Texture</ce:text></ce:keyword>
+</ce:keywords>
+</head>
+<body>
+<ce:sections>
+<ce:section id="sec0001" view="all" role="introduction">
+<ce:label>1</ce:label>
+<ce:section-title id="sectt0005">Introduction</ce:section-title>
+<ce:para id="para0015">Biometrics based human identification systems have ever growing importance in recent trends <?delstart?>towards<?delend?><?insstart?>toward<?insend?> more secure modern information society. Diverse biometric data can be exploited for numerous practical applications, such as bank access, airport entry points, or criminal evidence gathering but also for smart homes, cars control, or handicapped help systems. It can be human voice, fingerprint, eye, face, gait, veins, handwriting and many more. Various biometric data differ in ways how to acquire them, their durability, reliability, safety, and necessary technology for their acquisition and evaluation. In this work we focus on preprocessing part of the iris recognition<?delstart?>-<?delend?><?insstart?>&#x02014;<?insend?>iris defect detection. The possibility for the eye-based human identification was originally suggested by Alphonse Bertillon <ce:cross-ref id="crf0016" refid="bib0033">[33]</ce:cross-ref> and subsequently pointed out by several others <ce:cross-ref id="crf0017" refid="bib0001">[1]</ce:cross-ref>, the first method was published and patented by <?insstart?>Daugman<?insend?> <ce:cross-ref id="crf0018" refid="bib0008">[8]</ce:cross-ref>, and later estimated that the probability of two similar iris is 1 in <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si1.gif"><?TeX $ 10^{72} $?></mml:math> <ce:cross-ref id="crf0019" refid="bib0027">[27]</ce:cross-ref>. For recent surveys of the iris recognition results see <ce:cross-refs id="crfs0001" refid="bib0003 bib0004 bib0033">[3,4,33]</ce:cross-refs>. The overview of open iris databases can be found in <ce:cross-ref id="crf0020" refid="bib0033">[33]</ce:cross-ref>.
+</ce:para>
+<ce:para id="para0016">The iris identification is complex task containing several sub-tasks (see the processing schema on <ce:cross-ref id="crf0021" refid="fig0001">Fig. 1</ce:cross-ref><ce:float-anchor refid="fig0001"/> with iris defect detection elaborated part) that have to be solved. The whole process starts with image acquisition which hardly produces ideal noise-free, focused, and homogeneously illuminated images, thus the corresponding preprocessing steps for data normalization, denoising, or geometric<?brk?> corrections are inevitable before the iris segmentation can be performed. Iris acquisition cameras use either near infrared (NR, <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si2.gif"><?TeX $ 700 {-} 900 \, \lbrack \del {nm}\ins {\text{nm}}\rbrack $?></mml:math>) or visible wavelength (VW, <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si3.gif"><?TeX $ 390{-}700 \, \lbrack \del {nm}\ins {\text{nm}}\rbrack $?></mml:math>) sensors each having some advantages and drawbacks. NR can penetrate iris surface and reveals well dark-colored irides, VW sensors on the other hand are ubiquitous, less hazardous to eye damage <ce:cross-ref id="crf0022" refid="bib0026">[26]</ce:cross-ref>, and can be used for long distance observations. The reflectance properties of both spectra ranges differ which leads to different iris recognition pipelines. The rough iris segmentation results are typically coordinates of two circles, inner and outer border of iris. Additionally, a normalization step has been introduced to simplify the subsequent processing steps. Normalization is usually done transforming the iris into a fixed size rectangle. The selected features are then computed from the normalized rectangle and used in a classifier to recognize a corresponding human.</ce:para>
+<ce:para id="para0017">Unconstrained iris measurements contain numerous occlusion defects such as eyelid, eyelash, and reflections which have to be detected in the preprocessing step of any iris recognition algorithm. Undetected occlusions would otherwise confuse the recognition method and impair its recognition rate. While the unconstrained visible wavelength iris image acquisition is cheap and widely available it requires more demanding iris processing methods to achieve comparable recognition rate with optimal acquisition conditions in the controlled environment.</ce:para>
+<ce:section id="sec0002" view="all">
+<ce:label>1.1</ce:label>
+<ce:section-title id="sectt0006">Iris <?delstart?>Defects Detection<?delend?><?insstart?>defects detection<?insend?></ce:section-title>
+<ce:para id="para0018">Unconstrained iris measurements inevitably introduce various sensing imperfections, such as reflections, upper/lower eyelids or eyelashes occlusions, or eyelid shadows. Such undetected defects<?brk?> significantly degrade iris classifiers performance. Thus it is necessary to remove such areas from the iris texture prior to the classification process what constitutes on of the most challenging problem in the iris recognition research <ce:cross-ref id="crf0023" refid="bib0027">[27]</ce:cross-ref>. Some detection methods are specialized to single imperfection category only, while others <ce:cross-refs id="crfs0002" refid="bib0005 bib0009 bib0013 bib0016 bib0019 bib0020 bib0021 bib0029 bib0033 bib0034 bib0035 bib0036 bib0037 bib0038">[5,9,13,16,19&ndash;21,29,34,37,38]</ce:cross-refs> can detect several types of imperfections.</ce:para>
+<ce:para id="para0019">Methods focused only on reflections are based on (adaptive) thresholding (e<?insstart?>.<?insend?>g. <ce:cross-ref id="crf0024" refid="bib0035">[35]</ce:cross-ref>). Eyelid detectors are mostly based on edge detection followed with polynomial fitting (e<?insstart?>.<?insend?>g. <ce:cross-refs id="crfs0003" refid="bib0010 bib0040">[10,40]</ce:cross-refs>). Chen et&#x000A0;al. <ce:cross-ref id="crf0025" refid="bib0006">[6]</ce:cross-ref> or He et&#x000A0;al. <ce:cross-ref id="crf0026" refid="bib0015">[15]</ce:cross-ref> proposed methods of eyelash detection based on simple thresholding, One of the first general imperfection detection methods was presented by Proenca <?insstart?>and Alexandre<?insend?> <ce:cross-ref id="crf0027" refid="bib0029">[29]</ce:cross-ref>. His method is based on training classifier on manually detected irises and the eye representation is based on textural GLCM <ce:cross-ref id="crf0028" refid="bib0014">[14]</ce:cross-ref> features and the detector uses a neural network classifier.</ce:para>
+<ce:para id="para0020">The conventional approach for defect detection <ce:cross-ref id="crf0029" refid="bib0007">[7]</ce:cross-ref> is to compute a texture features in a local sub-window and to compare them with the reference values representing a perfect pattern. The method <ce:cross-ref id="crf0030" refid="bib0023">[23]</ce:cross-ref> preprocesses a gray level textile texture with histogram modification and median filtering. The image is subsequently thresholded using the adaptive filter and finally smoothed with another median filter run. Another approach for detection of gray level textured defects using linear FIR filters with optimized energy separation was proposed in <ce:cross-ref id="crf0031" refid="bib0018">[18]</ce:cross-ref>. Similarly the defect detection <ce:cross-ref id="crf0032" refid="bib0036">[36]</ce:cross-ref> is based on a set of optimized filters applied to wavelet sub-bands and tuned for a defect type. Method <ce:cross-ref id="crf0033" refid="bib0011">[11]</ce:cross-ref> uses translation invariant 2D RI-Spline wavelets for textile surface inspection. The gray level texture is removed using the wavelet shrinkage approach and defects are subsequently detected by simple thresholding. Contrary to above approaches the presented method uses the visible wavelength multispectral<?brk?> information.</ce:para>
+<ce:para id="para0021">Recent state-of-the-art non-iris occlusions detectors were mostly competing in the 2008 NICE.I (Noisy Iris Challenge Evaluation) focusing especially on detection accuracy. Nearly hundred various<?brk?> methods from 22 countries were submitted to this challenge and the best-ranked algorithms were published in <ce:cross-ref id="crf0034" refid="bib0031">[31]</ce:cross-ref>. The presented method uses results of these best-ranked algorithms for comparison.<?brk?> Anyhow, contrary to our method none of these NICE methods use true multispectral information. The source images (which are in RGB <?delstart?>colour<?delend?><?insstart?>color<?insend?> space) are typically either converted to <?delstart?>grey<?delend?><?insstart?>gray<?insend?>-scale before any analytical steps or only one spectrum channel is used. The 2008 NICE.I best method by Tan et&#x000A0;al. <ce:cross-ref id="crf0035" refid="bib0038">[38]</ce:cross-ref> uses clustering for iris localization followed with prediction and curvature models for eyelid and eyelash detection. The second best method by Sankowski et&#x000A0;al. <ce:cross-ref id="crf0036" refid="bib0034">[34]</ce:cross-ref> consists of three steps<?delstart?>-<?delend?><?insstart?>&#x02014;<?insend?>threshold based reflections detection, iris boundaries detection based on modified integro-differential operator, and eyelids detection based on parametric modelling. Several other NICE.I algorithms<?delstart?>-<?delend?><?insstart?>&#x02014;<?insend?>expert system <ce:cross-ref id="crf0037" refid="bib0009">[9]</ce:cross-ref>, K-<?delstart?>Means<?delend?><?insstart?>means<?insend?> clustering in the co-occurrence histogram <ce:cross-ref id="crf0038" refid="bib0016">[16]</ce:cross-ref> or methods using NICE.I data and methodology<?delstart?>-<?delend?><?insstart?>&#x02014;<?insend?>Markovian texture model <ce:cross-ref id="crf0039" refid="bib0013">[13]</ce:cross-ref>, and Zernike feature based classification <ce:cross-ref id="crf0040" refid="bib0037">[37]</ce:cross-ref>, are used to compare the presented method.</ce:para>
+<ce:para id="para0022">The multilayered perceptron neural network based method <ce:cross-ref id="crf0041" refid="bib0026">[26]</ce:cross-ref> uses local mean and standard deviation features computed in hue, blue, and red chroma color components. Unlike our presented method, it does not use true textural representation, neglects information due to spectral correlation, and contains several ad hoc selected parameters.</ce:para>
+<ce:para id="para0023">The presented paper extends the method <ce:cross-ref id="crf0042" refid="bib0013">[13]</ce:cross-ref> with modified<?brk?> Daugman operator, polynomial upper eyelid model, blue spectral channel reflection detection, separate lower eyelid detection, and it is applied for unconstrained high resolution iris images. These changes simultaneously improved method&#x02019;s performance on the NICE.I contest setup from third position of our previous method <ce:cross-ref id="crf0043" refid="bib0013">[13]</ce:cross-ref> to the presented method leading position.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="sec0003" view="all">
+<ce:label>2</ce:label>
+<ce:section-title id="sectt0007">Reflection <?delstart?>Correction<?delend?><?insstart?>correction<?insend?></ce:section-title>
+<ce:para id="para0024">The iris defect detection starts with searching for reflections<?brk?> (<ce:cross-ref id="crf0044" refid="fig0002">Figs. 2</ce:cross-ref><ce:float-anchor refid="fig0002"/><?delstart?>-<?delend?><?insstart?>(<?insend?>a<?delstart?>,<?delend?><?insstart?>) and<?insend?> <ce:cross-ref id="crf0045" refid="fig0003">3</ce:cross-ref><ce:float-anchor refid="fig0003"/><?delstart?>-<?delend?><?insstart?>(<?insend?>c<?insstart?>)<?insend?>) in the blue spectral channel where they are most visible using an adaptive threshold. The binarization threshold is obtained using the cross-correlation between pixel-centered windows and the Gaussian window. The resulting binary mask is firstly slightly dilated (<ce:cross-ref id="crf0046" refid="fig0002">Fig. 2</ce:cross-ref><?delstart?>-<?delend?><?insstart?>(<?insend?>c<?insstart?>)<?insend?>) to ensure full coverage of reflections and <?delstart?>than<?delend?><?insstart?>then<?insend?> the detected reflective regions are corrected (<ce:cross-ref id="crf0047" refid="fig0002">Fig. 2</ce:cross-ref><?delstart?>-<?delend?><?insstart?>(<?insend?>d<?insstart?>)<?insend?>) using the inpainting algorithm presented in <ce:cross-ref id="crf0048" refid="bib0039">[39]</ce:cross-ref>.</ce:para>
+<ce:para id="para0025">The corrected multispectral image is subsequently used to detect iris location in the image.
+</ce:para>
+</ce:section>
+<ce:section id="sec0004" view="all">
+<ce:label>3</ce:label>
+<ce:section-title id="sectt0008">Iris <?delstart?>Localization<?delend?><?insstart?>localization<?insend?></ce:section-title>
+<ce:para id="para0026">The iris defect detection requires to localize the eye region in the acquired image which is complicated with variable source image resolution. The accurate eye region is recognized using a two step procedure with rough localization using the generalized Hough transformation (GHT) subsequently elaborated by a modified integro-differential Daugman operator.</ce:para>
+<ce:section id="sec0005" view="all">
+<ce:label>3.1</ce:label>
+<ce:section-title id="sectt0009">Rough <?delstart?>Iris Localization<?delend?><?insstart?>iris localization<?insend?></ce:section-title>
+<ce:para id="para0027">The generalized Hough transformation <ce:cross-ref id="crf0049" refid="bib0002">[2]</ce:cross-ref> is used to detect approximate eye region on a sub-sampled reflection corrected image. The rough scale image has the width in the range <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si4.gif"><?TeX $ 200\del {-}\ins {\text{--}}400 $?></mml:math> pixels because the corresponding sub-sampling step is selected to avoid non-lattice pixel positions interpolation. Down-scaled images speed up the processing time. A binary eye template for GHT is created as the intersection of two circles which are <?delstart?>parametrized<?delend?><?insstart?>parameterized<?insend?> by the length <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si5.gif"><?TeX $ c $?></mml:math> of their common chord. It is subsequently rescaled to handle variable image resolution. We assume the ratios of both circular segments altitudes <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si6.gif"><?TeX $ h_1,h_2 $?></mml:math> to this chord to be fixed
+<ce:display>
+<ce:formula id="ueq0001">
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="patrec1.gif"><?TeX 
+\begin{eqnarray*}
+k_1 &=& { c \over h_1} = 4.8 ,\\
+k_2 &=& { c \over h_2} = 15.8.
+\end{eqnarray*}
+?></mml:math>
+</ce:formula>
+</ce:display>The corresponding circles radii can be computed from
+<ce:display>
+<ce:formula id="eq0001">
+<ce:label>(1)</ce:label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="6177eq0001.gif"><?TeX \begin{equation}
+R_{i} = {c^2\over 8 h_i} + {h_i\over 2} = c {k_i^2 + 4 \over 8 k_i}\quad  i=1,2 . 
+\end{equation}?>
+</mml:math></ce:formula>
+</ce:display>This template (<ce:cross-ref id="crf0050" refid="fig0005">Fig. 5</ce:cross-ref> <?delstart?>-<?delend?><?insstart?>(<?insend?>second image<?insstart?>)<?insend?>) is rotated in the range of <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si7.gif"><?TeX $ \pm 15^\circ $?></mml:math>.</ce:para>
+</ce:section>
+<ce:section id="sec0006" view="all">
+<ce:label>3.2</ce:label>
+<ce:section-title id="sectt0010">Refined <?delstart?>Iris Localization<?delend?><?insstart?>iris localization<?insend?></ce:section-title>
+<ce:para id="para0028">The accurate eye area is found using the integro-differential Daugman operator <ce:cross-ref id="crf0051" refid="bib0008">[8]</ce:cross-ref> generalized from monospectral into the multispectral formulation <ce:cross-ref id="crf0052" refid="eq0002">(2)</ce:cross-ref> to exploit all available information. The<?brk?> multispectral Daugman operator is
+<ce:display>
+<ce:formula id="eq0002">
+<ce:label>(2)</ce:label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="6177eq0002.gif"><?TeX \begin{equation}
+\max _{ \rho , \tilde{r}_1,\tilde{r}_2} \left| G_{\sigma }(\rho )\circledast {\partial \over \partial \rho } \oint _{ \rho , \tilde{r}_1, \tilde{r}_2} {Y_{r,\bullet } \over 2 \pi \rho } ds d\rho \right| , 
+\end{equation}?>
+</mml:math></ce:formula>
+</ce:display>where <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si8.gif"><?TeX $ r=\lbrace r_1,r_2\rbrace ,s=\lbrace s_1,s_2\rbrace $?></mml:math> are multiindices with the row and column indices, <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si9.gif"><?TeX $ \bullet $?></mml:math> denotes all corresponding spectral indices, <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si10.gif"><?TeX $ \tilde{r} $?></mml:math> the radius <?delstart?>centre<?delend?><?insstart?>center<?insend?>, <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si11.gif"><?TeX $ \rho $?></mml:math> is the radius, <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si12.gif"><?TeX $ Y_{r,\bullet } $?></mml:math> is the <?delstart?>r<?delend?><?insstart?><ce:italic>r</ce:italic><?insend?><?delstart?>-<?delend?>th multispectral (<?delstart?>colour<?delend?><?insstart?>color<?insend?>) eye pixel, <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si13.gif"><?TeX $ \circledast $?></mml:math> denotes multispectral convolution, and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si14.gif"><?TeX $ G_{\sigma }(\rho ) $?></mml:math> denotes a 3D Gaussian filter of identical scale <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si15.gif"><?TeX $ \sigma $?></mml:math> in all spectral planes. The circle integral is not taken for full circle but only for degrees from <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si16.gif"><?TeX $ 0^{\circ } $?></mml:math> to <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si17.gif"><?TeX $ 45^{\circ } $?></mml:math> and from <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si18.gif"><?TeX $ 135^{\circ } $?></mml:math> to <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si19.gif"><?TeX $ 360^{\circ } $?></mml:math>. This is to better deal with possible upper eyelid occlusions in image (which would otherwise obviously obstructed the correct localization of iris region). The next step is the pupil border detection in the red spectral channel to separate iris region. The inner circle representing pupil border is found (see <ce:cross-ref id="crf0053" refid="fig0006">Fig. 6</ce:cross-ref><?delstart?>-<?delend?><?insstart?>,<?insend?> odd columns images) in a similar way as the iris location described above but in its respective smaller area. The pupil is detected using the original (unmodified) Daugman operator <ce:cross-ref id="crf0054" refid="bib0008">[8]</ce:cross-ref> inside the iris region. Detected iris region is then verified by checking the candidate pupil region mean with comparison of the closest left and right <?delstart?>neighbourhood<?delend?><?insstart?>neighborhood<?insend?> iris regions. This is to deal with possible mislocalization of iris border.</ce:para>
+</ce:section>
+</ce:section>
+<ce:section id="sec0007" view="all">
+<ce:label>4</ce:label>
+<ce:section-title id="sectt0011">Iris <?delstart?>Occlusions and Reflection Detection<?delend?><?insstart?>occlusions and reflection detection<?insend?></ce:section-title>
+<ce:para id="para0029">Once we locate the iris region, this region is then normalized to rectangular shape <ce:cross-ref id="crf0055" refid="bib0008">[8]</ce:cross-ref> and we subsequently search (see <ce:cross-ref id="crf0056" refid="fig0001">Fig. 1</ce:cross-ref> scheme) for each of the selected defects as it is illustrated in <ce:cross-ref id="crf0057" refid="fig0003">Fig. 3</ce:cross-ref>. The rare cases of completely missing irises (<ce:cross-ref id="crf0058" refid="fig0003">Fig. 3</ce:cross-ref><?delstart?>-<?delend?><?insstart?>(<?insend?>d<?insstart?>)<?insend?>) are solved using a simple thresholding in the generalized Hough transformation space. Possible occlusions are searched in the red spectral channel and reflections in the blue spectral channel, respectively.</ce:para>
+<ce:section id="sec0008" view="all">
+<ce:label>4.1</ce:label>
+<ce:section-title id="sectt0012">Upper <?delstart?>Eyelid<?delend?><?insstart?>eyelid<?insend?></ce:section-title>
+<ce:para id="para0030">The upper eyelid (<ce:cross-ref id="crf0059" refid="fig0003">Fig. 3</ce:cross-ref><?delstart?>-<?delend?><?insstart?>(<?insend?>a<?insstart?>)<?insend?>) is detected using vertically swapped image so that a potential upper eyelid is completely located in the center of image (otherwise it would be split in half at the corners of normalized iris image). Subsequently the rays from <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si20.gif"><?TeX $ 0^{\circ } $?></mml:math> to <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si21.gif"><?TeX $ 180^{\circ } $?></mml:math> from the top center point are drawn (<ce:cross-ref id="crf0060" refid="fig0004">Fig. 4</ce:cross-ref><ce:float-anchor refid="fig0004"/><?delstart?>-<?delend?><?insstart?>(<?insend?>a<?insstart?>)<?insend?>). These rays are convolved with differential kernel and the maximum is located on each of them (<ce:cross-ref id="crf0061" refid="fig0004">Fig. 4</ce:cross-ref><?delstart?>-<?delend?><?insstart?>(<?insend?>b<?insstart?>)<?insend?>) and lower maxima values are removed as potential outliers (<ce:cross-ref id="crf0062" refid="fig0004">Fig. 4</ce:cross-ref><?delstart?>-<?delend?><?insstart?>(<?insend?>c<?insstart?>)<?insend?>). The third order fitted polynomial then denotes the upper eyelid occlusion region border (<ce:cross-ref id="crf0063" refid="fig0004">Fig. 4</ce:cross-ref><?delstart?>-<?delend?><?insstart?>(<?insend?>d<?insstart?>)<?insend?>).
+</ce:para>
+</ce:section>
+<ce:section id="sec0009" view="all">
+<ce:label>4.2</ce:label>
+<ce:section-title id="sectt0013">Lower <?delstart?>Eyelid<?delend?><?insstart?>eyelid<?insend?></ce:section-title>
+<ce:para id="para0031">Most iris images are not obstructed with the lower eyelid. The occasional lower eyelid occlusions (<ce:cross-ref id="crf0064" refid="fig0003">Fig. 3</ce:cross-ref><?delstart?>-<?delend?><?insstart?>(<?insend?>middle<?insstart?>)<?insend?>) are detected using mean and standard deviation estimates <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si22.gif"><?TeX $ \mu _{\del {le}\ins {\text{le}}} $?></mml:math> and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si23.gif"><?TeX $ \sigma _{\del {le}\ins {\text{le}}} $?></mml:math> of the top center region. Rows are in the range of <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si24.gif"><?TeX $ r_1 \in \langle 0; {N\over 2}\rangle $?></mml:math> and columns <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si25.gif"><?TeX $ r_2 \in \langle {M\over 4}; {3 M\over 4}\rangle, $?></mml:math> where <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si26.gif"><?TeX $ N $?></mml:math> (<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si27.gif"><?TeX $ M $?></mml:math>) is number of rows (columns) in the normalized iris image. If the standard deviation is larger than <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si28.gif"><?TeX $ 25\% $?></mml:math> of <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si29.gif"><?TeX $ \mu _{\del {le}\ins {\text{le}}}, $?></mml:math> i.e., <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si30.gif"><?TeX $ \sigma _{\del {le}\ins {\text{le}}} > { \mu _{\del {le}\ins {\text{le}}}\over 4} $?></mml:math> then the lower eyelid is detected by simple thresholding with the threshold <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si31.gif"><?TeX $ \tau = \mu + {\sigma _{\del {le}\ins {\text{le}}}\over 2} $?></mml:math>. The topmost central region is detected as the lower eyelid in the resulting binarized image.</ce:para>
+</ce:section>
+<ce:section id="sec0010" view="all">
+<ce:label>4.3</ce:label>
+<ce:section-title id="sectt0014">Iris <?delstart?>Reflections<?delend?><?insstart?>reflections<?insend?></ce:section-title>
+<ce:para id="para0032">The precise localization of reflections (<ce:cross-ref id="crf0065" refid="fig0003">Fig. 3</ce:cross-ref><?delstart?>-<?delend?><?insstart?>(<?insend?>right<?insstart?>)<?insend?>) in the fine scale normalized iris is based on fusion of similar (without dilatation) adaptive thresholding as in <?delstart?>section<?delend?><?insstart?>Section<?insend?> <ce:cross-ref id="crf0066" refid="sec0003">2</ce:cross-ref> and detection based on the multispectral Markovian iris texture model.</ce:para>
+<ce:section id="sec0011" view="all">
+<ce:label>4.3.1</ce:label>
+<ce:section-title id="sectt0015">Iris <?delstart?>Spectral Texture Model<?delend?><?insstart?>spectral texture model<?insend?></ce:section-title>
+<ce:para id="para0033">We assume that the multispectral iris texture can be represented by an adaptive 3D causal simultaneous auto-regressive model <ce:cross-ref id="crf0067" refid="bib0012">[12]</ce:cross-ref>:
+<ce:display>
+<ce:formula id="eq0003">
+<ce:label>(3)</ce:label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="6177eq0003.gif"><?TeX \begin{equation}
+X_{r} = \sum _{ s \in I_r^c} A_{s}X_{r-s} + \epsilon _r , 
+\end{equation}?>
+</mml:math></ce:formula>
+</ce:display>where <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si32.gif"><?TeX $ \epsilon _r $?></mml:math> is a white Gaussian noise vector with zero mean, and a constant but unknown covariance matrix <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si33.gif"><?TeX $ \Sigma $?></mml:math>. The noise vector is uncorrelated with data from a causal <?delstart?>neighbourhood<?delend?><?insstart?>neighborhood<?insend?> <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si34.gif"><?TeX $ I_r^c, $?></mml:math> and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si35.gif"><?TeX $ r=\lbrace r_1,r_2\rbrace ,s=\lbrace s_1,s_2\rbrace $?></mml:math> are multiindices with the row and column indices,<?brk?> respectively.
+<ce:display>
+<ce:formula id="eq0004">
+<ce:label>(4)</ce:label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="6177eq0004.gif"><?TeX \begin{equation}
+A_{s_1,s_2}= {\left(\begin{array}{@{}c@{}}a_{1,1}^{s_1,s_2}, \ldots , a_{1,d}^{s_1,s_2} \\
+ \vdots , \ddots , \vdots \\
+ a_{d,1}^{s_1,s_2}, \ldots , a_{d,d}^{s_1,s_2} \end{array}\right)} 
+\end{equation}?>
+</mml:math></ce:formula>
+</ce:display>are <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si36.gif"><?TeX $ d\times d $?></mml:math> parameter matrices where <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si37.gif"><?TeX $ d $?></mml:math> is the number of spectral bands. <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si38.gif"><?TeX $ r,r-1,\ldots $?></mml:math> is a chosen direction of movement on the image lattice (e.g. scanning lines rightward and top to down).</ce:para>
+<ce:para id="para0035">All parameters in this model can be analytically estimated using numerically robust recursive statistics hence it is exceptionally well suited for possibly real-time recursive iris texture defect detectors. The model adaptivity is introduced using the exponential forgetting factor technique in the parameter learning part of the algorithm. The model can be alternatively written in the matrix form
+<ce:display>
+<ce:formula id="eq0005">
+<ce:label>(5)</ce:label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="6177eq0005.gif"><?TeX \begin{equation}
+X_{r} = \gamma Z_r + \epsilon _r , 
+\end{equation}?>
+</mml:math></ce:formula>
+</ce:display>where <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si39.gif"><?TeX $ \gamma = \lbrack \,A_1, \ldots , A_\eta \rbrack , $?></mml:math> <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si40.gif"><?TeX $ \eta = \,\del {card}\ins {\text{card}}\,(I_r^c) $?></mml:math> is a <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si41.gif"><?TeX $ d\times d\eta $?></mml:math> parameter matrix and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si42.gif"><?TeX $ Z_r $?></mml:math> is a corresponding vector of <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si43.gif"><?TeX $ X_{r-s} $?></mml:math>. To evaluate the conditional mean values <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si44.gif"><?TeX $ E\lbrace X_r \,|\, X^{(r-1)} \rbrace , $?></mml:math> where <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si45.gif"><?TeX $ X^{(r-1)} $?></mml:math> is the past process history, the one-step-ahead prediction posterior density <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si46.gif"><?TeX $ p(X_r \,|\,X^{(r-1)}) $?></mml:math> is needed. If we assume the normal-gamma parameter prior for parameters in <ce:cross-ref id="crf0068" refid="eq0003">(3)</ce:cross-ref> this posterior density has the form of Student&#x02019;s probability density with <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si47.gif"><?TeX $ \beta (r)-d\eta +2 $?></mml:math> degrees of freedom. The predictor in the form of conditional mean value <ce:cross-ref id="crf0069" refid="eq0010">(10)</ce:cross-ref> uses the following notation <ce:cross-ref id="crf0070" refid="eq0006">(6)</ce:cross-ref><?delstart?>-<?delend?><?insstart?>&#x02013;<?insend?><ce:cross-ref id="crf0071" refid="eq0009">(9)</ce:cross-ref>:
+<ce:display>
+<ce:formula id="eq0006">
+<ce:label>(6)</ce:label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="6177eq0006.gif"><?TeX \begin{eqnarray}
+\beta (r) & = & \beta (0) +r-1 , 
+\end{eqnarray}?>
+</mml:math></ce:formula>
+</ce:display><?vsp -5pt?>
+<ce:display>
+<ce:formula id="eq0007">
+<ce:label>(7)</ce:label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="6177eq0007.gif"><?TeX \begin{eqnarray}
+\hat{\gamma }_{r-1}^T & = & V^{-1}_{zz(r-1)}\, V_{zx(r-1)} , 
+\end{eqnarray}?>
+</mml:math></ce:formula>
+</ce:display><?vsp -5pt?>
+<ce:display>
+<ce:formula id="eq0008">
+<ce:label>(8)</ce:label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="6177eq0008.gif"><?TeX \begin{eqnarray}
+V_{r-1} & = & {\left(\begin{array}{@{}l@{\quad}l@{}}\tilde{V}_{xx(r-1)} & \tilde{V}^T_{zx(r-1)}\\
+ \tilde{V}_{zx(r-1)} & \tilde{V}_{zz(r-1)} \end{array}\right)} + I , 
+\end{eqnarray}?>
+</mml:math></ce:formula>
+</ce:display><?vsp -5pt?>
+<ce:display>
+<ce:formula id="eq0009">
+<ce:label>(9)</ce:label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="6177eq0009.gif"><?TeX \begin{eqnarray}
+\tilde{V}_{uw(r-1)}& = & \sum _{k=1}^{r-1}U_k W_k^T , 
+\end{eqnarray}?>
+</mml:math></ce:formula>
+</ce:display>where <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si48.gif"><?TeX $ \beta (0) > 1 $?></mml:math> and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si49.gif"><?TeX $ U,W $?></mml:math> in <ce:cross-ref id="crf0072" refid="eq0009">(9)</ce:cross-ref> denote either <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si50.gif"><?TeX $ X $?></mml:math> or <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si51.gif"><?TeX $ Z $?></mml:math> vector, respectively. If <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si52.gif"><?TeX $ \beta (r-1)> \eta $?></mml:math> then the conditional mean value is
+<ce:display>
+<ce:formula id="eq0010">
+<ce:label>(10)</ce:label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="6177eq0010.gif"><?TeX \begin{equation}
+E\lbrace X_r |X^{(r-1)} \rbrace = \hat{\gamma }_{r-1} Z_r  
+\end{equation}?>
+</mml:math></ce:formula>
+</ce:display>and it can be efficiently computed using the following recursion
+<ce:display>
+<ce:formula id="eq0011">
+<ce:label>(11)</ce:label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="6177eq0011.gif"><?TeX \begin{equation}
+\hat{\gamma }_r^T = \hat{\gamma }_{r-1}^T+ { V_{z(r-1)}^{-1}\,Z_r ( X_r -\hat{\gamma }_{r-1}Z_r)^T \over 1 + Z_r^T V_{z(r-1)}^{-1}Z_r } . 
+\end{equation}?>
+</mml:math></ce:formula>
+</ce:display></ce:para>
+<ce:para id="para0037">The selection of an appropriate model support <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si53.gif"><?TeX $ (I^c_r) $?></mml:math> is important to obtain good iris representation. If the contextual <?delstart?>neighbourhood<?delend?><?insstart?>neighborhood<?insend?> is too small it cannot capture all details of the random field iris texture model. Inclusion of the unnecessary <?delstart?>neighbours<?delend?><?insstart?>neighbors<?insend?> on the other hand adds to the computational burden and can potentially degrade the performance of the model as an additional source of noise. The optimal Bayesian decision rule for minimizing the average probability of decision error chooses the maximum posterior probability model, i.e., a model <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si54.gif"><?TeX $ M_{i} $?></mml:math> corresponding to <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si55.gif"><?TeX $ \max _j \lbrace p(M_j | X^{(r-1)}) \rbrace  $?></mml:math> can be easily found analytically <ce:cross-ref id="crf0073" refid="bib0012">[12]</ce:cross-ref>.
+</ce:para>
+</ce:section>
+<ce:section id="sec0012" view="all">
+<ce:label>4.3.2</ce:label>
+<ce:section-title id="sectt0016">Defect <?delstart?>Detection<?delend?><?insstart?>detection<?insend?></ce:section-title>
+<ce:para id="para0038">Single multispectral pixels are classified as belonging to the defective (non-iris) area based on their corresponding prediction errors. If the prediction error is larger than the adaptive threshold:
+<ce:display>
+<ce:formula id="eq0012">
+<ce:label>(12)</ce:label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="6177eq0012.gif"><?TeX \begin{equation}
+|\tilde{E}\lbrace X_r \, | \, X^{(r-1)}\rbrace - X_r| >  {\alpha \over l} \sum _{i=1}^l |\tilde{E}\lbrace X_{r-i}\,|\,X^{(r-i-1)}\rbrace - X_{r-i}| , 
+\end{equation}?>
+</mml:math></ce:formula>
+</ce:display>then the pixel <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si56.gif"><?TeX $ r $?></mml:math> is classified as a detected defect pixel. The parameter <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si57.gif"><?TeX $ l $?></mml:math> in (<ce:cross-ref id="crf0075a" refid="eq0013">13</ce:cross-ref>) is a process history length of the adaptive threshold and the constant <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si58.gif"><?TeX $ \alpha = 2.7 $?></mml:math> was found experimentally.</ce:para>
+<ce:para id="para0039">The one-step-ahead predictor
+<ce:display>
+<ce:formula id="eq0013">
+<ce:label>(13)</ce:label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="6177eq0013.gif"><?TeX \begin{equation}
+\tilde{E}\lbrace X_r\,|\, X^{(r-1)}\rbrace = \hat{\gamma }_{s}\, Z_r  
+\end{equation}?>
+</mml:math></ce:formula>
+</ce:display>differs from the corresponding predictor <ce:cross-ref id="crf0074" refid="eq0010">(10)</ce:cross-ref> in using parameters <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si59.gif"><?TeX $ \hat{\gamma }_{s} $?></mml:math> which were learned only in the flawless texture area (<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si60.gif"><?TeX $ s < r $?></mml:math>). The small learning flawless texture cutout is found automatically inside reflection-less iris area. The whole algorithm is extremely fast because the adaptive threshold is updated recursively:
+<ce:display>
+<ce:formula id="eq0014">
+<ce:label>(14)</ce:label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="6177eq0014.gif"><?TeX \begin{equation}
+| \epsilon _{r+1} | > {\alpha \over l} \left[\sum_{i=0}^{l-1} | \epsilon _{r- i} | \right]\! , 
+\end{equation}?>
+</mml:math></ce:formula></ce:display>where <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si61.gif"><?TeX $ \epsilon _r $?></mml:math> is the prediction error
+<ce:display>
+<ce:formula id="eq0015">
+<ce:label>(15)</ce:label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="6177eq0015.gif"><?TeX \begin{equation}
+\epsilon _r = \tilde{E}\lbrace X_r\,|\, X^{(r-1)}\rbrace - X_r , 
+\end{equation}?>
+</mml:math></ce:formula>
+</ce:display>and <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si62.gif"><?TeX $ \hat{\gamma }_{s} $?></mml:math> is the parametric matrix which is not changing. Hence the algorithm can be easily applied in real time iris defect detection.
+</ce:para>
+</ce:section>
+</ce:section>
+</ce:section>
+<ce:section id="sec0013" view="all">
+<ce:label>5</ce:label>
+<ce:section-title id="sectt0017">Experimental <?delstart?>Results<?delend?><?insstart?>results<?insend?></ce:section-title>
+<ce:para id="para0041">The presented method was tested on the MICHE <ce:cross-ref id="crf0075" refid="bib0022">[22]</ce:cross-ref> and UBIRIS v2 <ce:cross-ref id="crf0076" refid="bib0028">[28]</ce:cross-ref> databases.</ce:para>
+<ce:para id="para0042">The MICHE images were captured by three mobile devices iPhone5 (1262 images), Samsung Galaxy S4 (1297 images), and Samsung Galaxy Tab2 (632 images). First two devices exploited both available cameras, i.e. 8 mega-pixel (MPx) iSight camera and 1.2 MPx FaceTime camera in iPhone5 and Samsung Galaxy S4 13 and 2 Mpx cameras, while only the front VGA camera was used in Samsung Galaxy Tab2. For all <?delstart?>seventy-five<?delend?><?insstart?>72<?insend?> subjects were taken between 4 and 8 images per person in an unconstrained outdoor and indoor environments. Some MICHE details are listed in <ce:cross-ref id="crf0077" refid="tbl0001">Table 1</ce:cross-ref><ce:float-anchor refid="tbl0001"/>. Each person has recorded the same eye (left or right) using both (rear-facing as well as front-facing) cameras with the 72 dpi resolution together with information about age and gender. Selected results from the iPhone5 both cameras are illustrated in <ce:cross-ref id="crf0078" refid="fig0006">Fig. 6</ce:cross-ref>. Similar results were achieved on the remaining mobile devices as illustrated on the partial results from Samsung Galaxy S4<?brk?> <ce:cross-ref id="crf0079" refid="fig0005">(Fig. 5)</ce:cross-ref>.<ce:float-anchor refid="fig0005"/><ce:float-anchor refid="fig0006"/> There are not available ground truth data for the MICHE database thus these results can be verified only visually, thus we included also our method comparison with the results from the Noisy Iris Challenge Evaluation Contest, where such numerical results are accessible. The alternative NICE.I methods have no public code thus we cannot use them for visual comparison on the MICHE database.</ce:para>
+<ce:para id="para0043">The presented method was evaluated on the eye UBIRIS v2 database <ce:cross-ref id="crf0080" refid="bib0028">[28]</ce:cross-ref> and compared with the best results achieved during the Noisy Iris Challenge Evaluation contest <ce:cross-ref id="crf0081" refid="bib0031">[31]</ce:cross-ref>. Although the UBIRIS v2 data are different and less challenging than the MICHE data, there is ground truth available and nearly hundred alternative results from the NICE contest which can be used for comparison and result ranking. These databases provide eye images with or without different occlusion types <ce:cross-ref id="crf0082" refid="fig0003">(Fig. 3)</ce:cross-ref>, and thus are an useful resource for the evaluation iris recognition methods. The UBIRIS.v2 database <ce:cross-ref id="crf0083" refid="bib0032">[32]</ce:cross-ref> contains 11<?insstart?>,<?insend?>102 images collected from 261 persons. The RGB <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si63.gif"><?TeX $ 400\times 300, $?></mml:math> 24 bit images were captured with the Canon EOS 5D camera and saved in the TIFF format. The presented method was compared with the top eight results (from 97 participants) <ce:cross-refs id="crfs0004" refid="bib0005 bib0009 bib0016 bib0019 bib0020 bib0021 bib0034 bib0038">[5,9,16,19&ndash;21,34,38]</ce:cross-refs> from the Noisy Iris Challenge Evaluation Contest (NICE.I) <ce:cross-ref id="crf0084" refid="bib0031">[31]</ce:cross-ref> and results using the same NICE.I data presented in the paper <ce:cross-ref id="crf0085" refid="bib0037">[37]</ce:cross-ref>. All comparisons (<ce:cross-ref id="crf0086" refid="tbl0002">Table 2</ce:cross-ref><ce:float-anchor refid="tbl0002"/>) obey the NICE.I contest protocol <ce:cross-ref id="crf0086a" refid="bib0030">[30]</ce:cross-ref>. The contest was run on the UBIRIS.v2 database which contains highly noisy eye images. The participants had 500 training images and a disjoint test set of 500 images was used to measure the pixel-by-pixel agreement between the binary maps made by each participant <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si64.gif"><?TeX $ (X) $?></mml:math> and the ground-truth data <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si65.gif"><?TeX $ (G), $?></mml:math> manually built by the NICE.I organizers<?brk?> <ce:cross-ref id="crf0087" refid="bib0030">[30]</ce:cross-ref>:
+<ce:display>
+<ce:formula id="eq0016">
+<ce:label>(16)</ce:label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="6177eq0016.gif"><?TeX \begin{equation}
+\del {Error}\ins {\text{Error}} = {1\over n n_r n_c} \sum _{k=1}^n \sum _{r_1=1}^{n_r} \sum _{r_2=1}^{n_c} {^nX_r} \otimes {^nG_r} , 
+\end{equation}?>
+</mml:math></ce:formula>
+</ce:display>where <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si66.gif"><?TeX $ \otimes $?></mml:math> is the logic XOR operator, <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si67.gif"><?TeX $ n_r, n_c, n $?></mml:math> are the number of rows, columns, and testing images, respectively.</ce:para>
+<ce:para id="para0044"><ce:cross-ref id="crf0088" refid="fig0007">Fig. 7</ce:cross-ref><ce:float-anchor refid="fig0007"/> indicates several types of defective iris textures. This example illustrates correct detection and localization of the most frequented iris occlusion by the presented method.</ce:para>
+<ce:para id="para0045">The presented method ranked first (<ce:cross-ref id="crf0086b" refid="tbl0002">Table 2</ce:cross-ref>) according to the contest criterion <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si68.gif"><?TeX $ \del {Error}\ins {\text{Error}} $?></mml:math> <ce:cross-ref id="crf0089" refid="eq0016">(16)</ce:cross-ref> on the contest test set. The Noisy Iris Challenge Evaluation Contest winning algorithm <ce:cross-ref id="crf0090" refid="bib0038">[38]</ce:cross-ref> has slightly worse performance than the presented method but it is very complex, time consuming and suffers with numerous experimentally set control parameters. Similarly the third ranked method <ce:cross-ref id="crf0091" refid="bib0034">[34]</ce:cross-ref> based on the reflections localization, reflections filling in, iris boundaries localization and eyelids boundaries localization steps, relies on several experimentally found parameters.</ce:para>
+</ce:section>
+<ce:section id="sec0014" view="all" role="conclusion">
+<ce:label>6</ce:label>
+<ce:section-title id="sectt0018">Conclusions</ce:section-title>
+<ce:para id="para0046">The most published iris defect detection methods are monospectral using near-infrared measurements, while our method advantageously exploits both multispectral as well as the spatial information simultaneously. The method uses the multispectral generalization of the Daugman operator, polynomial upper eyelid model, and fully multispectral spatial Markovian texture model. The method is very fast and robust in comparison with the top-ranking alternative methods from the NICE.I contest. Our method ranked first when evaluated on the <?delstart?>the<?delend?>Noisy Iris Challenge Evaluation Contest from the 97 competing algorithms and the Tan method.</ce:para>
+<ce:para id="para0047">Visual results demonstrate its promising performance also on the very challenging and highly variable Mobile Iris Challenge Evaluation data. The presented method can be easily generalized for gradually changing (e.g., illumination, <?delstart?>colour<?delend?><?insstart?>color<?insend?>, etc.) iris texture defect detection by exploiting its adaptive learning capabilities.<?vsp 1pt?></ce:para>
+</ce:section>
+<ce:section id="sec0015"><ce:section-title id="sectt0019">Uncited references</ce:section-title>
+<ce:para id="para0048"><ce:cross-ref id="crf0092" refid="bib0025">[25]</ce:cross-ref>, <ce:cross-ref id="crf0093" refid="bib0024">[24]</ce:cross-ref>, <ce:cross-ref id="crf0094" refid="bib0017">[17]</ce:cross-ref>.<?qry msg="AU: This section comprises references that occur in the reference list but not in the body of the text. Please cite each reference in the text or, alternatively, delete it. Any reference not dealt with will be retained in this section."?><?vsp 2pt?></ce:para>
+</ce:section>
+</ce:sections>
+<ce:acknowledgment id="ack0001">
+<ce:section-title id="sectt0020"><?delstart?>Acknowledgments<?delend?><?insstart?>Acknowledgment<?insend?>
+</ce:section-title>
+<ce:para id="para0049" view="compact-standard">This research was supported by grant GA&#x0010C;R 14-10911S.<?qry msg="AU: Please provide grant sponsor for the grant number mentioned here."?></ce:para>
+</ce:acknowledgment>
+</body><?vsp 2pt?>
+<tail>
+<ce:bibliography id="cebibsec1" view="all">
+<ce:section-title id="sectt0021">References</ce:section-title>
+<ce:bibliography-sec id="cebibsec2">
+<?att type="book"?><ce:bib-reference id="bib0001">
+<ce:label>[1]</ce:label>
+<sb:reference id="sbref0001"><sb:contribution><sb:authors><sb:author><ce:given-name>F.H.</ce:given-name><ce:surname>Adler</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Physiology of the Eye: Clinical Application</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:book><sb:date>1959</sb:date><sb:publisher><sb:name>The C.V. Mosby Co.</sb:name><sb:location>St. Louis</sb:location></sb:publisher></sb:book></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0002">
+<ce:label>[2]</ce:label>
+<sb:reference id="sbref0002"><sb:contribution><sb:authors><sb:author><ce:given-name>D.H.</ce:given-name><ce:surname>Ballard</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Generalizing the hough transform to detect arbitrary shapes</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Pattern Recogn.</sb:maintitle></sb:title><sb:volume-nr>13</sb:volume-nr></sb:series><sb:issue-nr>2</sb:issue-nr><sb:date>1981</sb:date></sb:issue><sb:pages><sb:first-page>111</sb:first-page><sb:last-page>122</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0003">
+<ce:label>[3]</ce:label>
+<sb:reference id="sbref0003"><sb:contribution><sb:authors><sb:author><ce:given-name>K.W.</ce:given-name><ce:surname>Bowyer</ce:surname></sb:author><sb:author><ce:given-name>K.</ce:given-name><ce:surname>Hollingsworth</ce:surname></sb:author><sb:author><ce:given-name>P.J.</ce:given-name><ce:surname>Flynn</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Image understanding for iris biometrics: A survey</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Comput. Vis. Image Underst.</sb:maintitle></sb:title><sb:volume-nr>110</sb:volume-nr></sb:series><sb:issue-nr>2</sb:issue-nr><sb:date>2008</sb:date></sb:issue><sb:pages><sb:first-page>281</sb:first-page><sb:last-page>307</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="book"?><ce:bib-reference id="bib0004">
+<ce:label>[4]</ce:label>
+<sb:reference id="sbref0004"><sb:contribution><sb:authors><sb:author><ce:given-name>M.J.</ce:given-name><ce:surname>Burge</ce:surname></sb:author><sb:author><ce:given-name>K.W.</ce:given-name><ce:surname>Bowyer</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Handbook of Iris Recognition</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:book><sb:date>2013</sb:date><sb:publisher><sb:name>Springer</sb:name></sb:publisher></sb:book></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0050">
+<ce:label>[5]</ce:label>
+<sb:reference id="sbref0005"><sb:contribution><sb:authors><sb:author><ce:given-name>Y.</ce:given-name><ce:surname>Chen</ce:surname></sb:author><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Adjouadi</ce:surname></sb:author><sb:author><ce:given-name>C.</ce:given-name><ce:surname>Han</ce:surname></sb:author><sb:author><ce:given-name>J.</ce:given-name><ce:surname>Wang</ce:surname></sb:author><sb:author><ce:given-name>A.</ce:given-name><ce:surname>Barreto</ce:surname></sb:author><sb:author><ce:given-name>N.</ce:given-name><ce:surname>Rishe</ce:surname></sb:author><sb:author><ce:given-name>J.</ce:given-name><ce:surname>Andrian</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>A highly accurate and computationally efficient approach for unconstrained iris segmentation</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Image Vis. Comput.</sb:maintitle></sb:title><sb:volume-nr>28</sb:volume-nr></sb:series><sb:issue-nr>2</sb:issue-nr><sb:date>2010</sb:date></sb:issue><sb:pages><sb:first-page>261</sb:first-page><sb:last-page>269</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0006">
+<ce:label>[6]</ce:label>
+<sb:reference id="sbref0006"><sb:contribution><sb:authors><sb:author><ce:given-name>Y.</ce:given-name><ce:surname>Chen</ce:surname></sb:author><sb:author><ce:given-name>S.C.</ce:given-name><ce:surname>Dass</ce:surname></sb:author><sb:author><ce:given-name>A.K.</ce:given-name><ce:surname>Jain</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Localized iris image quality using 2-d wavelets</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Adv. Biomet.</sb:maintitle></sb:title></sb:series><sb:date>2005</sb:date></sb:issue><sb:pages><sb:first-page>373</sb:first-page><sb:last-page>381</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="inproceedings"?><ce:bib-reference id="bib0007"><ce:label>[7]</ce:label><sb:reference id="sbref0007"><sb:contribution><sb:authors><sb:author><ce:given-name>D.</ce:given-name><ce:surname>Chetverikov</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Detecting defects in texture</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:book><sb:title><sb:maintitle>International Conference on Pattern Recognition</sb:maintitle></sb:title><sb:date>1988</sb:date></sb:book><sb:pages><sb:first-page>61</sb:first-page><sb:last-page>63</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference><?pgbrk fill?>
+<?att type="article"?><ce:bib-reference id="bib0008">
+<ce:label>[8]</ce:label>
+<sb:reference id="sbref0008"><sb:contribution><sb:authors><sb:author><ce:given-name>J.</ce:given-name><ce:surname>Daugman</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>High confidence visual recognition of persons by a test of statistical independence</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>IEEE Trans. Pattern Anal. Mach. Intell.</sb:maintitle></sb:title><sb:volume-nr>15</sb:volume-nr></sb:series><sb:issue-nr>11</sb:issue-nr><sb:date>1993</sb:date></sb:issue><sb:pages><sb:first-page>1148</sb:first-page><sb:last-page>1161</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0009">
+<ce:label>[9]</ce:label>
+<sb:reference id="sbref0009"><sb:contribution><sb:authors><sb:author><ce:given-name>P.</ce:given-name><ce:surname>de Almeida</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>A knowledge-based approach to the iris segmentation problem</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Image Vis. Comput.</sb:maintitle></sb:title><sb:volume-nr>28</sb:volume-nr></sb:series><sb:issue-nr>2</sb:issue-nr><sb:date>2010</sb:date></sb:issue><sb:pages><sb:first-page>238</sb:first-page><sb:last-page>245</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0010">
+<ce:label>[10]</ce:label>
+<sb:reference id="sbref0010"><sb:contribution><sb:authors><sb:author><ce:given-name>Y.</ce:given-name><ce:surname>Du</ce:surname></sb:author><sb:author><ce:given-name>R.</ce:given-name><ce:surname>Ives</ce:surname></sb:author><sb:author><ce:given-name>D.</ce:given-name><ce:surname>Etter</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>A new approach to iris pattern recognition</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Proc. SPIE</sb:maintitle></sb:title></sb:series><sb:date>2004</sb:date></sb:issue><sb:pages><sb:first-page>1</sb:first-page><sb:last-page>12</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="inproceedings"?><ce:bib-reference id="bib0011">
+<ce:label>[11]</ce:label>
+<sb:reference id="sbref0011"><sb:contribution><sb:authors><sb:author><ce:given-name>H.</ce:given-name><ce:surname>Fujiwara</ce:surname></sb:author><sb:author><ce:given-name>Z.</ce:given-name><ce:surname>Zhang</ce:surname></sb:author><sb:author><ce:given-name>H.</ce:given-name><ce:surname>Toda</ce:surname></sb:author><sb:author><ce:given-name>H.</ce:given-name><ce:surname>Kawabata</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Textile surface inspection by using translation invariant wavelet transform</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:book><sb:title><sb:maintitle>IEEE International Symposium on Computational Intelligence in Robotics and Automation</sb:maintitle></sb:title><sb:book-series><sb:series><sb:volume-nr>3</sb:volume-nr></sb:series></sb:book-series><sb:date>2003</sb:date><sb:publisher><sb:name>IEEE</sb:name></sb:publisher></sb:book><sb:pages><sb:first-page>1427</sb:first-page><sb:last-page>1432</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="inproceedings"?><ce:bib-reference id="bib0012">
+<ce:label>[12]</ce:label>
+<sb:reference id="sbref0012"><sb:contribution><sb:authors><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Haindl</ce:surname></sb:author><sb:author><ce:given-name>L.</ce:given-name><ce:surname>Florack</ce:surname></sb:author><sb:author><ce:given-name>R.</ce:given-name><ce:surname>Duits</ce:surname></sb:author><sb:author><ce:given-name>G.</ce:given-name><ce:surname>Jongbloed</ce:surname></sb:author><sb:author><ce:given-name>M.C.</ce:given-name><ce:surname>Lieshout</ce:surname></sb:author><sb:author><ce:given-name>L.</ce:given-name><ce:surname>Davies</ce:surname></sb:author></sb:authors></sb:contribution>
+<sb:host><sb:book><sb:title><sb:maintitle>Mathematical Methods for Signal and Image Analysis and Representation</sb:maintitle></sb:title><sb:book-series><sb:series><sb:title><sb:maintitle>Computational Imaging and Vision, vol.&#x000A0;41</sb:maintitle></sb:title></sb:series></sb:book-series><sb:date>2012</sb:date><sb:publisher><sb:name>Springer</sb:name><sb:location>London</sb:location></sb:publisher></sb:book><sb:pages><sb:first-page>241</sb:first-page><sb:last-page>259</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="inproceedings"?><ce:bib-reference id="bib0013">
+<ce:label>[13]</ce:label>
+<sb:reference id="sbref0013"><sb:contribution><sb:authors><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Haindl</ce:surname></sb:author><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Krupi&#x0010D;ka</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Non-iris occlusions detection</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:book><sb:title><sb:maintitle>2013 IEEE Sixth International Conference on Biometrics: Theory, Applications and Systems (BTAS)</sb:maintitle></sb:title><sb:date>2013</sb:date><sb:publisher><sb:name>IEEE</sb:name></sb:publisher></sb:book><sb:pages><sb:first-page>1</sb:first-page><sb:last-page>6</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0014">
+<ce:label>[14]</ce:label>
+<sb:reference id="sbref0014"><sb:contribution><sb:authors><sb:author><ce:given-name>R.</ce:given-name><ce:surname>Haralick</ce:surname></sb:author><sb:author><ce:given-name>K.</ce:given-name><ce:surname>Shanmugam</ce:surname></sb:author><sb:author><ce:given-name>I.</ce:given-name><ce:surname>Dinstein</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Textural features for image classification</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>IEEE Trans. Syst. Man Cybernet.</sb:maintitle></sb:title><sb:volume-nr>3</sb:volume-nr></sb:series><sb:issue-nr>6</sb:issue-nr><sb:date>1973</sb:date></sb:issue><sb:pages><sb:first-page>610</sb:first-page><sb:last-page>621</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0015">
+<ce:label>[15]</ce:label>
+<sb:reference id="sbref0015"><sb:contribution><sb:authors><sb:author><ce:given-name>Z.</ce:given-name><ce:surname>He</ce:surname></sb:author><sb:author><ce:given-name>T.</ce:given-name><ce:surname>Tan</ce:surname></sb:author><sb:author><ce:given-name>Z.</ce:given-name><ce:surname>Sun</ce:surname></sb:author><sb:author><ce:given-name>X.</ce:given-name><ce:surname>Qiu</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Toward accurate and fast iris segmentation for iris biometrics</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>IEEE Trans. Pattern Anal. Mach. Intell.</sb:maintitle></sb:title><sb:volume-nr>31</sb:volume-nr></sb:series><sb:issue-nr>9</sb:issue-nr><sb:date>2009</sb:date></sb:issue><sb:pages><sb:first-page>1670</sb:first-page><sb:last-page>1684</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0016">
+<ce:label>[16]</ce:label>
+<sb:reference id="sbref0016"><sb:contribution><sb:authors><sb:author><ce:given-name>D.S.</ce:given-name><ce:surname>Jeong</ce:surname></sb:author><sb:author><ce:given-name>J.W.</ce:given-name><ce:surname>Hwang</ce:surname></sb:author><sb:author><ce:given-name>B.J.</ce:given-name><ce:surname>Kang</ce:surname></sb:author><sb:author><ce:given-name>K.R.</ce:given-name><ce:surname>Park</ce:surname></sb:author><sb:author><ce:given-name>C.S.</ce:given-name><ce:surname>Won</ce:surname></sb:author><sb:author><ce:given-name>D.K.</ce:given-name><ce:surname>Park</ce:surname></sb:author><sb:author><ce:given-name>J.</ce:given-name><ce:surname>Kim</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>A new iris segmentation method for non-ideal iris images</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Image Vis. Comput.</sb:maintitle></sb:title><sb:volume-nr>28</sb:volume-nr></sb:series><sb:issue-nr>2</sb:issue-nr><sb:date>2010</sb:date></sb:issue><sb:pages><sb:first-page>254</sb:first-page><sb:last-page>260</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="inproceedings"?><ce:bib-reference id="bib0018">
+<ce:label>[18]</ce:label>
+<sb:reference id="sbref0018"><sb:contribution><sb:authors><sb:author><ce:given-name>A.</ce:given-name><ce:surname>Kumar</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Inspection of surface defects using optimal fir filters</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:book><sb:title><sb:maintitle>ICASSP</sb:maintitle></sb:title><sb:book-series><sb:series><sb:volume-nr>vol.&#x000A0;II</sb:volume-nr></sb:series></sb:book-series><sb:date>2003</sb:date><sb:publisher><sb:name>IEEE</sb:name></sb:publisher></sb:book><sb:pages><sb:first-page>241</sb:first-page><sb:last-page>244</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0019">
+<ce:label>[19]</ce:label>
+<sb:reference id="sbref0019"><sb:contribution><sb:authors><sb:author><ce:given-name>R.D.</ce:given-name><ce:surname>Labati</ce:surname></sb:author><sb:author><ce:given-name>F.</ce:given-name><ce:surname>Scotti</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Noisy iris segmentation with boundary regularization and reflections removal</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Image Vis. Comput.</sb:maintitle></sb:title><sb:volume-nr>28</sb:volume-nr></sb:series><sb:issue-nr>2</sb:issue-nr><sb:date>2010</sb:date></sb:issue><sb:pages><sb:first-page>270</sb:first-page><sb:last-page>277</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0020">
+<ce:label>[20]</ce:label>
+<sb:reference id="sbref0020"><sb:contribution><sb:authors><sb:author><ce:given-name>P.</ce:given-name><ce:surname>Li</ce:surname></sb:author><sb:author><ce:given-name>X.</ce:given-name><ce:surname>Liu</ce:surname></sb:author><sb:author><ce:given-name>L.</ce:given-name><ce:surname>Xiao</ce:surname></sb:author><sb:author><ce:given-name>Q.</ce:given-name><ce:surname>Song</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Robust and accurate iris segmentation in very noisy iris images</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Image Vis. Comput.</sb:maintitle></sb:title><sb:volume-nr>28</sb:volume-nr></sb:series><sb:issue-nr>2</sb:issue-nr><sb:date>2010</sb:date></sb:issue><sb:pages><sb:first-page>246</sb:first-page><sb:last-page>253</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0021">
+<ce:label>[21]</ce:label>
+<sb:reference id="sbref0021"><sb:contribution><sb:authors><sb:author><ce:given-name>M.A.</ce:given-name><ce:surname>Luengo-Oroz</ce:surname></sb:author><sb:author><ce:given-name>E.</ce:given-name><ce:surname>Faure</ce:surname></sb:author><sb:author><ce:given-name>J.</ce:given-name><ce:surname>Angulo</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Robust iris segmentation on uncalibrated noisy images using mathematical morphology</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Image Vis. Comput.</sb:maintitle></sb:title><sb:volume-nr>28</sb:volume-nr></sb:series><sb:issue-nr>2</sb:issue-nr><sb:date>2010</sb:date></sb:issue><sb:pages><sb:first-page>278</sb:first-page><sb:last-page>284</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0022">
+<ce:label>[22]</ce:label>
+<sb:reference id="sbref0022"><sb:contribution><sb:authors><sb:author><ce:given-name>M.D.</ce:given-name><ce:surname>Marsico</ce:surname></sb:author><sb:author><ce:given-name>C.</ce:given-name><ce:surname>Galdi</ce:surname></sb:author><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Nappi</ce:surname></sb:author><sb:author><ce:given-name>D.</ce:given-name><ce:surname>Riccio</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Firme: Face and iris recognition for mobile engagement</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Image Vis. Comput.</sb:maintitle></sb:title><sb:volume-nr>32</sb:volume-nr></sb:series><sb:date>2014</sb:date></sb:issue><sb:pages><sb:first-page>1161</sb:first-page><sb:last-page>1172</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="inproceedings"?><ce:bib-reference id="bib0023">
+<ce:label>[23]</ce:label>
+<sb:reference id="sbref0023"><sb:contribution><sb:authors><sb:author><ce:given-name>R.</ce:given-name><ce:surname>Meylani</ce:surname></sb:author><sb:author><ce:given-name>A.</ce:given-name><ce:surname>Ertuzun</ce:surname></sb:author><sb:author><ce:given-name>A.</ce:given-name><ce:surname>Ercil</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>A comparative study on the adaptive lattice filter structures in the context of texture defect detection</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:book><sb:title><sb:maintitle>ICECS&#x02019;96</sb:maintitle></sb:title><sb:book-series><sb:series><sb:volume-nr>vol. II</sb:volume-nr></sb:series></sb:book-series><sb:date>1996</sb:date></sb:book><sb:pages><sb:first-page>976</sb:first-page><sb:last-page>979</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0026">
+<ce:label>[26]</ce:label>
+<sb:reference id="sbref0026"><sb:contribution><sb:authors><sb:author><ce:given-name>H.</ce:given-name><ce:surname>Proen&#x000E7;a</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Iris recognition: On the segmentation of degraded images acquired in the visible wavelength</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>IEEE Trans. Pattern Anal. Mach. Intell.</sb:maintitle></sb:title><sb:volume-nr>32</sb:volume-nr></sb:series><sb:issue-nr>8</sb:issue-nr><sb:date>2010</sb:date></sb:issue><sb:pages><sb:first-page>1502</sb:first-page><sb:last-page>1516</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="inproceedings"?><ce:bib-reference id="bib0027">
+<ce:label>[27]</ce:label>
+<sb:reference id="sbref0027"><sb:contribution><sb:authors><sb:author><ce:given-name>H.</ce:given-name><ce:surname>Proen&#x000E7;a</ce:surname></sb:author><sb:author><ce:given-name>L.</ce:given-name><ce:surname>Alexandre</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Iris recognition: Measuring feature&#x02019;s quality for the feature selection in unconstrained image capture environments</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:book><sb:title><sb:maintitle>Proceedings of the 2006 IEEE International Conference on Computational Intelligence for Homeland Security and Personal Safety</sb:maintitle></sb:title><sb:date>2006</sb:date><sb:publisher><sb:name>IEEE</sb:name></sb:publisher></sb:book><sb:pages><sb:first-page>35</sb:first-page><sb:last-page>40</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="inproceedings"?><ce:bib-reference id="bib0028">
+<ce:label>[28]</ce:label>
+<sb:reference id="sbref0028"><sb:contribution><sb:authors><sb:author><ce:given-name>H.</ce:given-name><ce:surname>Proen&#x000E7;a</ce:surname></sb:author><sb:author><ce:given-name>L.A.</ce:given-name><ce:surname>Alexandre</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>UBIRIS: A noisy iris image database</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:book><sb:title><sb:maintitle>13th International Conference on Image Analysis and Processing (ICIAP&#x02019;05)</sb:maintitle></sb:title><sb:book-series><sb:series><sb:title><sb:maintitle>LNCS, vol. 3617</sb:maintitle></sb:title></sb:series></sb:book-series><sb:date>2005</sb:date><sb:publisher><sb:name>Springer</sb:name><sb:location>Cagliari, Italy</sb:location></sb:publisher></sb:book><sb:pages><sb:first-page>970</sb:first-page><sb:last-page>977</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="inproceedings"?><ce:bib-reference id="bib0029">
+<ce:label>[29]</ce:label>
+<sb:reference id="sbref0029"><sb:contribution><sb:authors><sb:author><ce:given-name>H.</ce:given-name><ce:surname>Proen&#x000E7;a</ce:surname></sb:author><sb:author><ce:given-name>L.A.</ce:given-name><ce:surname>Alexandre</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>A method for the identification of noisy regions in normalized iris images</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:book><sb:title><sb:maintitle>18th International Conference on Pattern Recognition (ICPR&#x02019;06)</sb:maintitle></sb:title><sb:book-series><sb:series><sb:volume-nr>vol. 4</sb:volume-nr></sb:series></sb:book-series><sb:date>2006</sb:date></sb:book><sb:pages><sb:first-page>405</sb:first-page><sb:last-page>408</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="inproceedings"?><ce:bib-reference id="bib0030">
+<ce:label>[30]</ce:label>
+<sb:reference id="sbref0030"><sb:contribution><sb:authors><sb:author><ce:given-name>H.</ce:given-name><ce:surname>Proen&#x000E7;a</ce:surname></sb:author><sb:author><ce:given-name>L.A.</ce:given-name><ce:surname>Alexandre</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>The nice.Ii: Noisy iris challenge evaluation&#x02014;Part I</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:book><sb:title><sb:maintitle>First IEEE International Conference on Biometrics: Theory, Applications, and Systems (BTAS&#x02019;07)</sb:maintitle></sb:title><sb:date>2007</sb:date><sb:publisher><sb:name>IEEE</sb:name></sb:publisher></sb:book><sb:pages><sb:first-page>1</sb:first-page><sb:last-page>4</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0031">
+<ce:label>[31]</ce:label>
+<sb:reference id="sbref0031"><sb:contribution><sb:authors><sb:author><ce:given-name>H.</ce:given-name><ce:surname>Proen&#x000E7;a</ce:surname></sb:author><sb:author><ce:given-name>L.A.</ce:given-name><ce:surname>Alexandre</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Introduction to the special issue on the segmentation of visible wavelength iris images captured at-a-distance and on-the-move</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Image Vis. Comput.</sb:maintitle></sb:title><sb:volume-nr>28</sb:volume-nr></sb:series><sb:issue-nr>2</sb:issue-nr><sb:date>2010</sb:date></sb:issue><sb:pages><sb:first-page>213</sb:first-page><sb:last-page>214</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0032">
+<ce:label>[32]</ce:label>
+<sb:reference id="sbref0032"><sb:contribution><sb:authors><sb:author><ce:given-name>H.</ce:given-name><ce:surname>Proen&#x000E7;a</ce:surname></sb:author><sb:author><ce:given-name>S.</ce:given-name><ce:surname>Filipe</ce:surname></sb:author><sb:author><ce:given-name>R.</ce:given-name><ce:surname>Santos</ce:surname></sb:author><sb:author><ce:given-name>J.</ce:given-name><ce:surname>Oliveira</ce:surname></sb:author><sb:author><ce:given-name>L.</ce:given-name><ce:surname>Alexandre</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>The ubiris.v2: A database of visible wavelength iris images captured on-the-move and at-a-distance</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>IEEE Trans. Pattern Anal. Mach. Intell.</sb:maintitle></sb:title><sb:volume-nr>32</sb:volume-nr></sb:series><sb:issue-nr>8</sb:issue-nr><sb:date>2010</sb:date></sb:issue><sb:pages><sb:first-page>1529</sb:first-page><sb:last-page>1535</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="book"?><ce:bib-reference id="bib0033">
+<ce:label>[33]</ce:label>
+<sb:reference id="sbref0033"><sb:contribution><sb:authors><sb:author><ce:given-name>C.</ce:given-name><ce:surname>Rathgeb</ce:surname></sb:author><sb:author><ce:given-name>A.</ce:given-name><ce:surname>Uhl</ce:surname></sb:author><sb:author><ce:given-name>P.</ce:given-name><ce:surname>Wild</ce:surname></sb:author></sb:authors></sb:contribution>
+<sb:host><sb:book><sb:title><sb:maintitle>Iris Biometrics: From Segmentation to Template Security, vol.&#x000A0;59</sb:maintitle></sb:title><sb:date>2013</sb:date><sb:publisher><sb:name>Springer</sb:name></sb:publisher></sb:book></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0034">
+<ce:label>[34]</ce:label>
+<sb:reference id="sbref0034"><sb:contribution><sb:authors><sb:author><ce:given-name>W.</ce:given-name><ce:surname>Sankowski</ce:surname></sb:author><sb:author><ce:given-name>K.</ce:given-name><ce:surname>Grabowski</ce:surname></sb:author><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Napieralska</ce:surname></sb:author><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Zubert</ce:surname></sb:author><sb:author><ce:given-name>A.</ce:given-name><ce:surname>Napieralski</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Reliable algorithm for iris segmentation in eye image</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Image Vis. Comput.</sb:maintitle></sb:title><sb:volume-nr>28</sb:volume-nr></sb:series><sb:issue-nr>2</sb:issue-nr><sb:date>2010</sb:date></sb:issue><sb:pages><sb:first-page>231</sb:first-page><sb:last-page>237</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0035">
+<ce:label>[35]</ce:label>
+<sb:reference id="sbref0035"><sb:contribution><sb:authors><sb:author><ce:given-name>W.</ce:given-name><ce:surname>Sankowski</ce:surname></sb:author><sb:author><ce:given-name>K.</ce:given-name><ce:surname>Grabowski</ce:surname></sb:author><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Zubert</ce:surname></sb:author><sb:author><ce:given-name>M.</ce:given-name><ce:surname>Napieralska</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Iris finder&#x02013;program for reliable iris localization in images taken under visible light</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:volume-nr>vol. 10</sb:volume-nr></sb:series><sb:date>2006</sb:date></sb:issue><sb:pages><sb:first-page>125</sb:first-page><sb:last-page>132</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="inproceedings"?><ce:bib-reference id="bib0036">
+<ce:label>[36]</ce:label>
+<sb:reference id="sbref0036"><sb:contribution><sb:authors><sb:author><ce:given-name>J.L.</ce:given-name><ce:surname>Sobral</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Optimised filters for texture defect detection</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:book><sb:title><sb:maintitle>International Conference on Image Processing</sb:maintitle></sb:title><sb:book-series><sb:series><sb:volume-nr>vol. III</sb:volume-nr></sb:series></sb:book-series><sb:date>2005</sb:date></sb:book><sb:pages><sb:first-page>565</sb:first-page><sb:last-page>568</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0037">
+<ce:label>[37]</ce:label>
+<sb:reference id="sbref0037"><sb:contribution><sb:authors><sb:author><ce:given-name>C.W.</ce:given-name><ce:surname>Tan</ce:surname></sb:author><sb:author><ce:given-name>A.</ce:given-name><ce:surname>Kumar</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Unified framework for automated iris segmentation using distantly acquired face images</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>IEEE Trans. Image Process.</sb:maintitle></sb:title><sb:volume-nr>21</sb:volume-nr></sb:series><sb:issue-nr>9</sb:issue-nr><sb:date>2012</sb:date></sb:issue><sb:pages><sb:first-page>4068</sb:first-page><sb:last-page>4079</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0038">
+<ce:label>[38]</ce:label>
+<sb:reference id="sbref0038"><sb:contribution><sb:authors><sb:author><ce:given-name>T.</ce:given-name><ce:surname>Tan</ce:surname></sb:author><sb:author><ce:given-name>Z.</ce:given-name><ce:surname>He</ce:surname></sb:author><sb:author><ce:given-name>Z.</ce:given-name><ce:surname>Sun</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Efficient and robust segmentation of noisy iris images for non-cooperative iris recognition</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Image Vis. Comput.</sb:maintitle></sb:title><sb:volume-nr>28</sb:volume-nr></sb:series><sb:issue-nr>2</sb:issue-nr><sb:date>2010</sb:date></sb:issue><sb:pages><sb:first-page>223</sb:first-page><sb:last-page>230</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0039">
+<ce:label>[39]</ce:label>
+<sb:reference id="sbref0039"><sb:contribution><sb:authors><sb:author><ce:given-name>A.</ce:given-name><ce:surname>Telea</ce:surname></sb:author></sb:authors></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>J. Graphic Tool</sb:maintitle></sb:title><sb:volume-nr>9</sb:volume-nr></sb:series><sb:issue-nr>1</sb:issue-nr><sb:date>2004</sb:date></sb:issue><sb:pages><sb:first-page>23</sb:first-page><sb:last-page>34</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+<?att type="article"?><ce:bib-reference id="bib0040">
+<ce:label>[40]</ce:label>
+<sb:reference id="sbref0040"><sb:contribution><sb:authors><sb:author><ce:given-name>R.P.</ce:given-name><ce:surname>Wildes</ce:surname></sb:author></sb:authors><sb:title><sb:maintitle>Iris recognition: Aan emerging biometric technology</sb:maintitle></sb:title></sb:contribution>
+<sb:host><sb:issue><sb:series><sb:title><sb:maintitle>Proc. IEEE</sb:maintitle></sb:title><sb:volume-nr>85</sb:volume-nr></sb:series><sb:issue-nr>9</sb:issue-nr><sb:date>1997</sb:date></sb:issue><sb:pages><sb:first-page>1348</sb:first-page><sb:last-page>1363</sb:last-page></sb:pages></sb:host>
+</sb:reference></ce:bib-reference>
+</ce:bibliography-sec>
+</ce:bibliography></tail>
+</article>

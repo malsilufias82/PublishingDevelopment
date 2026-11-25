@@ -1,0 +1,2011 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?jobjacket cls="cuus1723"  sty="upmath" mode="draftrules,proofreadertemplate"?> <!-- draftrules, -->
+<!DOCTYPE book PUBLIC "-//CBML//DTD Book Publishing DTD V4//EN" "http://dtd.cambridge.org/schemas/2012/01/CBML.dtd">
+<book  xmlns="http://dtd.cambridge.org/2007/CBML" isbn="9781107123459">
+<prelims/> <!--  sty="morefloats" -->
+<main>
+<?cmd raggedbottom ?>
+<chapter id="c12345-01">
+<label>1</label>
+<title>An Introduction to climate change</title>
+<!-- <subtitle>Rule of Law Dynamics in an Era of International&break; and Transnational Governance</subtitle> -->
+<alt-title type="right-running">An Introduction to climate change</alt-title>
+<body>
+
+<p>In<?qry valign="-70pt" msg="(CN)/(CT)"?> most places on this planet&#x0027;s terrestrial surface there are the signs of life. Even in those places where there is not much life today, there are frequently signs of past life, be it fossils, coal or chalk. Further, it is almost a rule of thumb that if you do discover signs of past life, either tens of thousands or millions of years ago, then such signs will most likely point to different species to those found there today. Why&#x003F; Here there are a number of answers, not least of which is evolution. Yet a key feature of why broad types of species (be they broad-leaved tree species as opposed to narrow needle-leaved ones) live in one place and not another is to do with climate. Climate is a fundamental factor influencing biology. Consequently a key factor (among others) as to why different species existed in a particular place 5000, 50000, 500 000 or even 5 000 000 years ago (to take some arbitrary snapshots in time) is due to different climatic regimens existing at that place in those times.<xref href="c12345-100-54"><sup>1</sup></xref></p>
+<p>It is also possible to turn this truism on its head and use biology to ascertain aspects of the climate, and biological remains are aspects of past climates (which we will come to in chapter 2). Furthermore, biology can influence climate: for example, an expanse of rainforest transpires such a quantity of water, and influences the flow of water through a catchment area, that it can modify the climate from what it otherwise would have been in the absence of living species. Climate and biology are interrelated.</p>
+<p>Look at it another way. All living things flourish within a temperature range as well as have certain temperature tolerances for aspects of their life cycle. Furthermore, all living things require a certain amount of water and the availability of water, terrestrially, is again driven by climate. Given this essential connection of temperature and water to life, it is not difficult to see how important climate is in determining where different species, and assemblages thereof (ecosystems), can be found.</p>
+<p>From this we can easily deduce that if climate is so important, then understanding climate change is absolutely critical if we are to predict the likely fate of species in a certain region. As mentioned, it is also possible to use the reverse in an applied sense to note the presence (or past presence) of different species and then use this as an indicator of climate, both in the past and in the present. This interrelationship between life and climate is fundamental. It affects all species, which includes, we sometimes forget, our own &#x2013; <emphasis type="italic">Homo sapiens.</emphasis> Here we also tend to forget that on every continent except Antarctica there are examples of deserted settlements and evidence of long-extinct civilisations. These are societies that once flourished but have now gone, due primarily to a change in climate (this will be examined in chapter 5).</p>
+<p>If it is not sufficiently significant that living things, including human societies, are subject to the vagaries of climate change, there is now convincing evidence that our modern global society is currently altering the global climate in a profound way that also has regional, and indeed global, biological implications that will impact heavily on human societies. For these reasons there is currently considerable interest in the way living things interact with the climate, and especially our own species. As we shall see in the course of this book, biology, and the environmental sciences relating to ecology and climate, can provide us with information as to past climates and climate change (palaeoclimatology) which in turn can illuminate policy determining our actions affecting future climate. This will be invaluable if we are to begin to manage our future prospects.<xref href="c12345-100-55"><sup>9</sup></xref></p>
+<p>The greenhouse effect is not some peripheral phenomenon only of importance to global warming. The greenhouse effect is at the heart of the Earth&#x0027;s natural climatic systems. It is a consequence of having an atmosphere, and of course the atmosphere is where climates are manifest.<xref href="c12345-100-56"><sup>10</sup></xref></p>
+<p>The French mathematician Jean-Baptiste Joseph Fourier (not to be confused with the contemporary chemist of the same name) is generally credited with the discovery of the greenhouse effect. He described the phenomenon, in 1824 and then again in a very similar paper in 1827 (Fourier, 1824, 1827), whereby an atmosphere serves to warm a planet. These papers almost did not get written as Fourier was very nearly guillotined during the French Revolution and only escaped when those who condemned him were ultimately guillotined themselves.</p>
+<p>Perhaps the best way to illustrate the greenhouse effect is to consider what it would be like if the Earth had no atmosphere. This is not as difficult as it might first seem. We only have to travel 384 400 km (238 856 miles) to the Moon and see the conditions there. On that airless world (its atmosphere is barely above vacuum at one trillionth (10<sup>&#x2212;12</sup>) of the Earth&#x0027;s) the daytime temperature is 390 K (117&#x00BA;C), while at night it drops to 100 K (-173 &#x00BA;C), giving a median of some 245 K (-28 &#x00BA;C). During the lunar day, sunlight either is reflected off the Moon&#x0027;s rocky surfaces or is absorbed, warming the rocks that then re-radiate the energy. The total amount of incoming radiation equals that outgoing. However, at the Earth&#x0027;s surface the average global temperature is higher, at about 288 K (15 &#x00BA;C). The Earth&#x0027;s atmosphere keeps the planet warmer than it would otherwise be by some 43 &#x00BA;K (43 &#x00BA;C). This 43 &#x00BA;K warming is due to the Earth&#x0027;s atmospheric greenhouse. It is perfectly natural. This warming effect has (albeit to a varying extent) always existed. It occurs because not all the thermal radiation from the Sun falling on our planet&#x0027;s surface gets reflected back out into space. The atmosphere traps some of it just as on the Moon rock is warmed. However, more is trapped on Earth because the atmosphere is transparent to some frequencies (the higher frequencies) of thermal radiation, while opaque to some other, lower, frequencies. Conversely, rock on the Moon is not at all transparent so only the surface of the rock warms and not the strata deep beneath.</p>
+<p>The reason why some of the light reflected from the Earth&#x0027;s surface, or radiated as infrared radiation from the lower atmosphere, becomes trapped is because it has changed from being of the sort to which the atmosphere as a whole is transparent to that to which the atmosphere is opaque. There are different types of light because photons of light can be of different energy. This energy (<emphasis type="italic">E</emphasis>) of electromagnetic radiation (light, thermal radiation and other rays) is proportional to its frequency (<emphasis type="italic">&#x03BD;</emphasis>) or colour, with the constant of proportionality being Planck&#x0027;s constant (<emphasis type="italic">h</emphasis>, and which is estimated to be 6.626 x 1(10<sup>&#x2212;34</sup> Js). And so the atmosphere is transparent to some frequencies of light but not others. This transparency mix allows some higher-energy light into the blanket of atmosphere surrounding our planet, but hinders other, especially lower-energy infrared (heat-level), wavelengths from getting out. The exact mathematical relationship between the energy of a photon of light (or any other electromagnetic radiation) was elucidated, long after Fourier, in 1902 by the German physicist Max Planck. It can be expressed in the following simple equation.</p>
+
+
+
+<!-- <?anchor c12345-25 ?> -->
+<!-- <boxed-text id="c12345-25" position="float"> -->
+<!-- <label>Box 2 2</label> -->
+<!-- <title>Box Head</title> -->
+<!-- <p>UOPs may be distinguished from MOPs (Multicellular-Organism Parasites, which I pronounce m ps) by a number of criteria.</p>  -->
+<!-- <def-list id="c12345-1018" type="simple"> -->
+<!-- <def-item><term>T:</term><def><p>You&#x2019;re going to hear somebody talking about camels. He&#x2019;s <?qry msg="(Def List)"?>a zoologist who&#x2019;s studied them. What do you think he&#x2019;ll talk about?</p></def></def-item> -->
+<!-- <def-item><term>S1:</term><def><p>Desert. </p></def></def-item> -->
+<!-- <def-item><term>T:</term><def><p>Yes, he might mention deserts. (<emphasis type="italic">writes DESERT on board</emphasis>) Anything else? </p></def></def-item></def-list><p>For example, UOPs typically are organisms which (i) are obligate intracellular parasites.</p></boxed-text> -->
+
+
+
+</body>
+
+<back>
+
+<fn-group type="footnotes">
+<fn id="c12345-100-54"><label><sup>1</sup></label><p>You may have noticed that some estimates of CO<sub>2</sub> emissions seem to be about 3 1&#x002F;2 times as large as others. This is because numbers are sometimes expressed as mass of CO<sub>2</sub> but are in this book are mainly expressed in terms of the mass of the C (carbon). Because C cycles through the atmosphere, oceans, plants, fuels, etc. and changes the ways in which it is combined with other elements, it is often easier to keep track only of the flows of carbon. Emissions expressed in units of C can be easily converted to emissions in CO<sub>2</sub> units by adjusting for the mass of the attached oxygen atoms, that is by multiplying by the ratios of the molecular weights, 44&#x002F;12, or 3.67.</p></fn>
+<fn id="c12345-100-55"><label><sup>2</sup></label><p>Residence times are both estimates and also can alter in different atmospheric conditions such as gas concentration and temperature. So do not be surprised if you see slightly different figures in the academic literature. Sound advice is to use the most recent as well as authoritative estimates.</p></fn>
+<fn id="c12345-100-56"><label><sup>3</sup></label><p>On a lifeless world there is no biosphere, only a geosphere.</p></fn>
+<!--fn id="c12345-100-57"><label>4.</label><p>To facilitate any on-line discussion I will post this appendix as a page to which you can link. Just Google this appendix&#x0027;s title.</p></fn-->
+</fn-group>
+</back>
+</chapter>
+
+<!-- <part id="c12345-14"> -->
+<!-- <label>part i</label> -->
+<!-- <title>Rule of Law at the International, National&break; and Transnational Level</title> -->
+<!-- <p> &#x2003;  <?qry valign="-77pt" msg="(PN)"?><?qry valign="-37pt" msg="(PT)"?> </p> -->
+
+<!-- <?cmd cleardoublepage ?> -->
+
+
+<!--     </part> -->
+
+<chapter id="c12345-10--39">
+<label>2</label>
+<title>The Oligocene to the Quaternary: climate and biology</title>
+<!-- <subtitle>Legitimatory Potential and Political Dynamics</subtitle> -->
+
+<alt-title type="left-running">The Oligocene to the Quaternary</alt-title>
+
+
+
+<body>
+
+
+<p>In<?qry valign="-70pt" msg="(CN)/(CT)"?> most places on this planet&#x0027;s terrestrial surface there are the signs of life. Even in those places where there is not much life today, there are frequently signs of past life, be it fossils, coal or chalk. Further, it is almost a rule of thumb that if you do discover signs of past life, either tens of thousands or millions of years ago, then such signs will most likely point to different species to those found there today. Why&#x003F; Here there are a number of answers, not least of which is evolution. Yet a key feature of why broad types of species (be they broad-leaved tree species as opposed to narrow needle-leaved ones) live in one place and not another is to do with climate. Climate is a fundamental factor influencing biology. Consequently a key factor (among others) as to why different species existed in a particular place 5000, 50000, 500 000 or even 5 000 000 years ago (to take some arbitrary snapshots in time) is due to different climatic regimens existing at that place in those times.</p>
+<alt-title type="right-running">2.1&#x2002;Weather or climate</alt-title>
+<sec id="c12345-100-2"><label>2.1</label><title>Weather or climate</title>
+<alt-title type="right-running">2.1&#x2002;Weather or climate</alt-title>
+<p>Any<?qry valign="-33pt" msg="(A Head)"?> exploration of the biology of climate change needs to clarify what is meant by climate as distinct from weather. In essence, the latter is the day-to-day manifestation of the former. The climate of a region is determined by long-term weather conditions including seasonal changes. The problem is that weather is in its own right a variable phenomenon: if it were not we would have less difficulty in arriving at more accurate long-term forecasts. Consequently, if the climate of a region changes we can only discern this over a long period of time once we have disentangled possible climate change from weather&#x0027;s natural background variability. Analogously, physicists and engineers refer to what they call the signal-to-noise ratio, and this they apply to electrical currents or an electromagnetic signal, be it a commercial radio broadcast or that from a stellar body. Similarly, with climate change, the problem is to disentangle a small climatic-change signal from considerable background weather noise. For example, one very hot summer (or drought, or heavy monsoon, or whatever&#x2026;) by itself does not signify climate change. On the other hand, a decade or more of these in succession may well be of climatic significance.</p>
+
+<sec id="c12345-100-9"><label>2.1.1</label><title>Leaf shape (Morphology)</title>
+<p>In<?qry valign="-21pt" msg="(B Head)"?> 1910 two explorers (Irving Bailey and Edmund Sinnott) noticed that the shapes of leaves appeared to relate to the climate of a given area. The most noticeable trait was that trees that grew in warm areas had large leaves with smooth edges, while trees that grew in cold places tended to have smaller leaves with very serrated edges (Bailey and Sinnott, 1916; Ravilious, 2000). This was largely forgotten until the 1970s, when a US researcher, Jack Wolfe, wondered whether fossilised leaves could reveal something of the climate if they were compared with their modern counterparts. He collected leaves from all over North America, recording aspects of their shape and relating these to regional weather records for the previous 30 years. Then, using statistical analysis he was able to compare fossil leaf assemblages with those of modern leaves and come up with past average temperature and rainfall values for the regions and times in which the fossil leaves once grew. For example, he predicted that the temperature in north-eastern Russia some 90 million years ago was roughly 9 &#x00B0;C warmer than it is today (Wolfe, 1995). Other early work following Bailey and Sinnott, such as by R. Chaney and E. Sanborn in 1933, showed that leaf size and apex shape were also related to climate. Apart from the Wolfe database standard for North America, other databases have been developed. For instance, in the late 1990s, Kate Ravilious worked on developing a similar database for the UK. These databases can be used in techniques such as leaf margin analysis (LMA) to infer temperature and leaf area analysis (LAA) to infer precipitation. LMA relates to the aforementioned changes in leaf shape with temperature, while LAA relates to changes in leaf area with precipitation level; for instance, plants with access to plenty of water can afford to lose it through transpiration over a large surface area (which also benefits sunlight capture, but which is not restricted by sunlight).</p>
+<p>The reason why some of the light reflected from the Earth&#x0027;s surface, or radiated as infrared radiation from the lower atmosphere, becomes trapped is because it has changed from being of the sort to which the atmosphere as a whole is transparent to that to which the atmosphere is opaque. There are different types of light because photons of light can be of different energy. This energy (<emphasis type="italic">E</emphasis>) of electromagnetic radiation (light, thermal radiation and other rays) is proportional to its frequency (<emphasis type="italic">&#x03BD;</emphasis>) or colour, with the constant of proportionality being Planck&#x0027;s constant (<emphasis type="italic">h</emphasis>, and which is estimated to be 6.626 x 1(10<sup>&#x2212;34</sup> Js). And so the atmosphere is transparent to some frequencies of light but not others. This transparency mix allows some higher-energy light into the blanket of atmosphere surrounding our planet, but hinders other, especially lower-energy infrared (heat-level), wavelengths from getting out. The exact mathematical relationship between the energy of a photon of light (or any other electromagnetic radiation) was elucidated, long after Fourier, in 1902 by the German physicist Max Planck. It can be expressed in the following simple equation.
+<disp-formula><mime type="graphic" href="12345eqnu1"><alt-text><?CDATA
+\begin{eqnarray*}
+\umu E = hv. \hspace*{104pt}\\
+ E\left( {{\rm energy}} \right)\,{\rm is}\,{\rm measured}\,{\rm in}\,{\rm joules}\,{\rm and}\,v\,\left( {{\rm frequency}} \right)\,{\rm in}\,{\rm hertz}{\rm .}
+\end{eqnarray*}
+?></alt-text></mime></disp-formula></p>
+<p>It<?qry valign="-22pt" msg="(DE)"?> is important to note that the generation of oxygen by primitive algal mats did not immediately result in a commensurate increase in the atmosphere&#x0027;s free oxygen. Just as today, there were buffering systems in the bio-geosphere (hereafter referred to as the biosphere). These buffers soaked up any free oxygen that was released and in the process the abilities of these buffers themselves would change. One of the first greenhouse casualties of the release of free oxygen would have been the primordial abundance of the greenhouse gas methane, irrespective of whether it was just high or extremely high. As previously noted, methane is quite easily oxidised by free oxygen and today has an atmospheric residence time of just 12 years (see Chapter 1). However, over 2 bya, when oxygen was beginning to be released into the atmosphere, initially it would be soaked up by the methane and any other agent (such as iron) capable of being oxidised. Indeed iron oxide strata were laid down from the oxidation of iron in the primordial oceans to form characteristic banded formations (called &#x2018;banded iron formations&#x2019; or &#x2018;BIFs&#x2019;). At some point, as oxygen continued to be released, much of the methane was used up, so lowering its atmospheric concentration, bringing it closer to today&#x0027;s low value: this meant that the strong methane greenhouse warming of the anaerobic Earth had gone.</p>
+
+<sec id="c12345-100-13">
+<title>Brief summary of &#x03B4;<sup> 13</sup>C/<sup>12</sup>C analysis</title>
+<p>Carbon<?qry valign="-16pt" msg="(C Head)"?> consists of two stable isotopes with masses 12 and 13. The heavier, mass 13, isotope makes up 1.1&#x0025; of naturally occurring carbon (Nier 1950). Variations in the ratio of <sup>13</sup>C to <sup>12</sup>C are usually expressed as per mil (&#x2030; or part per thousand) deviations from the ratio in the Vienna-defined PeeDee Belemnite (V-PDB) standard. The original sample was used up some years ago, but a Vienna-based laboratory calibrated a new reference sample to the original, giving rise to the widespread use of the term Vienna- PeeDee Belemnite standard, abbreviated to V-PDB. The change in <sup>13</sup>C/<sup>12</sup>C is given by the equation:-
+<disp-formula><mime type="graphic" href="12345eqnu3"><alt-text><?CDATA
+\begin{eqnarray*}
+{\rm \delta }^{{\rm 13}} {\rm C/}^{{\rm 12}} {\rm C }  =\frac{[( {}^{13} {\rm C/}^{12} {\rm C)_{\rm Sample} - ({}^{13} {\rm C/}^{12} {\rm C)}_{\rm V\ PDB}]}}{\rm (^{13} {\rm C/}^{12} {\rm C)}_{\rm V PDB}} \times 1000\%
+\end{eqnarray*}
+?></alt-text></mime></disp-formula></p>
+<p>When sunlight or solar radiation is either reflected off dust particles and water droplets in the atmosphere, or alternatively off the ground, it loses energy. <!-- As a result of the above relationship between energy and frequency, this reflected light is now at a lower energy, hence lower frequency. As stated, the atmosphere, while transparent to many higher frequencies, is opaque to many of the lower thermal frequencies. The atmosphere traps these and so warms. Consequently the atmosphere acts like a blanket trapping lower-frequency radiation (see Figure 1.1). --> It functions just as the glass of a greenhouse does by allowing in higher-frequency light, but trapping some of the lower-frequency heat; hence the term greenhouse effect. This is why those constituents of the atmosphere that strongly exhibit these properties are called greenhouse gases. The Irish polymath John Tyndall described the greenhouse role of some gases in 1861 (Tyndall, 1861) and succeeded in quantifying their heat-absorbing properties.
+<disp-quote><p>To<?qry valign="6pt" msg="(EXT)"?> get the best return on &#x005B;climate-change research&#x005D; funding, there must be strong interdisciplinary collaboration between those taking data from sea sediments, ice and land, and also between those making measurements and those developing models. But above all, the community must deliver more by way of systematic deposition of its data.</p>
+<?vsp 6pt?>
+<p><?noind?>In making the most of data, funding agencies, journals and researchers themselves all have a role to play. There seems to be too little awareness by researchers of what is admittedly something of a maze of publicly supported databases. And too often, as researchers will readily complain, trying to extract numbers in a large data set from the originators of published work is like pulling teeth.</p></disp-quote></p>
+<p>This is not to decry much of the very good work that has been, and is being, carried out. The purpose of this text is simply to provide bioscience and other students (not to mention interested members of the public) with a broad-brush basic picture as to how climate affects biology (and vice versa). For others this book will serve as a background against which they can set their own more specialist work, with reference to human ecology and likely future climate change. However, before this can be done, it will be useful to review some of the key biological indicators of past climate change. This forms the subject of the next chapter.</p>
+<p>There is currently much research being done to elucidate the carbon cycle&#x0027;s operation, and to measure or infer carbon sinks (Houghton, 2002). This work might be grouped as follows.
+<?att label="6." ?><list id="c12345-100-5" type="number">
+<list-item><label>1.</label><p>Global<?qry valign="7pt" msg="(NL)"?> budgets based on atmospheric data and models. The use of data from nearly 100 sites around the Earth of atmospheric carbon dioxide and isotopes.</p></list-item>
+<list-item><label>2.</label><p>Global budgets based on models of oceanic carbon uptake. The use of models of the oceans&#x2019; carbon cycle and chemistry linked to those of terrestrial and atmospheric sources.</p></list-item>
+<list-item><label>3.</label><p>Regional carbon budgets from forest inventories. Many developed nations have national forest inventories and changes in volumes over time can indicate sources or sinks of carbon. However, we are a long way from making this accurate, either on a national basis or for global coverage, although progress is being made.</p></list-item>
+<list-item><label>4.</label><p>Direct measurements of carbon dioxide above ecosystems. Using stand towers in forests it is possible to measure changes in carbon dioxide being given off or absorbed. (This is quite different from measuring atmospheric carbon dioxide on top of a Hawaiian volcano (one of the key measurement sites) combined with scores of other direct atmospheric measurements to obtain a hemispheric average.)</p></list-item>
+<list-item><label>5.</label><p>Earth-system science modelling using ecosystem physiology. Using global models built up from global biome and ecosystem data. One of the big questions here (apart from the accuracy of the size of the ecosystem components) is whether all the important ecosystem processes have been included or properly quantified.</p></list-item>
+<list-item><label>6.</label><p>Carbon models based on changes in land use. This is related to item 5 and has similar constraints.</p></list-item>
+</list></p>
+<!-- <p>Before we explore climate change and especially current problems, we first need to be aware of some terms and the phenomena driving current global warming.</p> -->
+<p>It is also possible to turn this truism on its head and use biology to ascertain aspects of the climate, and biological remains are aspects of past climates (which we will come to in chapter 2). Furthermore, biology can influence climate: for example, an expanse of rainforest transpires such a quantity of water, and influences the flow of water through a catchment area, that it can modify the climate from what it otherwise would have been in the absence of living species. Climate and biology are interrelated.</p>
+
+	  </sec></sec></sec>
+<alt-title type="right-running">2.2&#x2002;The greenhouse effect</alt-title>
+<sec id="c12345-100-2"><label>2.2</label>
+<title>The greenhouse effect</title>
+<sec id="c12345-100-1059"><label>2.2.1</label><title>Leaf shape (Morphology)</title>
+<sec id="c12345-100-245413">
+<title>Brief summary of &#x03B4;<sup> 13</sup>C/<sup>12</sup>C analysis</title><alt-title type="right-running">2.2&#x2002;The greenhouse effect</alt-title>
+
+<p>The<?qry valign="-53pt" msg="Stacking of A, B and C Head"?> greenhouse effect is not some peripheral phenomenon only of importance to global warming. The greenhouse effect is at the heart of the Earth&#x0027;s natural climatic systems. It is a consequence of having an atmosphere, and of course the atmosphere is where climates are manifest.</p>
+<p>It concluded that by the 2080s:-
+<list id="c12345-100-17" type="bullet">
+<list-item><p>temperatures<?qry valign="7pt" msg="(BL)"?> across the UK may rise by between 2 (low-emission scenario) and 3.5 &#x00BA;C (high-emission scenario), with the greatest warming being in the south and east and greater warming in the summer than winter (parts of the south east may be up to 5 &#x00BA;C warmer in the summer);</p></list-item>
+<list-item><p>high summer temperatures will become increasingly frequent, and cold winters rare;</p></list-item>
+<list-item><p>winters will become wetter and summers drier. Overall the UK will become drier as the winters are expected to become only 30&#x0025; wetter while the summers may have only 50&#x0025; of the precipitation;</p></list-item>
+<list-item><p>days of heavy rain are likely to increase in frequency;</p></list-item>
+<list-item><p>the sea level will rise between 26 and 86 cm in the south east of England but, due to geological (isostatic) rise, the sea level may fall by 2 cm (low-emissions scenario) or rise by 58 cm (high-emissions scenario) in western Scotland;</p></list-item>
+<list-item><p>the Gulf Stream is unlikely to weaken its warming of the UK, but there is uncertainty due to lack of detailed knowledge of ocean-circulation-climate interactions.</p></list-item>
+</list></p>
+<p>(Note: the above UKCIP 2002 scenario forecasts were to slightly change in 2009 as we shall shortly see.)</p>
+
+<!-- <p>The French mathematician Jean-Baptiste Joseph Fourier (not to be confused with the contemporary chemist of the same name) is generally credited with the discovery of the greenhouse effect. He described the phenomenon, in 1824 and then again in a very similar paper in 1827 (Fourier, 1824, 1827), whereby an atmosphere serves to warm a planet. These papers almost did not get written as Fourier was very nearly guillotined during the French Revolution and only escaped when those who condemned him were ultimately guillotined themselves.</p> -->
+<!-- <p>Perhaps the best way to illustrate the greenhouse effect is to consider what it would be like if the Earth had no atmosphere. This is not as difficult as it might first seem. We only have to travel 384 400 km (238 856 miles) to the Moon and see the conditions there. On that airless world (its atmosphere is barely above vacuum at one trillionth (10<sup>&#x2212;12</sup>) of the Earth&#x0027;s) the daytime temperature is 390 K (117&#x00BA;C), while at night it drops to 100 K (-173 &#x00BA;C), giving a median of some 245 K (-28 &#x00BA;C). During the lunar day, sunlight either is reflected off the Moon&#x0027;s rocky surfaces or is absorbed, warming the rocks that then re-radiate the energy. The total amount of incoming radiation equals that outgoing. However, at the Earth&#x0027;s surface the average global temperature is higher, at about 288 K (15 &#x00BA;C). The Earth&#x0027;s atmosphere keeps the planet warmer than it would otherwise be by some 43 &#x00BA;K (43 &#x00BA;C). This 43 &#x00BA;K warming is due to the Earth&#x0027;s atmospheric greenhouse. It is perfectly natural. This warming effect has (albeit to a varying extent) always existed. It occurs because not all the thermal radiation from the Sun falling on our planet&#x0027;s surface gets reflected back out into space. The atmosphere traps some of it just as on the Moon rock is warmed. However, more is trapped on Earth because the atmosphere is transparent to some frequencies (the higher frequencies) of thermal radiation, while opaque to some other, lower, frequencies. Conversely, rock on the Moon is not at all transparent so only the surface of the rock warms and not the strata deep beneath.</p> -->
+<p>Further, more detailed information than just the nature of a particular season can be obtained by a closer examination of the wood structure within individual rings. Parameters such as maximum latewood density, minimum earlywood density, and width of early- and latewood growth can provide insight into weather fluctuations within the principal growing season.</p>
+<p>There are a number of tenets underpinning dendrochronology. The main ones are described here.
+<list id="c12345-100-16001" type="simple">
+<list-item><p>The<?qry valign="7pt" msg="(UL)"?> uniformitarian principle: variability evident in tree-ring growth can be linked to past environmental variability and used to identify environmental change.</p></list-item>
+<list-item><p>The limiting-factor principle: the fastest rate that plant growth (and other processes such as seed production) can occur is equal to the greatest limiting factor.</p></list-item>
+<list-item><p>The principle of ecological amplitude: tree species will be most sensitive to environmental flux at the latitudinal and altitudinal limits of their range.</p></list-item>
+<!-- <list-item><p>The principle of aggregate tree growth: any individual tree-ring growth series can be broken down into an aggregate of environmental factors, both natural and human, that affected the patterns of tree growth over time (and these might include: age-related growth trends, the climate that occurred over the course of the year, and various other factors that occur within and outside of the forest stand).</p></list-item> -->
+<list-item><p>The principle of cross-dating: matching patterns in tree-ring width, density and other characteristics across several tree-ring series allows for the identification of the year in which the growth ring was formed.</p></list-item>
+<list-item><p>The principle of site selection: sites can be identified based on the criteria that will produce growth-ring series that are most sensitive to the examining factor.</p></list-item>
+	    </list><?anchor c12345-40 ?><?anchor c12345-400 ?><?anchor c12345-400a ?></p>
+<p>It is also possible to turn this truism on its head and use biology to ascertain aspects of the climate, and biological remains are aspects of past climates (which we will come to in chapter 2). Furthermore, biology can influence climate: for example, an expanse of rainforest transpires such a quantity of water, and influences the flow of water through a catchment area, that it can modify the climate from what it otherwise would have been in the absence of living species. Climate and biology are interrelated.</p>
+<p>Look at it another way. All living things flourish within a temperature range as well as have certain temperature tolerances for aspects of their life cycle. Furthermore, all living things require a certain amount of water and the availability of water, terrestrially, is again driven by climate. Given this essential connection of temperature and water to life, it is not difficult to see how important climate is in determining where different species, and assemblages thereof (ecosystems), can be found.</p>
+<p>From this we can easily deduce that if climate is so important, then understanding climate change is absolutely critical if we are to predict the likely fate of species in a certain region. As mentioned, it is also possible to use the reverse in an applied sense to note the presence (or past presence) of different species and then use this as an indicator of climate, both in the past and in the present. This interrelationship between life and climate is fundamental. It affects all species, which includes, we sometimes forget, our own &#x2013; <emphasis type="italic">Homo sapiens.</emphasis> Here we also tend to forget that on every continent except Antarctica there are examples of deserted settlements and evidence of long-extinct civilisations. These are societies that once flourished but have now gone, due primarily to a change in climate (this will be examined in chapter 5).</p>
+
+<p>In most places on this planet&#x0027;s terrestrial surface there are the signs of life. Even in those places where there is not much life today, there are frequently signs of past life, be it fossils, coal or chalk. Further, it is almost a rule of thumb that if you do discover signs of past life, either tens of thousands or millions of years ago, then such signs will most likely point to different species to those found there today. Why&#x003F; Here there are a number of answers, not least of which is evolution. Yet a key feature of why broad types of species (be they broad-leaved tree species as opposed to narrow needle-leaved ones) live in one place and not another is to do with climate. Climate is a fundamental factor influencing biology. Consequently a key factor (among others) as to why different species existed in a particular place 5000, 50000, 500 000 or even 5 000 000 years ago (to take some arbitrary snapshots in time) is due to different climatic regimens existing at that place in those times.</p>
+<p>If it is not sufficiently significant that living things, including human societies, are subject to the vagaries of climate change, there is now convincing evidence that our modern global society is currently altering the global climate in a profound way that also has regional, and indeed global, biological implications that will impact heavily on human societies. For these reasons there is currently considerable interest in the way living things interact with the climate, and especially our own species. As we shall see in the course of this book, biology, and the environmental sciences relating to ecology and climate, can provide us with information as to past climates and climate change (palaeoclimatology) which in turn can illuminate policy determining our actions affecting future climate. This will be invaluable if we are to begin to manage our future prospects.<?anchor c12345-100-34?><?anchor c12345-100-32?></p>
+
+<p>It is also possible to turn this truism on its head and use biology to ascertain aspects of the climate, and biological remains are aspects of past climates (which we will come to in chapter 2). Furthermore, biology can influence climate: for example, an expanse of rainforest transpires such a quantity of water, and influences the flow of water through a catchment area, that it can modify the climate from what it otherwise would have been in the absence of living species. Climate and biology are interrelated.</p>
+<p>Look at it another way. All living things flourish within a temperature range as well as have certain temperature tolerances for aspects of their life cycle. Furthermore, all living things require a certain amount of water and the availability of water, terrestrially, is again driven by climate. Given this essential connection of temperature and water to life, it is not difficult to see how important climate is in determining where different species, and assemblages thereof (ecosystems), can be found.</p>
+<p>From this we can easily deduce that if climate is so important, then understanding climate change is absolutely critical if we are to predict the likely fate of species in a certain region. As mentioned, it is also possible to use the reverse in an applied sense to note the presence (or past presence) of different species and then use this as an indicator of climate, both in the past and in the present. This interrelationship between life and climate is fundamental. It affects all species, which includes, we sometimes forget, our own &#x2013; <emphasis type="italic">Homo sapiens.</emphasis> Here we also tend to forget that on every continent except Antarctica there are examples of deserted settlements and evidence of long-extinct civilisations<!-- . These are societies that once flourished but have now gone --><!-- , due primarily to a change in climate (this will be examined in chapter 5) -->.</p>
+<p>If it is not sufficiently significant that living things, including human societies, are subject to the vagaries of climate change, there is now convincing evidence that our modern global society is currently altering the global climate in a profound way that also has regional, and indeed global, biological implications that will impact heavily on human societies. For these reasons there is currently considerable interest in the way living things interact with the climate, and especially our own species. As we shall see in the course of this book, biology, and the environmental sciences relating to ecology and climate, can provide us with information as to past climates and climate change (palaeoclimatology) which in turn can illuminate policy determining our actions affecting future climate. This will be invaluable if we are to begin to manage our future prospects.<?anchor c12345-401e ?><?anchor c12345-100-46 ?><?anchor c12345-25 ?></p>
+
+<p>Perhaps the best way to illustrate the greenhouse effect is to consider what it would be like if the Earth had no atmosphere. This is not as difficult as it might first seem. We only have to travel 384 400 km (238 856 miles) to the Moon and see the conditions there. On that airless world (its atmosphere is barely above vacuum at one trillionth (10<sup>&#x2212;12</sup>) of the Earth&#x0027;s) the daytime temperature is 390 K (117&#x00BA;C), while at night it drops to 100 K (-173 &#x00BA;C), giving a median of some 245 K (-28 &#x00BA;C). During the lunar day, sunlight either is reflected off the Moon&#x0027;s rocky surfaces or is absorbed, warming the rocks that then re-radiate the energy. The total amount of incoming radiation equals that outgoing. However, at the Earth&#x0027;s surface the average global temperature is higher, at about 288 K (15 &#x00BA;C). The Earth&#x0027;s atmosphere keeps the planet warmer than it would otherwise be by some 43 &#x00BA;K (43 &#x00BA;C). This 43 &#x00BA;K warming is due to the Earth&#x0027;s atmospheric greenhouse. It is perfectly natural. This warming effect has (albeit to a varying extent) always existed. It occurs because not all the thermal radiation from the Sun falling on our planet&#x0027;s surface gets reflected back out into space. The atmosphere traps some of it just as on the Moon rock is warmed. However, more is trapped on Earth because the atmosphere is transparent to some frequencies (the higher frequencies) of thermal radiation, while opaque to some other, lower, frequencies. Conversely, rock on the Moon is not at all transparent so only the surface of the rock warms and not the strata deep beneath.</p>
+<p>The reason why some of the light reflected from the Earth&#x0027;s surface, or radiated as infrared radiation from the lower atmosphere, becomes trapped is because it has changed from being of the sort to which the atmosphere as a whole is transparent to that to which the atmosphere is opaque. There are different types of light because photons of light can be of different energy. This energy (<emphasis type="italic">E</emphasis>) of electromagnetic radiation (light, thermal radiation and other rays) is proportional to its frequency (<emphasis type="italic">&#x03BD;</emphasis>) or colour, with the constant of proportionality being Planck&#x0027;s constant (<emphasis type="italic">h</emphasis>, and which is estimated to be 6.626 x 1(10<sup>&#x2212;34</sup> Js). And so the atmosphere is transparent to some frequencies of light but not others. This transparency mix allows some higher-energy light into the blanket of atmosphere surrounding our planet, but hinders other, especially lower-energy infrared (heat-level), wavelengths from getting out. The exact mathematical relationship between the energy of a photon of light (or any other electromagnetic radiation) was elucidated, long after Fourier, in 1902 by the German physicist Max Planck. It can be expressed in the following simple equation.</p>
+
+
+<?att voffset="-1.75pt" ?><fig id="c12345-40" position="float">
+<label>Fig. 2.1</label>
+<caption><p>This is an example of figure caption. This is an example of figure caption.</p></caption> 
+<?att height="13pc" width="24pc"?><mime type="graphic" href="12345fig05_03aa">
+<alt-text></alt-text></mime>
+</fig>
+
+<?att location="bottom" toffset="1.75pt" ?><fig id="c12345-400" position="float">
+<label>Fig. 2.2</label>
+<caption><p>This is an example of figure caption. This is an example of figure caption. This is an example of figure caption. This is an example of figure caption. <emphasis type="italic">Source</emphasis>: This is an example of figure caption source.</p></caption> 
+<?att height="15.0pc" width="33pc"?><mime type="graphic" href="12345fig1_1644545">
+<alt-text></alt-text></mime>
+</fig>
+
+
+<fig id="c12345-400a" position="float">
+<label>Fig. 2.3</label>
+<caption><p>This is an example of figure caption. This is an example of figure caption. This is an example of figure caption. This is an example of figure caption. <emphasis type="italic">Source</emphasis>: This is an example of figure caption source.</p></caption> 
+<?att height="15.0pc" width="33pc"?><mime type="graphic" href="12345fig1_1644545a">
+<alt-text></alt-text></mime>
+</fig>
+<!-- role="unnumtab"-->
+<?att location="bottom" width="33pc" role="unnumtabshad" ?><table-wrap id="c12345-100-32" position="float">
+<label>Table 2.1</label>
+<title>Summary of principal greenhouse gases (with the exception of tropospheric ozone (O<sub>3</sub>) due to lack of accurate data). Atmospheric lifetime is calculated as content/removal rate</title>
+<table orient="port" pgwide="0" frame="topbot" alt-graphic="12345tbl_1">
+<tgroup cols="6">
+<colspec colname="1" align="left" colwidth="100pt"/>
+<colspec colname="2" align="left"/>
+<colspec colname="3" align="left"/>
+<colspec colname="4" align="left"/>
+<colspec colname="5" align="left"/>
+<colspec colname="6" align="left"/>
+<tbody>
+<row rowsep="1">
+<entry><p>Greenhouse gas&#x2026;</p></entry>
+<entry><p>CO<sub>2</sub></p></entry>
+<entry><p>CH<sub>4</sub></p></entry>
+<entry><p>CFC&#x2010;11</p></entry>
+<entry><p>CFC&#x2010;12</p></entry>
+<entry><p>N<sub>2</sub>O</p></entry>
+</row>
+<row>
+<entry><p>Atmospheric concentration Late 18th century</p></entry>
+<entry><p>280 ppm</p></entry>
+<entry><p>0.7 ppm</p></entry>
+<entry><p>0</p></entry>
+<entry><p>0</p></entry>
+<entry><p>288 ppb</p></entry>
+</row>
+<row>
+<entry><p>2010</p></entry>
+<entry><p>388 ppm</p></entry>
+<entry><p>1.809 ppm</p></entry>
+<entry><p>240ppt</p></entry>
+<entry><p>533ppt</p></entry>
+<entry><p>323ppb</p></entry>
+</row>
+<row>
+<entry><p>Atmospheric lifetime (years)</p></entry>
+<entry><p>50&#x2010;200</p></entry>
+<entry><p>12</p></entry>
+<entry><p>45</p></entry>
+<entry><p>100</p></entry>
+<entry><p>114</p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table-wrap-foot><fn-group type="other"><fn id="c12345-100-33"><p>ppb, parts per billion; ppm, parts per million; ppt, parts per trillion (all by volume).</p></fn></fn-group></table-wrap-foot></table-wrap>
+
+
+<table-wrap id="c12345-100-34" position="float">
+<label>Table 2.2</label>
+<title>Global warming potentials (GWPs) for some of the principal greenhouse gases over three time frames (IPCC, 2001a)</title>
+<table orient="port" pgwide="1" frame="topbot" alt-graphic="12345tbl_2">
+<tgroup cols="5">
+<colspec colname="1" align="left"/>
+<colspec colname="2" align="left" colwidth="55pt"/>
+<colspec colname="3" align="left" colwidth="40pt"/>
+<colspec colname="4" align="left" colwidth="40pt"/>
+<colspec colname="5" align="left"/>
+<thead>
+<row>
+<entry/>
+<entry/>
+<entry namest="3" nameend="5" align="center" rowsep="1"><p>GWP</p></entry>
+</row>
+<row rowsep="1">
+<entry colname="1" align="left"><p>Gas</p></entry>
+<entry colname="2" align="left"><p>Atmospheric lifetime (years)</p></entry>
+<entry colname="3" align="left"><p>&#x2026; Time horizon 20 years</p></entry>
+<?att rotate="yes" ?><entry colname="4" align="left"><p><?hsp -8pt?>100 years<?hsp 8pt?></p></entry>
+<entry colname="5" align="left"><p>500 years</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><p>Carbon dioxide</p></entry>
+<entry><p>50&#x2010;200 12</p></entry>
+<entry><p>1</p></entry>
+<entry><p>1</p></entry>
+<entry><p>1</p></entry>
+</row>
+<row>
+<entry><p>Methane Nitrous</p></entry>
+<entry><p>114</p></entry>
+<entry><p>62</p></entry>
+<entry><p>23</p></entry>
+<entry><p>7</p></entry>
+</row>
+<row>
+<entry><p>oxide</p></entry>
+<entry/>
+<entry><p>275</p></entry>
+<entry><p>296</p></entry>
+<entry><p>156</p></entry>
+</row>
+</tbody>
+</tgroup>
+</table><table-wrap-foot><fn-group type="other"><fn id="c12345-100-33aa"><p>ppb, parts per billion; ppm, parts per million; ppt, parts per trillion (all by volume) ppb, parts per billion; ppm, parts per million; ppt, parts per trillion (all by volume) ppb, parts per billion; ppm, parts per million; ppt, parts per trillion (all by volume).</p></fn></fn-group></table-wrap-foot>
+</table-wrap>
+
+
+<?att width="40pc" ?><table-wrap id="c12345-401e" position="float">
+<label>Table 2.3</label> 
+<title>This is an example of table caption. This is an example of table caption. This is an example of table caption. This is an example of table caption. This is an example of table caption</title>
+<table orient="land" pgwide="0" frame="topbot" alt-graphic="12345tbl12_110">
+<tgroup cols="10">
+<colspec colname="1" align="left"/>
+<colspec colname="2" align="left"/>
+<colspec colname="3" align="left"/>
+<colspec colname="4" align="left"/>
+<colspec colname="5" align="left"/>
+<colspec colname="6" align="left"/>
+<colspec colname="7" align="left"/>
+<colspec colname="8" align="left"/>
+<colspec colname="9" align="left"/>
+<colspec colname="10" align="left"/>
+<thead>
+<row>
+<entry><p>First</p></entry>
+<entry><p>Second</p></entry>
+<entry><p>Third</p></entry>
+<entry><p>Fourth</p></entry>
+<entry><p>Fifth</p></entry>
+<entry><p>Sixth</p></entry>
+<entry><p>Seventh</p></entry>
+<entry><p>Eightth</p></entry>
+<entry><p>Nineth</p></entry>
+<entry><p>Tenth</p></entry>
+</row>
+<row rowsep="1">
+<entry><p>column</p></entry>
+<entry><p>column</p></entry>
+<entry><p>column</p></entry>
+<entry><p>column</p></entry>
+<entry><p>column</p></entry>
+<entry><p>column</p></entry>
+<entry><p>column</p></entry>
+<entry><p>column</p></entry>
+<entry><p>column</p></entry>
+<entry><p>column</p></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><p>Wordy entry</p></entry>
+<entry><p>6.55</p></entry>
+<entry><p>1.55</p></entry>
+<entry><p>3.50</p></entry>
+<entry><p>7.05</p></entry>
+<entry><p>3.50</p></entry>
+<entry><p>9.50</p></entry>
+<entry><p>6.55</p></entry>
+<entry><p>1.55</p></entry>
+<entry><p>6.55</p></entry>
+</row>
+<row>
+<entry><p>Wordy entry</p></entry>
+<entry><p>1.10</p></entry>
+<entry><p>6.85</p></entry>
+<entry><p>6.85</p></entry>
+<entry><p>9.90</p></entry>
+<entry><p>5.55</p></entry>
+<entry><p>2.15</p></entry>
+<entry><p>3.60</p></entry>
+<entry><p>6.85</p></entry>
+<entry><p>9.90</p></entry>
+</row>
+<row>
+<entry><p>Wordy entry</p></entry>
+<entry><p>6.55</p></entry>
+<entry><p>1.55</p></entry>
+<entry><p>3.50</p></entry>
+<entry><p>7.53</p></entry>
+<entry><p>3.55</p></entry>
+<entry><p>3.55</p></entry>
+<entry><p>6.55</p></entry>
+<entry><p>1.55</p></entry>
+</row>
+<row>
+<entry><p>Wordy entry</p></entry>
+<entry><p>1.05</p></entry>
+<entry><p>6.85</p></entry>
+<entry><p>9.90</p></entry>
+<entry><p>5.55</p></entry>
+<entry><p>2.19</p></entry>
+<entry><p>3.60</p></entry>
+<entry><p>6.85</p></entry>
+<entry><p>9.90</p></entry>
+<entry><p>9.90</p></entry>
+</row>
+<row>
+<entry><p>Wordy entry</p></entry>
+<entry><p>1.05</p></entry>
+<entry><p>6.85</p></entry>
+<entry><p>9.90</p></entry>
+<entry><p>5.55</p></entry>
+<entry><p>2.19</p></entry>
+<entry><p>3.60</p></entry>
+<entry><p>9.90</p></entry>
+<entry><p>6.85</p></entry>
+<entry><p>5.55</p></entry>
+</row>
+<row>
+<entry><p>Wordy entry</p></entry>
+<entry><p>1.10</p></entry>
+<entry><p>6.85</p></entry>
+<entry><p>6.85</p></entry>
+<entry><p>9.90</p></entry>
+<entry><p>5.55</p></entry>
+<entry><p>2.15</p></entry>
+<entry><p>3.60</p></entry>
+<entry><p>6.85</p></entry>
+<entry><p>9.90</p></entry>
+</row>
+<row>
+<entry><p>Wordy entry</p></entry>
+<entry><p>1.06</p></entry>
+<entry><p>6.85</p></entry>
+<entry><p>9.90</p></entry>
+<entry><p>5.55</p></entry>
+<entry><p>6.85</p></entry>
+<entry><p>2.41</p></entry>
+<entry><p>3.60</p></entry>
+<entry><p>9.90</p></entry>
+<entry><p>5.55</p></entry>
+</row>
+<row>
+<entry><p>Wordy entry</p></entry>
+<entry><p>6.55</p></entry>
+<entry><p>1.55</p></entry>
+<entry><p>6.85</p></entry>
+<entry><p>3.50</p></entry>
+<entry><p>7.65</p></entry>
+<entry><p>3.85</p></entry>
+<entry><p>9.50</p></entry>
+<entry><p>9.90</p></entry>
+<entry><p>5.55</p></entry>
+</row>
+<row>
+<entry><p>Wordy entry</p></entry>
+<entry><p>1.10</p></entry>
+<entry><p>6.85</p></entry>
+<entry><p>6.85</p></entry>
+<entry><p>9.90</p></entry>
+<entry><p>5.55</p></entry>
+<entry><p>2.15</p></entry>
+<entry><p>3.60</p></entry>
+<entry><p>6.85</p></entry>
+<entry><p>9.90</p></entry>
+</row>
+<row>
+<entry><p>Wordy entry</p></entry>
+<entry><p>1.10</p></entry>
+<entry><p>6.85</p></entry>
+<entry><p>6.85</p></entry>
+<entry><p>9.90</p></entry>
+<entry><p>5.55</p></entry>
+<entry><p>2.15</p></entry>
+<entry><p>3.60</p></entry>
+<entry><p>6.85</p></entry>
+<entry><p>9.90</p></entry>
+</row>
+</tbody>
+</tgroup></table>
+<table-wrap-foot><fn-group type="other"><fn id="c12345-610a"><label><sup>&#x002A;</sup></label><p>This is an example of tabnote. This is an example of tabnote. This is an example of tabnote. This is an example of tabnote. This is an example of tabnote. This is an example of tabnote. This is an example of tabnote.</p></fn><?vsp 1pt?>
+<attrib><emphasis type="italic">Source:</emphasis>&#x2002;This is an example of tabnote. This is an example of tabnote. This is an example of tabnote. This is an example of tabnote.</attrib></fn-group>
+</table-wrap-foot>
+</table-wrap>
+
+
+<table-wrap id="c12345-100-46" position="float">
+<label>Table 2.4</label>
+<title>Summary of stockholm&#x0027;s declaration of principles</title>
+<table orient="port" pgwide="1" frame="topbot" alt-graphic="12345tbl_9">
+<tgroup cols="2">
+<?att columnsep="4pt" ?><colspec colname="1" align="right"/>
+<colspec colname="2" align="left" colwidth="308pt"/>
+<thead/><tbody>
+<row>
+<entry><p>1.</p></entry>
+<entry><p>Human rights should be asserted, and apartheid, colonialism, etc., should be condemned.</p></entry>
+</row>
+<row>
+<entry><p>2.</p></entry>
+<entry><p>Natural resources must be safeguarded.</p></entry>
+</row>
+<row>
+<entry><p>3.</p></entry>
+<entry><p>The Earth&#x0027;s capacity to produce renewable resources must be maintained.</p></entry>
+</row>
+<row>
+<entry><p>4.</p></entry>
+<entry><p>Wildlife must be safeguarded.</p></entry>
+</row>
+<row>
+<entry><p>5.</p></entry>
+<entry><p>Non&#x2010;renewable resources must be shared and not exhausted.</p></entry>
+</row>
+<row>
+<entry><p>6.</p></entry>
+<entry><p>Pollution must not exceed the environment&#x0027;s capacity to clean itself.</p></entry>
+</row>
+<row>
+<entry><p>7.</p></entry>
+<entry><p>Damaging oceanic pollution must be prevented.</p></entry>
+</row>
+<row>
+<entry><p>8.</p></entry>
+<entry><p>Development is needed to improve the environment.</p></entry>
+</row>
+<row>
+<entry><p>9.</p></entry>
+<entry><p>Developing countries therefore need assistance.</p></entry>
+</row>
+<row>
+<entry><p>10.</p></entry>
+<entry><p>Developing countries need reasonable prices for exports to carry out environmental management.</p></entry>
+</row>
+<row>
+<entry><p>11.</p></entry>
+<entry><p>Environment policy must not hamper development.</p></entry>
+</row>
+<row>
+<entry><p>12.</p></entry>
+<entry><p>Developing countries need money to develop environmental safeguards.</p></entry>
+</row>
+<row>
+<entry><p>13.</p></entry>
+<entry><p>Integrated development planning is needed.</p></entry>
+</row>
+<row>
+<entry><p>14.</p></entry>
+<entry><p>Rational planning should resolve conflicts between environment and development.</p></entry>
+</row>
+<row>
+<entry><p>15.</p></entry>
+<entry><p>Human settlements must be planned to eliminate environmental problems.</p></entry>
+</row>
+<row>
+<entry><p>16.</p></entry>
+<entry><p>Governments should plan their own appropriate population policies.</p></entry>
+</row>
+<row>
+<entry><p>17.</p></entry>
+<entry><p>National institutions must plan development of states&#x0027; natural resources.</p></entry>
+</row>
+<row>
+<entry><p>18.</p></entry>
+<entry><p>Science and technology must be used to improve the environment.</p></entry>
+</row>
+<row>
+<entry><p>19.</p></entry>
+<entry><p>Environmental education is essential.</p></entry>
+</row>
+<row>
+<entry><p>20.</p></entry>
+<entry><p>Environmental research must be promoted, especially in developing countries.</p></entry>
+</row>
+<row>
+<entry><p>21.</p></entry>
+<entry><p>States may exploit their natural resources as they wish but must not endanger others.</p></entry>
+</row>
+<row>
+<entry><p>22.</p></entry>
+<entry><p>Compensation is due to states thus endangered.</p></entry>
+</row>
+<row>
+<entry><p>23.</p></entry>
+<entry><p>Each nation must establish its own standards.</p></entry>
+</row>
+<row>
+<entry><p>24.</p></entry>
+<entry><p>There must be cooperation on international issues.</p></entry>
+</row>
+<row>
+<entry><p>25.</p></entry>
+<entry><p>International organizations should help to improve the environment.</p></entry>
+</row>
+<row>
+<entry><p>26.</p></entry>
+<entry><p>Weapons of mass destruction must be eliminated.</p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</table-wrap>
+
+<boxed-text id="c12345-25" position="float"><label>Box 2.1</label><title>The Heatwave Plan for England The Heatwave Plan for England The Heatwave Plan for England</title>
+<p>The<?qry valign="7pt" msg="PUB: Box specs assumed."?> plan details a heat-health watch from the beginning of June to mid-September each year. It consists of four levels of response based on threshold temperatures. These vary with region but are approximately 30 &#x00B0;C in the daytime and approximately 15&#x00B0;C at night.</p>
+<p><def-list id="c12345-1018" type="simple">
+<def-item><term>Level 1 (awareness)</term><def><p>The minimum constant level of heat-health awareness among heat-health stakeholders and the general public.</p></def></def-item>
+<def-item><term>Level 2 (alert)</term><def><p>To be triggered as soon as the UK Meteorological Office forecasts that threshold temperatures are to be exceeded for 3 days or that there will be two consecutive days of extremely high temperatures near the threshold.</p></def></def-item>
+<def-item><term>Level 3 (heatwave)</term><def><p>Triggered as soon as threshold temperatures are reached.</p></def></def-item>
+<def-item><term>Level 4 (emergency)</term><def><p>When a heatwave is so severe that it threatens the integrity of health and social care systems.</p></def></def-item></def-list></p>
+<p>It is the responsibility of the Government-funded health and social services to identify groups and individuals likely to be adversely affected by heatwaves, provide advice and implementing appropriate measures. At-risk groups include the elderly, babies and the very young, those with mental health problems, those taking certain medication, those with certain chronic conditions such as breathing problems, those with a disease/infection induced by high temperature and the physically active, such as manual workers and athletes. It is the responsibility of the UK Meteorological Office to provide the health and social services with 3-day forecast warnings.</p>
+<p>The WHO recognises that global warming comes with health impacts and it has been working with the WMO and the UNEP (both of whom in turn formed the IPCC; see Chapter 5) since 1999. Its work in this area has three main strands: capacity building (informing to help nations develop the necessary services to address climate-change-related health impacts), information exchange and research promotion (WHO, 2001a).</p>
+</boxed-text>
+<?anchor c12345-11400a?>
+<fig id="c12345-11400a" position="float">
+<label>Fig. 2.3</label>
+<caption><p>This is an example of figure caption. This is an example of figure caption. This is an example of figure caption. This is an example of figure caption. <emphasis type="italic">Source</emphasis>: This is an example of figure caption source.</p></caption> 
+<?att height="15.0pc" width="36pc"?><mime type="graphic" href="12345fig1_111644545a">
+<alt-text></alt-text></mime>
+</fig>
+
+<p>Extreme events are also associated with climatic cycles. There are three or four principal climatic cycles: two encircling the poles (one each), a cycle related to northern mid latitudes and the El Nino Southern Oscillation (ENSO). The North-Pole cycle is the Arctic Oscillation or Northern Annular Mode, while the northern mid latitude cycle is known as the Pacific-North American pattern (Kerr, 2004). Of these cycles, the best studied is the ENSO. The ENSO has a period of 2-7 years and within these years warm water periodically forms in the eastern Pacific to create an El Ni&#x00F1;o event. The El Ni&#x00F1;o begins with a weakening of the prevailing winds in the Pacific and a change in rainfall patterns that create extreme-flood and drought events in countries surrounding the eastern Pacific and climate-related events further afield. Prolonged dry periods may occur in south-east Asia, southern Africa and northern Australia, as took place in 1991-2, together with heavy rainfall, and sometimes flooding in Peru and Ecuador. During a typical El Ni&#x00F1;o event the Asian monsoon usually weakens and is pushed towards the equator, often bringing summer drought to north-west and central India and heavy rainfall in the north east. The regions where the El Ni&#x00F1;o has a strong effect on climate are those with the least resources: southern Africa and parts of South America and south-east Asia.</p>	</sec>
+<p>It is also possible to turn this truism on its head and use biology to ascertain aspects of the climate, and biological remains are aspects of past climates (which we will come to in chapter 2). Furthermore, biology can influence climate: for example, an expanse of rainforest transpires such a quantity of water, and influences the flow of water through a catchment area, that it can modify the climate from what it otherwise would have been in the absence of living species. Climate and biology are interrelated.</p>
+<p>Look at it another way. All living things flourish within a temperature range as well as have certain temperature tolerances for aspects of their life cycle. Furthermore, all living things require a certain amount of water and the availability of water, terrestrially, is again driven by climate. Given this essential connection of temperature and water to life, it is not difficult to see how important climate is in determining where different species, and assemblages thereof (ecosystems), can be found.</p>	  </sec></sec>
+
+
+
+      </body>
+<back>
+<alt-title type="right-running">2.3&#x2002;References</alt-title>
+<ref-sec type="references" id="c12345-100-53"><label>2.3</label><title>References</title>
+<alt-title type="right-running">2.3&#x2002;References</alt-title>
+<citation type="journal" id="c12345-100-bib1"><author type="author"><name><surname>Arrhenius</surname>, <given-names>S.</given-names></name></author> (<year>1896</year>) <article-title>On the influence of carbonic acid in the air and upon the temperature of the ground of the absorption and radiation of heat by gases and vapours, and on the physical connection of radiation, absorption and conduction</article-title>. <journal-title>Philosophical Magazine</journal-title>, <volume>41</volume>, <startpage>237--76</startpage>.</citation>
+<citation type="journal" id="c12345-100-bib2"><author type="author"><name><surname>Barnola</surname>, <given-names>J.M.</given-names></name></author>, <author type="author"><name><surname>Raynaud</surname>, <given-names>D.</given-names></name></author>, <author type="author"><name><surname>Korotkevitch</surname>, <given-names>Y. S.</given-names></name></author> and <author type="author"><name><surname>Lorius</surname>, <given-names>C.</given-names></name></author> (<year>1987</year>) <article-title>Vostokice-core provides 160,000-year record of atmospheric CO2</article-title>. <journal-title>Nature</journal-title>, <volume>329</volume>, <startpage>408--14</startpage>.</citation>
+<citation type="journal" id="c12345-100-bib3"><author type="author"><name><surname>Bond-Lamberty</surname>, <given-names>B.</given-names></name></author> and <author type="author"><name><surname>Thomson</surname>, <given-names>A.</given-names></name></author> (<year>2010</year>) <article-title>Temperature-associated increases in the global soil respiration record</article-title>. <journal-title>Nature</journal-title>, <volume>464</volume>, <startpage>579--582</startpage>.</citation>
+<citation type="journal" id="c12345-100-bib4"><author type="author"><name><surname>Chappelaz</surname>, <given-names>J.</given-names></name></author>, <author type="author"><name><surname>Barnola</surname>, <given-names>J. M.</given-names></name></author>, <author type="author"><name><surname>Raynaud</surname>, <given-names>D.</given-names></name></author>, <author type="author"><name><surname>Korotkevich</surname>, <given-names>Y. S.</given-names></name></author> and <author type="author"><name><surname>Lorius</surname>, <given-names>C.</given-names></name></author> (<year>1990</year>) <article-title>Ice-core record of atmospheric methane over the past 160,000 years</article-title>. <journal-title>Nature</journal-title>, <volume>345</volume>, <startpage>127--31</startpage>.</citation>
+<citation type="journal" id="c12345-100-bib5"><author type="author"><name><surname>Coale</surname> <given-names>K. H.</given-names></name></author>, <author type="author"><name><surname>Johnson</surname>, <given-names>K. S.</given-names></name></author>, <author type="author"><name><surname>Fitzwater</surname>, <given-names>S. E.</given-names></name></author> et al. (<year>1996</year>) <article-title>A massive phytoplanktonbloom induced by an ecosystem-scale iron fertilization experiment in the equatorial Pacific Ocean</article-title>. <journal-title>Nature</journal-title>, <volume>383</volume>, <startpage>495--508</startpage>.</citation>
+<citation type="journal" id="c12345-100-bib6"><author type="author"><name><surname>Callendar</surname>, <given-names>G. S.</given-names></name></author> (<year>1938</year>) <article-title>The artificial production of carbon dioxide and its influence on temperature</article-title>. <journal-title>Q. J. R. Meteorol. Soc.</journal-title>, <volume>64</volume>, <startpage>223&#x2013;237</startpage>.</citation>
+<citation type="journal" id="c12345-100-bib7"><author type="author"><name><surname>Callendar</surname>, <given-names>G. S.</given-names></name></author> (<year>1961</year>) <article-title>Temperature fluctuations and trends over the Earth</article-title>. <journal-title>Q. J. R. Meteorol. Soc.</journal-title>, <volume>87</volume>, <startpage>1&#x2013;12</startpage>.</citation>
+      </ref-sec></back>
+</chapter>
+
+
+<endmatter>
+<?cmd cleardoublepage ?>
+<appendix id="c12345-10-52">
+<label/>
+<title>Appendix 1.&#x2002;Glossary and abbreviations</title>
+<alt-title type="right-running">Appendix 1</alt-title>
+<alt-title type="left-running">Appendix 1</alt-title>
+
+<!-- <subtitle>Globalism and its Impacts</subtitle> -->
+<body>
+
+<sec id="c12345-100-21">
+<title>Glossary</title>
+<p>The following are just some of the main biological, geological and climate terms used. It is not a complete list but focuses on terms used in more than one chapter. Although the terms are common to biology, geology or climatology, they are provided to help readers from one discipline understand passages of this book that relate to another discipline.
+<def-list id="c12345-100-22" type="simple"><def-item>
+<term>abyssal (zone)</term><def><p>The zone of greatest ocean depth, frequently defined as deeper than 1000 m.</p></def></def-item>
+<def-item>
+<term>aerosol</term><def><p>A colloidal system such as a mist or fog in which the dispersion.</p></def></def-item>
+<def-item>
+<term>albedo</term><def><p>The fraction of light reflected from a surface. It includes the proportion of solar energy reflected from a surface on the Earth or from the planet in its entirety.</p></def></def-item>
+<def-item>
+<term>Aller&#x00F8;d and B&#x00F8;lling</term><def><p>A warm phase lasting over 1000 years towards the end (deglaciation period) of the last glacial and prior to the Holocene.</p></def></def-item>
+<def-item>
+<term>Allopatric</term><def><p>Species having completely separate geographical distributions (<emphasis type="italic">see also</emphasis> sympatric).</p></def></def-item>
+<def-item>
+<term>anthropogenic</term><def><p>Human generated.</p></def></def-item>
+<def-item>
+<term>biome</term><def><p>The largest ecological category of a bio-geographical region (such as tundra or tropical rainforest).</p></def></def-item>
+<def-item>
+<term>Bond cycle</term><def><p>A cycle of waxing and waning of the Arctic glacial ice sheet.</p></def></def-item>
+<def-item>
+<term>Boreal</term><def><p>The northern continental biogeographic zone of short summers and long winters.</p></def></def-item>
+<def-item>
+<term>Broecker circulation</term><def><p>A global circulation of ocean water, part on the surface and part at abyssal depths, sometimes referred to as the thermohaline circulation (THC). One component is the meridional overturning circulation (MOC).</p></def></def-item>
+<def-item>
+<term>Calvin cycle</term><def><p>The cycle of reactions in which chloroplasts make two key biochemicals (ATP and NADPH) through the light-driven process of photosynthesis.</p></def></def-item>
+<def-item>
+<term>Carnivora</term><def><p>Flesh-eating mammals.</p></def></def-item>
+<def-item>
+<term>dendrochronology</term><def><p>Past climate-change reconstruction from tree rings.</p></def></def-item>
+<def-item>
+<term>Ecotone</term><def><p>A transitional zone between two habitats (e.g. forest bordering grassland).</p></def></def-item>
+<def-item>
+<term>Eemian</term><def><p>The previous interglacial (in some texts referred to as the Ipswichian, Sangamon or Eem-Sangamon interglacial) some 125 000 years ago.</p></def></def-item>
+<def-item>
+<term>endosymbiont</term><def><p>Organism(s) living inside the cell of another, in a symbiotic (close and mutually beneficial) relationship.</p></def></def-item>
+<def-item>
+<term>Eocene</term><def><p>A 22-million-year epoch beginning 55.8 mya <emphasis type="italic">(see</emphasis> Appendix 2).</p>
+<p>Changes in global sea level due to changes in the size of the Earth&#x0027;s ocean basins, as well as in local sea level due to tectonic movement.</p></def></def-item>
+<def-item>
+<term>eukaryote</term><def><p>Cells with &#x2018;good nuclei&#x2019; and internal membranes bounded structures (organelles). Animals and plants have eukaryotic cells. See also prokaryote.</p></def></def-item>
+<def-item>
+<term>eustatic</term><def><p>The total loss of water from the soil by evaporation and by the transpiration of plants growing in the said soil.</p></def></def-item>
+<def-item>
+<term>evapotranspiration</term><def><p>The total loss of water from the soil by evaporation and by the transpiration of plants growing in the said soil.</p></def></def-item>
+<def-item>
+<term>fecundity</term><def><p>The number of offspring produced by an individual or breeding pair.</p></def></def-item>
+<def-item>
+<term>Fennoscandia</term><def><p>The north-western part of the Eurasian continent and commonly used in association with the glacial ice sheets covering the north of that continent.</p></def></def-item>
+<!-- def-item>
+<term>fertility</term><def><p>The ability to reproduce (irrespective of realisation). (Note: some human demography texts do not distinguish between fertility and fecundity. Ecologists do, and this text uses the ecological definition to avoid confusion.)</p></def></def-item>
+<def-item>
+<term>folivorous</term><def><p>Leaf-eating.</p></def></def-item>
+<def-item>
+<term>forcing</term><def><p>A factor that affects the climate, warming or cooling it. Climate-forcing factors include aerosols and greenhouse gases.</p></def></def-item>
+<def-item>
+<term>glacial</term><def><p>A cool period within an ice age with expanded ice caps and lower sea levels. However, often in common parlance glacials are known as ice ages and this can lead to some confusion.</p></def></def-item>
+<def-item>
+<term>glacial</term><def><p>A cool period within an ice age with expanded ice caps and lower sea levels. However, often in common parlance glacials are known as ice ages and this can lead to some confusion.</p></def></def-item>
+<def-item>
+<term>global warming potential</term><def><p>The global warming over a <emphasis type="italic">specific</emphasis> time period resulting from the addition of a greenhouse gas compared to the same mass of carbon dioxide</p></def></def-item>
+<def-item>
+<term>Gondwana (Gondwanaland)</term><def><p>The southern-hemisphere supercontinent that existed 200 mya but which has since fragmented.</p></def></def-item>
+<def-item>
+<term>Heinrich events</term><def><p>Short periods of glacial Arctic ice rafting.</p></def></def-item>
+<def-item>
+<term>Holocene</term><def><p>The current interglacial, which began 11 700 years ago <emphasis type="italic">(see</emphasis> Appendix 2).</p></def></def-item>
+<def-item>
+<term>Holocene climatic optimum</term><def><p>A warm period (as in a length) of time some 8000-5000 years ago.</p></def></def-item>
+<def-item>
+<term>hyperthermal</term><def><p>A geologically (centuries to thousand years in initiation) abrupt global warming leading to a warm period that then lasts for scores of thousands of years, typically associated with a CIE.</p></def></def-item>
+<def-item>
+<term>ice age</term><def><p>A period (as in a length) of time with glacials.</p></def></def-item>
+<def-item>
+<term>interglacial</term><def><p>A warm period (as in a length of time) in an ice age between glacials.</p></def></def-item>
+<def-item>
+<term>interstadial</term><def><p>A cool period (as in a length of time) within a (cool) glacial.</p></def></def-item>
+<def-item>
+<term>Ipswichian</term><def><p><emphasis type="italic">See</emphasis> Eemian.</p></def></def-item>
+<def-item>
+<term>Iron Age neoglaciation</term><def><p>A minor glaciation that occurred 4500-2500 years ago.</p></def></def-item>
+<def-item>
+<term>Laurentide</term><def><p>Commonly used to describe the glacial ice sheet over North America.</p></def></def-item>
+<def-item>
+<term>Little Ice Age</term><def><p>A short cooling episode particularly associated with, but not restricted to, the northern hemisphere approximately around <emphasis type="sc">ad</emphasis> 1550-1850.</p></def></def-item>
+<def-item>
+<term>medieval climatic anomaly</term><def><p>A short warming episode around approximately <emphasis type="sc">ad</emphasis> 1100-1300, also known as the medieval warm period or (not preferred) the medieval climatic optimum.</p></def></def-item>
+<def-item>
+<term>medieval warm period</term><def><p><emphasis type="italic">See</emphasis> medieval climatic anomaly.</p></def></def-item>
+<def-item>
+<term>metazoan</term><def><p>Multi-celled animal.</p></def></def-item>
+<def-item>
+<term>mitochondrion</term><def><p>An organelle within a cell that consumes carbohydrate and releases energy. Contains DNA that is inherited via the female line through generations.</p></def></def-item>
+<def-item>
+<term>nunatak</term><def><p>A mountain peak poking through an ice sheet.</p></def></def-item>
+<def-item>
+<term>Oligocene</term><def><p>The geological epoch lasting between 34 and 23 mya <emphasis type="italic">(see</emphasis>Appendix 2).</p></def></def-item>
+<def-item>
+<term>opportunity cost</term><def><p>An economist&#x0027;s term for the lost opportunity of employing one investment (be it cash or a resource) option over another (this book considers resource options). For example, some land used to grow biofuel would have an opportunity cost of not being available to grow food. Both options can also be quantified in product and cash terms.</p></def></def-item>
+<def-item>
+<term>Pangaea</term><def><p>A supercontinent existing in the deep geological past that subsequently fragmented into Gondwanaland to the south and Laurasia to the north.</p></def></def-item>
+<def-item>
+<term>Phanerozoic</term><def><p>The eon since the beginning of the Cambrian (542 mya), with multi-celled species <emphasis type="italic">(see</emphasis> Appendix 2).</p></def></def-item>
+<def-item>
+<term>phenology</term><def><p>The study of plant and animal development in response to the seasons.</p></def></def-item>
+<def-item>
+<term>photoperiodism</term><def><p>The response of an organism to the day/night cycle as well as its changes in the course of the year.</p></def></def-item>
+<def-item>
+<term>photosynthesis</term><def><p>The (sun)light-powered process by which plants (including algae) synthesise carbohydrates from carbon dioxide and water.</p></def></def-item>
+<def-item>
+<term>Pliocene</term><def><p>The epoch 5.3-1.8 mya <emphasis type="italic">(see</emphasis> Appendix 2).</p></def></def-item>
+<def-item>
+<term>Pluvial</term><def><p>A geologically short time of high rainfall that is usually associated with Milankovitch or other climatic cycles such as those related to Heinrich events.</p></def></def-item>
+<def-item>
+<term>production</term><def><p>The biomass fixed over a period of time (usually a year), expressed in terms of either mass or energy. &#x2018;Primary production&#x2019; is the production due to photosynthesis (also called &#x2018;gross primary production&#x2019;). &#x2018;Net primary production&#x2019; is the production due to photosynthesis after respiration losses are taken into account. &#x2018;Secondary production&#x2019; relates to the production of species living off of photosynthetic species. &#x2018;Productivity&#x2019; relates to production in a unit area over a period of time (again, usually a year).</p></def></def-item>
+<def-item>
+<term>prokaryote</term><def><p>A simple cell hat has no internal membrane-bounded structures or nucleus. Bacteria and blue-green algae have prokaryotic cells. See also eukaryote.</p></def></def-item>
+<def-item>
+<term>pyroclastic rocks</term><def><p>Rocks formed by materials thrown out by explosive volcanic eruptions.</p></def></def-item>
+<def-item>
+<term>Quaternary</term><def><p>The period (in the geological sense) of time from the present to 1.806 million years ago (as provisionally defined by the International Commission on Stratigraphy in 2008) that saw a number of deep glacials and interglacials <emphasis type="italic">(see</emphasis> Appendix 2). (It may shortly be re-defined to 2.588 mya.)</p></def></def-item>
+<def-item>
+<term>refugium</term><def><p>An ecological area where species can survive surrounding or nearby environmental change (plural, refugia).</p></def></def-item>
+<def-item>
+<term>Sangamon</term><def><p><emphasis type="italic">See</emphasis> Eemian.</p></def></def-item>
+<def-item>
+<term>Snowball Earth</term><def><p>The Earth, either nearly or completely, covered with snow and ice.</p></def></def-item>
+<def-item>
+<term>speciation</term><def><p>The processes by which new species evolve.</p></def></def-item>
+<def-item>
+<term>stoma</term><def><p>A minute opening on the leaf of a plant (usually on the underside) though which gas and water exchange takes place (plural, stomata).</p></def></def-item>
+<def-item>
+<term>stromatolite</term><def><p>A fossilised mat of algae.</p></def></def-item>
+<def-item>
+<term>sympatric</term><def><p>Species occupying the same, or overlapping, geographical area <emphasis type="italic">(see also</emphasis> allopatric).</p></def></def-item>
+<def-item>
+<term>tundra</term><def><p>The treeless polar regions with permanently frozen subsoil (although surface soil may be thawed for some parts of the year).</p></def></def-item>
+<def-item>
+<term>Younger Dryas</term><def><p>A short period (as in length of time) of cooling at the end of the last glacial, 12900-11600 years ago.</p></def></def-item>
+<def-item>
+<term>zonation</term><def><p>The occurrence of distinct bands of species across an environmental gradient such as a seashore or mountainside.</p></def></def-item--></def-list></p>
+</sec>
+<sec id="c12345-100-21">
+<title>Abbreviations</title>
+<p><def-list id="c12345-100-24" type="simple"><def-item>
+<term>ACC</term><def><p>Antarctic Circumpolar Current</p></def></def-item>
+<def-item>
+<term>ACR</term><def><p>Antarctic cold reversal</p></def></def-item>
+<def-item>
+<term>BAP</term><def><p>Biodiversity Action Plan</p></def></def-item>
+<def-item>
+<term>B-a-U</term><def><p>Business-as-Usual scenario</p></def></def-item>
+<def-item>
+<term>Be</term><def><p>Bering, a unit of water volume (equivalent to 10<sup>3</sup> km<sup>3</sup>). See also Sv (water flow). Not to be confused with Be, the symbol for the element beryllium</p></def></def-item>
+<def-item>
+<term>bya</term><def><p>billion years ago</p></def></def-item>
+<def-item>
+<term>C</term><def><p>Symbol for carbon</p></def></def-item>
+<def-item>
+<term><sup>12</sup>C</term><def><p>Most common isotope of carbon with atomic weight of 12. Preferred by photosynthesis</p></def></def-item>
+<def-item>
+<term><sup>13</sup>C</term><def><p>Rare isotope of carbon discriminated against by photosynthesis</p></def></def-item>
+<def-item>
+<term><sup>14</sup>C</term><def><p>Rare unstable (radioactive) form of carbon (used in carbon dating) woith a half-life of 5715 years.</p></def></def-item>
+<def-item>
+<term>C<sub>3</sub> (plants)</term><def><p>Plants that use the older photosynthetic pathway with three carbon atoms in the first product during carbon dioxide assimilation</p></def></def-item>
+<def-item>
+<term>C<sub>4</sub> (plants)</term><def><p>Plants that use the more recent photosynthetic pathway capable in intense sunlight (hence low latitudes) of taking more carbon dioxide out of the atmosphere than C<sub>3</sub> photosynthesis</p></def></def-item>
+<def-item>
+<term>Ca</term><def><p>Calcium</p></def></def-item>
+<def-item>
+<term>CBD</term><def><p>UN Convention on Biological Diversity (1992)</p></def></def-item>
+<def-item>
+<term>CCD</term><def><p>calcite compensation depth</p></def></def-item>
+<def-item>
+<term>CCM</term><def><p>carbon-concentrating mechanism</p></def></def-item>
+<def-item>
+<term>CCS</term><def><p>carbon capture and storage</p></def></def-item>
+<def-item>
+<term>CDC</term><def><p>US Centers for Disease Control and Prevention</p></def></def-item>
+<def-item>
+<term>CDM</term><def><p>Clean Development Mechanism</p></def></def-item>
+<def-item>
+<term>CEH</term><def><p>UK Centre for Ecology and Hydrology (formerly ITE and the NERC River Laboratory)</p></def></def-item>
+<def-item>
+<term>CET record</term><def><p>Central England Temperature record</p></def></def-item>
+<def-item>
+<term>CH<sub>4</sub></term><def><p>Methane</p></def></def-item>
+<def-item>
+<term>CFB event</term><def><p>continental flood basalt (event)</p></def></def-item>
+<def-item>
+<term>CIE</term><def><p>carbon isotope excursion</p></def></def-item>
+<def-item>
+<term>CO<sub>2</sub></term><def><p>Carbon dioxide</p></def></def-item>
+<def-item>
+<term>CO<sub>2</sub>-eq</term><def><p>Carbon dioxide equivalent</p></def></def-item>
+<def-item>
+<term>D</term><def><p>Deuterium or heavy hydrogen (<sup>2</sup>H) with atomic weight of 2</p></def></def-item>
+<def-item>
+<term>DECC</term><def><p>Department of Energy and Climate Change (UK/England and Wales)</p></def></def-item>
+<def-item>
+<term>DEFRA</term><def><p>Department of the Environment, Food and Rural Affairs (England and Wales; formerly DETR and MAFF)</p></def></def-item>
+<def-item>
+<term>DETR</term><def><p>(former) Department of the Environment, Transport and the Regions (England and Wales; formerly the Department of the Environment) and now DEFRA</p></def></def-item>
+<def-item>
+<term>DIC</term><def><p>dissolved inorganic carbon</p></def></def-item>
+<def-item>
+<term>DoE</term><def><p>(former)Department of Environment (England and Wales), now DEFRA</p></def></def-item>
+<def-item>
+<term>ECM</term><def><p>electrical conductivity measurement (here applied to ice cores)</p></def></def-item>
+<!-- def-item>
+<term>ENSO</term><def><p>El Ni&#x00F1;o Southern Oscillation</p></def></def-item>
+<def-item>
+<term>EOR</term><def><p>enhanced oil recovery</p></def></def-item>
+<def-item>
+<term>EPICA</term><def><p>European Project for Ice Coring in Antarctica</p></def></def-item>
+<def-item>
+<term>EU</term><def><p>European Union</p></def></def-item>
+<def-item>
+<term>FAO</term><def><p>UN Food and Agriculture Organization</p></def></def-item>
+<def-item>
+<term>FCC</term><def><p>UN Framework Convention on Climate Change (1992)</p></def></def-item>
+<def-item>
+<term>G5</term><def><p>The emerging economic powers: China, India, South Africa, Mexico and Brazil</p></def></def-item>
+<def-item>
+<term>G8</term><def><p>Group of Eight, consisting of Canada, France, Germany, Italy, Japan, the UK, the USA and Russia.</p></def></def-item>
+<def-item>
+<term>GDP</term><def><p>gross domestic product</p></def></def-item>
+<def-item>
+<term>GECFS</term><def><p>Global Environmental Change and Food Systems</p></def></def-item>
+<def-item>
+<term>GRACE</term><def><p>Gravity Recovery and Climate Experiment (satellite mission)</p></def></def-item>
+<def-item>
+<term>GSA</term><def><p>Great Salinity Anomaly</p></def></def-item>
+<def-item>
+<term>GtC</term><def><p>giga-tonnes of carbon</p></def></def-item>
+<def-item>
+<term>GWh</term><def><p>giga-Watt hour</p></def></def-item>
+<def-item>
+<term>GWP</term><def><p>global warming potential</p></def></def-item>
+<def-item>
+<term>H</term><def><p>Hydrogen</p></def></def-item>
+<def-item>
+<term>Ha</term><def><p>hectare (100 m x 100 m &#x003D; 10<sup>4</sup> m<sup>2</sup> or approximately 2.47 acres)</p></def></def-item>
+<def-item>
+<term>HEP</term><def><p>hydroelectric power</p></def></def-item>
+<def-item>
+<term>HMSO</term><def><p>Her Majesty&#x0027;s Stationery Office (now just the Stationery Office)</p></def></def-item>
+<def-item>
+<term>IETM</term><def><p>initial Eocene thermal maximum (also known as the PETM)</p></def></def-item>
+<def-item>
+<term>IETR</term><def><p>International Experimental Thermonuclear Reactor</p></def></def-item>
+<def-item>
+<term>IPCC</term><def><p>Intergovernmental Panel on Climate Change</p></def></def-item>
+<def-item>
+<term>ICZ</term><def><p>Intertropical Convergence Zone</p></def></def-item>
+<def-item>
+<term>ITE</term><def><p>UK Institute for Terrestrial Ecology (now CEH)</p></def></def-item>
+<def-item>
+<term>IUCN</term><def><p>International Union for the Conservation of Nature (and Natural Resources; now also known as the World Conservation Union)</p></def></def-item>
+<def-item>
+<term>JI</term><def><p>Joint Implementation</p></def></def-item>
+<def-item>
+<term>KPIA</term><def><p>Kyoto Protocol Implementation Act (Canada)</p></def></def-item>
+<def-item>
+<term>kya</term><def><p>thousands of years ago</p></def></def-item>
+<def-item>
+<term>LEA</term><def><p>leaf area analysis (used to approximate rainfall)</p></def></def-item>
+<def-item>
+<term>LGM</term><def><p>last glacial maximum (approximately 20 000 years ago)</p></def></def-item>
+<def-item>
+<term>LMA</term><def><p>leaf margin analysis (used to approximate temperature)</p></def></def-item>
+<def-item>
+<term>MAFF</term><def><p>(former) UK Ministry of Agriculture, Fisheries and Food (now part of DEFRA)</p></def></def-item>
+<def-item>
+<term>MAR</term><def><p>mass accumulation rate</p></def></def-item>
+<def-item>
+<term>MCA</term><def><p>medieval climatic anomaly (also known as the medieval warm period)</p></def></def-item>
+<def-item>
+<term>MIT</term><def><p>Massachusetts Institute of Technology</p></def></def-item>
+<def-item>
+<term>MONARCH</term><def><p>Modelling Natural Resource Responses to Climate Change</p></def></def-item>
+<def-item>
+<term>mtDNA</term><def><p>mitochondrial DNA</p></def></def-item>
+<def-item>
+<term>mtoe</term><def><p>million tonnes of oil equivalent (&#x003D; 42 PJ &#x003D; 42 x 10<sup>15</sup> J &#x003D;12 TWh &#x003D; 12 x 10<sup>12</sup> Wh; excluding station efficiency factors)</p></def></def-item>
+<def-item>
+<term>MWP</term><def><p>medieval warm period (also known as the medieval climatic anomaly)</p></def></def-item>
+<def-item>
+<term>mya</term><def><p>millions of years ago</p></def></def-item>
+<def-item>
+<term>NAO</term><def><p>North Atlantic Oscillation</p></def></def-item>
+<def-item>
+<term>NERC</term><def><p>UK Natural Environment Research Council</p></def></def-item>
+<def-item>
+<term>NFFO</term><def><p>Non-Fossil Fuel Obligation</p></def></def-item>
+<def-item>
+<term>NHG</term><def><p>northern-hemisphere glaciation</p></def></def-item>
+<def-item>
+<term>NOAA</term><def><p>US National Oceanic and Atmospheric Administration</p></def></def-item>
+<def-item>
+<term><sup>16</sup>O</term><def><p>The most common form (isotope) of oxygen with an atomic weight of 16</p></def></def-item>
+<def-item>
+<term><sup>18</sup>O</term><def><p>Rarer and heavier isotope of oxygen</p></def></def-item>
+<def-item>
+<term>OECD</term><def><p>Organization for Economic Cooperation and Development (Austria, Australia, Belgium, Canada, Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary, Iceland, Republic of Ireland, Italy, Japan, Luxembourg, Mexico, New Zealand, Netherlands, Norway, Poland, Portugal, Slovakia, South Korea, Spain, Sweden, Switzerland, Turkey, UK and USA)</p></def></def-item>
+<def-item>
+<term>OPEC</term><def><p>Organization of the Petroleum Exporting Countries (Iran, Iraq, Kuwait, Qatar, Saudi Arabia, United Arab Emirates, Algeria, Libya, Nigeria, Indonesia and Venezuela)</p></def></def-item>
+<def-item>
+<term>PETM</term><def><p>Palaeocene-Eocene thermal maximum (also known as the IETM)</p></def></def-item>
+<def-item>
+<term>PMP</term><def><p>possible maximum precipitation</p></def></def-item>
+<def-item>
+<term>ppb</term><def><p>parts per billion</p></def></def-item>
+<def-item>
+<term>ppm</term><def><p>parts per million</p></def></def-item>
+<def-item>
+<term>ppbv</term><def><p>parts per billion by volume</p></def></def-item>
+<def-item>
+<term>ppmv</term><def><p>parts per million by volume</p></def></def-item>
+<def-item>
+<term>ppt</term><def><p>parts per trillion</p></def></def-item>
+<def-item>
+<term>r/p ratio</term><def><p>(fossil-fuel) reserve/production ratio</p></def></def-item>
+<def-item>
+<term>Si</term><def><p>Silicon</p></def></def-item>
+<def-item>
+<term>SO</term><def><p>Stationery Office (formerly HMSO)</p></def></def-item>
+<def-item>
+<term>SRES</term><def><p>IPCC special report on emission scenarios</p></def></def-item>
+<def-item>
+<term>Sv</term><def><p>Sverup. It is a unit of measure of volume of water transport (flow) used exclusively in oceanography. 1 Sv &#x003D; 10<sup>6</sup> m<sup>3</sup> s<sup>&#x2212;1</sup>. See also Be (water volume).</p></def></def-item>
+<def-item>
+<term>tC GWh<sup>&#x2212;1</sup></term><def><p>tonnes of carbon per giga-Watt hour</p></def></def-item>
+<def-item>
+<term>TGS</term><def><p>thermal growing season</p></def></def-item>
+<def-item>
+<term>toe</term><def><p>tonnes of oil equivalent</p></def></def-item>
+<def-item>
+<term>UKCIP</term><def><p>UK Climate Impacts Programme</p></def></def-item>
+<def-item>
+<term>UN</term><def><p>United Nations</p></def></def-item>
+<def-item>
+<term>UNCED</term><def><p>UN Conference on Environment and Development (1992)</p></def></def-item>
+<def-item>
+<term>UNEP</term><def><p>United Nations Environment Programme</p></def></def-item>
+<def-item>
+<term>USGCRP</term><def><p>US Global Change Research Program</p></def></def-item>
+<def-item>
+<term>UV</term><def><p>ultraviolet (light)</p></def></def-item>
+<def-item>
+<term>W</term><def><p>Watt, the SI unit of power (&#x003D; 1 Js<sup>&#x2212;1</sup>)</p></def></def-item>
+<def-item>
+<term>WAIS</term><def><p>West Antarctic Ice Sheet</p></def></def-item>
+<def-item>
+<term>WHO</term><def><p>World Health Organization</p></def></def-item>
+<def-item>
+<term>WMO</term><def><p>World Meteorological Organization</p></def></def-item>
+<def-item>
+<term>WWF</term><def><p>World Wildlife Fund (now World Wide Fund for Nature)</p></def></def-item--></def-list></p>
+<p><!-- table-wrap id="c12345-100-25" position="float">
+<table orient="port" pgwide="1" frame="topbot" alt-graphic="12345tblu1">
+<tgroup cols="8">
+<colspec colname="1" align="left"/>
+<colspec colname="2" align="left"/>
+<colspec colname="3" align="left"/>
+<colspec colname="4" align="left"/>
+<colspec colname="5" align="left"/>
+<colspec colname="6" align="left"/>
+<colspec colname="7" align="left"/>
+<colspec colname="8" align="left"/>
+<thead>
+<row>
+<entry colname="1" align="left"><p><emphasis type="bold">AGE</emphasis> (MYA)</p></entry>
+<entry colname="2" align="left"><p><emphasis type="bold">EON</emphasis></p></entry>
+<entry colname="3" align="left"><p><emphasis type="bold">ERA</emphasis></p></entry>
+<entry colname="4" align="left"><p><emphasis type="bold">PERIOD</emphasis></p></entry>
+<entry colname="5" align="left"><p><emphasis type="bold">EPOCH</emphasis></p></entry>
+<entry colname="6" align="left"><p><emphasis type="bold">MAJOR EVENTS</emphasis></p></entry>
+<entry colname="7" align="left"><p><emphasis type="bold">TIME BEGINNING</emphasis></p>
+<p>(MYA)</p></entry>
+</row>
+</thead>
+<tbody>
+<row valign="bottom">
+<entry><p>\</p>
+<p>0.0115</p></entry>
+<entry colname="2" align="left" morerows="18"><p>\</p>
+<p>Phanerozoic</p>
+<p>\</p></entry>
+<entry colname="3" align="left" morerows="6"><p>Cenozoic</p></entry>
+<entry colname="4" align="left" morerows="3"><p>Neogene</p></entry>
+<entry colname="5" align="left" morerows="1"><p>Quaternary</p></entry>
+<entry><p>Holocene</p></entry>
+<entry><p>Current interglacial (part of which sometimes called the Anthropocene)</p></entry>
+<entry><p>\</p>
+<p>0.0117 MYA</p>
+<p>(11,700 YA)</p></entry>
+</row>
+<row>
+<entry><p>\</p>
+<p>1.806</p></entry>
+<entry><p>Pleistocene</p></entry>
+<entry><p>Series of inter&#x2010;glacials and glacials</p></entry>
+<entry><p>\</p>
+<p>1.806</p></entry>
+</row>
+<row valign="bottom">
+<entry><p>\</p>
+<p>5.332</p></entry>
+<entry colname="2" align="left" morerows="4"><p>Tertiary</p></entry>
+<entry><p>Pliocene</p></entry>
+<entry/>
+<entry><p>\</p>
+<p>5.332</p></entry>
+</row>
+<row>
+<entry><p>\</p>
+<p>23.03</p></entry>
+<entry><p>Miocene</p></entry>
+<entry><p>35&#x2010;15 MYA temps 3&#x2010;4&#x00B0;C warmer than present but cooling</p></entry>
+<entry><p>\</p>
+<p>23.03</p></entry>
+</row>
+<row valign="bottom">
+<entry><p>\</p>
+<p>33.9</p></entry>
+<entry colname="2" align="left" morerows="2"><p>Paleogene</p></entry>
+<entry><p>Oligocene</p></entry>
+<entry><p>Gets cooler from Eocene. Antarctic ice from 34MYA</p></entry>
+<entry><p>\</p>
+<p>33.9</p></entry>
+</row>
+<row>
+<entry><p>\</p>
+<p>55.8</p></entry>
+<entry><p>Eocene</p></entry>
+<entry><p>\</p>
+<p>Early Eocene warm</p></entry>
+<entry><p>\</p>
+<p>55.8</p></entry>
+</row>
+<row>
+<entry><p>\</p>
+<p>65.5</p></entry>
+<entry><p>Palaeocene</p></entry>
+<entry/>
+<entry><p>\</p>
+<p>65.5</p></entry>
+</row>
+<row valign="bottom">
+<entry><p>\</p>
+<p>99.6</p></entry>
+<entry colname="2" align="left" morerows="4"><p>\</p>
+<p>Mesozoic</p></entry>
+<entry colname="3" align="left" morerows="1"><p>Cretaceous</p></entry>
+<entry><p>Upper</p>
+<p>99.6</p></entry>
+<entry colname="5" align="left" morerows="1"><p>End&#x2010;Cretaceous extinction</p></entry>
+<entry colname="6" align="left" morerows="1"><p>\</p>
+<p>145.5</p></entry>
+</row>
+<row>
+<entry><p>145.5</p></entry>
+<entry><p>Lower</p></entry>
+</row>
+<row valign="bottom">
+<entry/>
+<entry colname="2" align="left" morerows="1"><p>Jurassic</p></entry>
+<entry colname="3" align="left" morerows="1"><p>\</p></entry>
+<entry colname="4" align="left" morerows="1"><p>CO<sub>2</sub> levels begin a slow, variable trend down to Quaternary levels</p></entry>
+<entry colname="5" align="left" morerows="1"><p>\</p>
+<p>199.6</p></entry>
+</row>
+<row>
+<entry><p>199.6</p></entry>
+</row>
+<row>
+<entry><p>\</p>
+<p>251</p></entry>
+<entry><p>Triassic</p>
+<p>\</p></entry>
+<entry/>
+<entry><p>CO2 levels rise to &#x223C;5x present level</p></entry>
+<entry><p>\</p>
+<p>251</p></entry>
+</row>
+<row valign="bottom">
+<entry><p>\</p>
+<p>299</p></entry>
+<entry colname="2" align="left" morerows="6"><p>\</p>
+<p>Palaeozoic</p></entry>
+<entry><p>Permian</p>
+<p>\</p></entry>
+<entry/>
+<entry><p>End&#x2010;Permian extinction</p></entry>
+<entry><p>\</p>
+<p>299</p></entry>
+</row>
+<row valign="bottom">
+<entry><p>320</p></entry>
+<entry colname="2" align="left" morerows="1"><p>Carboniferous</p></entry>
+<entry><p>Pennsylvanian</p></entry>
+<entry colname="4" align="left" morerows="1"><p>CO<sub>2</sub> levels low</p></entry>
+<entry><p>320</p></entry>
+</row>
+<row>
+<entry><p>359.2</p></entry>
+<entry><p>Mississippian</p></entry>
+<entry><p>359.2</p></entry>
+</row>
+<row valign="bottom">
+<entry><p>416</p></entry>
+<entry><p>Devonian</p></entry>
+<entry colname="3" align="left" morerows="2"><p>\</p></entry>
+<entry colname="4" align="left" morerows="2"><p>\</p>
+<p>CO<sub>2</sub> levels peak at over 22x present level</p></entry>
+<entry><p>416</p></entry>
+</row>
+<row>
+<entry><p>443.7</p></entry>
+<entry><p>Silurian</p></entry>
+<entry><p>443.7</p></entry>
+</row>
+<row>
+<entry><p>488.3</p></entry>
+<entry><p>Ordovician</p></entry>
+<entry><p>488.3</p></entry>
+</row>
+<row>
+<entry><p>542</p></entry>
+<entry><p>Cambrian</p></entry>
+<entry/>
+<entry><p>&#x201C;Age of invertebrates&#x201D;</p></entry>
+<entry><p>542</p></entry>
+</row>
+<row valign="bottom">
+<entry><p>\</p>
+<p>630</p></entry>
+<entry colname="2" align="left" morerows="7"><p>\</p>
+<p>Precambrian</p></entry>
+<entry colname="3" align="left" morerows="6"><p>\</p>
+<p>Proterozoic</p>
+<p>\</p></entry>
+<entry colname="4" align="left" morerows="2"><p>Neoproterozoic</p>
+<p>\</p></entry>
+<entry><p>Ediacaran</p></entry>
+<entry/>
+<entry><p>\</p>
+<p>630</p></entry>
+</row>
+<row>
+<entry><p>\</p>
+<p>850</p></entry>
+<entry><p>Cryogenian</p></entry>
+<entry><p>Snowball Earth II</p></entry>
+<entry><p>\</p>
+<p>850</p></entry>
+</row>
+<row>
+<entry><p>\</p>
+<p>1,000</p></entry>
+<entry><p>Tonian</p></entry>
+<entry/>
+<entry><p>\</p>
+<p>1,000</p></entry>
+</row>
+<row valign="bottom">
+<entry><p>\</p>
+<p>1,200</p></entry>
+<entry colname="2" align="left" morerows="2"><p>Mesoproterozoic</p></entry>
+<entry><p>Stenian</p></entry>
+<entry/>
+<entry><p>\</p>
+<p>1,200</p></entry>
+</row>
+<row>
+<entry><p>\</p>
+<p>1,400</p></entry>
+<entry><p>Ectasian</p></entry>
+<entry/>
+<entry><p>\</p>
+<p>1,400</p></entry>
+</row>
+<row>
+<entry><p>\</p>
+<p>1,600</p></entry>
+<entry><p>Calymmian</p></entry>
+<entry/>
+<entry><p>\</p>
+<p>1,600</p></entry>
+</row>
+<row>
+<entry><p>\</p>
+<p>2,500</p></entry>
+<entry><p>Palaeo&#x2010;proterozoic</p>
+<p>\</p></entry>
+<entry/>
+<entry><p>\</p>
+<p>Snowball Earth I (around 2.2, possibly 2.4&#x2010;2.3 bya)</p>
+<p>O<sub>2</sub> photosynthesis begins to increase</p></entry>
+<entry><p>\</p>
+<p>2,500</p></entry>
+</row>
+<row>
+<entry/>
+<entry><p>\</p>
+<p>Archaean</p></entry>
+<entry/>
+<entry/>
+<entry><p>Fossil evidence of bacteria and algae.</p></entry>
+<entry><p>\</p>
+<p>3,600 (lower limit not defined)</p></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table-wrap-foot>
+<fn-group type="other">
+<fn id="c12345-100-26"><p>The dates given are those designated by the International Commission on Stratigraphy (2008). The spellings are English. The breakdown of nomenclature includes commonly used terms such as &#x2018;quaternary&#x0027; which the ICS has made a move to discontinue, but debate goes on. Yet because of common use and for student ease (especially by non&#x2010;geologists) such terms are retained in this chart.</p></fn>
+</fn-group>
+</table-wrap-foot>
+</table-wrap--></p>
+</sec>
+
+	</body>
+	</appendix>
+
+<appendix id="c12345-10-5200">
+<label/>
+<title>Appendix 2.&#x2003;Calculations of energy demand/supply and orders of magnitude</title>
+<alt-title type="right-running">Appendix 2</alt-title>
+<alt-title type="left-running">Appendix 2</alt-title>
+
+<!-- <subtitle>Globalism and its Impacts</subtitle> -->
+<body>
+
+<sec id="c12345-100-27">
+<title>Calculations of energy demand/supply</title>
+<p>From Chapter 7 onwards there are a number of depictions of global energy supply and demand. The following criteria have been applied in constructing these graphs of energy statistics.</p>
+<p>Where statistics are given in millions of tonnes of oil equivalent (mtoe) for quantities of nuclear and renewable energy (such as hydro electric power) they are expressed in terms of the oil equivalent as if the energy was generated by an oil-fired electricity-generating plant with an efficiency of around 33&#x0025; up to 2000 and then 38&#x0025; thereafter. Consequently it is possible to make some comparison and to see how these non-fossil energy sources (could) displace oil sources.</p>
+<p>Historic proportional energy-supply estimates prior to 1950 are taken from Morgan and Murray (1976) and early carbon emissions were assessed from a variety of sources including from the Carbon Dioxide Information Analysis Center (CDIAC) of the US Department of Energy and also the Woods Hole Research Center, Massachusetts, US. Carbon emissions from energy (only) for Figure 7.10b came from the International Energy Agency&#x0027;s <emphasis type="italic">CO2 Emissions from Fossil Fuel Combustion 2011</emphasis>. Estimates for fossil fuel use after 1950 were for the 1980s and 1990s were also crosschecked against the US Government&#x0027;s Energy Information Administration <uri web-address="http://www.eia.doe.gov">www.eia.doe.gov</uri> in autumn 2004 and spring 2005 (for this book&#x0027;s first edition), as well as the <emphasis type="italic">BP Statistical Review of World Energy</emphasis> (1990, 2000, 2005 and 2011) and adapted where necessary, as per previous power-station efficiency assumptions. The Worldwatch Institute&#x0027;s <emphasis type="italic">Vital Signs</emphasis> series (2003), which in turn draws on additional sources, was used as a further check on statistics post-1950. The UK Department of Trade and Industry&#x0027;s (<uri web-address="http://www.dti.gov.uk">www.dti.gov.uk</uri>) <emphasis type="italic">Energy Trends</emphasis> (also known as Digest of UK Energy Statistics or DUKES) was similarly used as a check for UK data. Any misinterpretation of data sources is the author&#x0027;s responsibility. Data for this book&#x0027;s 2nd edition was accessed online in the latter half of 2011.</p>
+<p>Key websites that have energy and/or carbon data:-
+<list id="c12345-100-28" type="bullet">
+<list-item><p>British Petroleum &#x2013; <uri web-address="http://www.bp.com">http://www.bp.com</uri></p></list-item>
+<list-item><p>Carbon Dioxide Information Analysis Center &#x2013; <uri web-address="http://cdiac.ornl.gov">http://cdiac.ornl.gov</uri></p></list-item>
+<list-item><p>International Energy Agency &#x2013; <uri web-address="http://www.iea.org">http://www.iea.org</uri></p></list-item>
+<list-item><p><emphasis type="italic">U.S. Energy Information Administration (EIA)</emphasis> &#x2013; <uri web-address="http://www.eia.gov">http://www.eia.gov</uri></p></list-item>
+</list></p>
+<p>Data from 1950 onwards strictly relates to commercially traded fuels and does not include locally gathered or produced domestic fuels in less-developed nations, such as burning of rural wood or animal dung. The proportional estimates prior to 1900 for the UK and USA in graphs featuring such historical dimensions may include some from such categories although the elements of change in pattern of energy consumption depicted in this book prior to the twentieth century are thought to capture the essential features. Consequently any use of these energy graphs should reference this book.
+<list id="c12345-100-29" type="bullet">
+<list-item><p>1t (metric) of oil &#x003D; 1.1023 short tons &#x003D; 256 gallons (imperial) &#x003D; 308 US gallons</p></list-item>
+<list-item><p>1 mtoe (million tonnes of oil equivalent) produces around 4 TWh &#x003D; 4 x 10<sup>12</sup> Wh in a power station of about 33&#x0025; efficiency.</p></list-item>
+<list-item><p>1 mtoe, when burnt, releases approximately 4.25 x 10<sup>13</sup> Btu (British thermal units) or 4.48 x 10<sup>16</sup>J.</p></list-item>
+<list-item><p>A machine doing work consuming energy at the rate of 1 Js<sup>&#x2212;1</sup> consumes 1W each second. If this continues for an hour then (60 s x 60 min) 1 kWh of energy is consumed, which is equivalent to 3600 J.</p></list-item>
+</list></p>
+</sec>
+
+
+
+
+</body>
+<back>
+</back>
+</appendix>
+
+<?cmd cleardoublepage ?>
+
+<!-- ?att label="99." ?><references id="c12345-265">
+<title>References</title>
+<alt-title type="left-running">References</alt-title>
+<alt-title type="right-running">References</alt-title>
+<?att label="99." ?><ref-sec type="references" id="c12345-10-81"><label>1.</label><title>Textbooks and Monographs</title>
+<citation type="book" id="c12345-10-bib1"><label>1.</label><author type="author"><name><surname>Adamson</surname>,<?qry valign="-10pt" msg="PUB: X Head assumed. OK?"?> <given-names>A. W.</given-names></name></author>; <author type="author"><name><surname>Gast</surname>, <given-names>A. P.</given-names></name></author> <book-title>Physical Chemistry of Surfaces</book-title>, <publisher-name>J. Wiley &#x0026; Sons</publisher-name>, <publisher-loc>New York</publisher-loc> <year>1997</year>. ISBN 0471148733</citation>
+<citation type="book" id="c12345-10-bib2"><label>2.</label><author type="author"><name><surname>Adriano</surname>, <given-names>D. C.</given-names></name></author>, Ed. <book-title>Biogeochemistry of Trace Metals</book-title>, <publisher-name>Lewis Publisher</publisher-name>, <publisher-loc>Boca Raton</publisher-loc> <year>1992</year>. ISBN 0873715233</citation>
+<citation type="book" id="c12345-10-bib3"><label>3.</label><author type="author"><name><surname>Apello</surname>, <given-names>C. A. J.</given-names></name></author>; <author type="author"><name><surname>Postma</surname>, <given-names>D.</given-names></name></author> <book-title>Geochemistry, groundwater and pollution</book-title>, <publisher-name>A. A. Balkema</publisher-name>, <publisher-loc>Rotterdam</publisher-loc> <year>1993</year>; 2nd print 1994. ISBN 9054101067</citation>
+<citation type="book" id="c12345-10-bib4"><label>4.</label><author type="author"><name><surname>Berry</surname>, <given-names>R. S.</given-names></name></author>; <author type="author"><name><surname>Rice</surname>, <given-names>S. A.</given-names></name></author>; <author type="author"><name><surname>Ross</surname>, <given-names>J.</given-names></name></author> <book-title>Physical Chemistry</book-title>, 2nd Ed., <publisher-name>Oxford University Press</publisher-name>, <publisher-loc>Oxford</publisher-loc> <year>2000</year>. ISBN 0195105893</citation>
+<citation type="book" id="c12345-10-bib5"><label>5.</label><author type="author"><name><surname>Berger</surname>, <given-names>A.</given-names></name></author>; <author type="author"><name><surname>Imbrie</surname>, <given-names>J.</given-names></name></author>; <author type="author"><name><surname>Hays</surname>, <given-names>J.</given-names></name></author>; <author type="author"><name><surname>Kukla</surname>, <given-names>G.</given-names></name></author>; <author type="author"><name><surname>Saltzman</surname>, <given-names>B.</given-names></name></author>, Eds. <book-title>Milankovitch and Climate</book-title>, D. Reidel, <publisher-loc>Dortrecht</publisher-loc> <year>1984</year>. ISBN 9027717915</citation>
+<citation type="book" id="c12345-10-bib6"><label>6.</label><author type="author"><name><surname>Berzelius</surname>, <given-names>J. J.</given-names></name></author> <book-title>Lehrbuch der Chemie Vol. 1</book-title>, 5th Ed., <publisher-name>Arnoldische Buchhandlung</publisher-name>, <publisher-loc>Leipzig</publisher-loc> <year>1856</year>. a. idem <emphasis type="italic">L&#x00E4;rbok i kemien</emphasis>, 2nd Ed., Stockholm 1817.</citation>
+<citation type="book" id="c12345-10-bib7"><label>7.</label><author type="author"><name><surname>Billing</surname>, <given-names>G. D.</given-names></name></author> <book-title>Dynamics of Molecule Surface Interactions</book-title>, <publisher-name>J. Wiley &#x0026; Sons</publisher-name>, <publisher-loc>New York</publisher-loc> <year>2000</year>. ISBN 0471331082</citation>
+<citation type="book" id="c12345-10-bib8"><label>8.</label><author type="author"><name><surname>Bitton</surname>, <given-names>G.</given-names></name></author>; <author type="author"><name><surname>Gerba</surname>, <given-names>C. P.</given-names></name></author>, Eds. <book-title>Groundwater Pollution Microbiology</book-title>, <publisher-name>J. Wiley &#x0026; Sons</publisher-name>, <publisher-loc>New York</publisher-loc> <year>1984</year>. ISBN 9991575405</citation>
+<citation type="book" id="c12345-10-bib9"><label>9.</label><author type="author"><name><surname>Bjerrum</surname>, <given-names>J.</given-names></name></author> <book-title>Metal ammine complexes in aqueous solution</book-title>, <publisher-name>P. Haase &#x0026; Son</publisher-name>, <publisher-loc>Copenhagen</publisher-loc> <year>1941</year>. Reprint 1957.</citation>
+<citation type="book" id="c12345-10-bib10"><label>10.</label><author type="author"><name><surname>Borggaard</surname>, <given-names>O. K.</given-names></name></author> <book-title>Soil Chemistry in a pedological context</book-title>, 4th Ed., <publisher-name>DSR Press</publisher-name>, <publisher-loc>Copenhagen</publisher-loc> <year>2000</year>. ISBN 8774325507</citation>
+<citation type="book" id="c12345-10-bib11"><label>11.</label><author type="author"><name><surname>Brady</surname>, <given-names>N. C.</given-names></name></author> <book-title>The Nature and Properties of Soils</book-title>, 10th Ed., <publisher-name>MacMillan Publishing Company</publisher-name>, <publisher-loc>New York</publisher-loc> <year>1990</year>. ISBN 0023133619</citation>
+<citation type="book" id="c12345-10-bib12"><label>12.</label><author type="author"><name><surname>Brasseur</surname>, <given-names>G. P.</given-names></name></author>; <author type="author"><name><surname>Orlando</surname>, <given-names>J. J.</given-names></name></author>; <author type="author"><name><surname>Tyndall</surname>, <given-names>G. S.</given-names></name></author>; Eds. <book-title>Atmospheric Chemistry and Global Change</book-title>, <publisher-name>Oxford University Press</publisher-name>, <publisher-loc>New York</publisher-loc> <year>1999</year>. ISBN 0195105214</citation>
+<citation type="book" id="c12345-10-bib13"><label>13.</label><author type="author"><name><surname>Bridges</surname>, <given-names>E. M.</given-names></name></author> <book-title>World Soils</book-title>, 2nd Ed., <publisher-name>Cambridge University Press</publisher-name>, <publisher-loc>Cambridge</publisher-loc> <year>1988</year>. ISBN 0521293391</citation>
+<citation type="book" id="c12345-10-bib14"><label>14.</label><author type="author"><name><surname>Brown</surname>, <given-names>S. S.</given-names></name></author> <book-title>History of IUPAC 1988 &#x2011; 1999</book-title>, IUPAC 2001. ISBN 0967855012</citation>
+<citation type="book" id="c12345-10-bib15"><label>15.</label><author type="author"><name><surname>Bucher</surname>, <given-names>K.</given-names></name></author>; <author type="author"><name><surname>Frey</surname>, <given-names>M.</given-names></name></author> <book-title>Petrogenesis of Metamorphic Rocks</book-title>, 6th Ed., <publisher-name>Springer Verlag</publisher-name>, <publisher-loc>Heidelberg</publisher-loc> <year>1994</year>. ISBN 3540575677</citation>
+<citation type="book" id="c12345-10-bib16"><label>16.</label><author type="author"><name><surname>Condie</surname>, <given-names>K. C.</given-names></name></author> <book-title>Plate Tectonics and Crustal Evolution</book-title>, 4th Ed., <publisher-name>Butterworth&#x2011;Heinemann</publisher-name>, <publisher-loc>Oxford</publisher-loc> <year>1997</year>. ISBN 0750633867</citation>
+<citation type="book" id="c12345-10-bib17"><label>17.</label><author type="author"><name><surname>Crichton</surname>, <given-names>R. R.</given-names></name></author> <book-title>Biological Inorganic Chemistry</book-title>, <publisher-name>Elsevier</publisher-name>, <publisher-loc>Amsterdam</publisher-loc> <year>2008</year>. ISBN 9780444527400</citation>
+<citation type="book" id="c12345-10-bib18"><label>18.</label><author type="author"><name><surname>Darnell</surname>, <given-names>J. E.</given-names></name></author>; <author type="author"><name><surname>Lodish</surname>, <given-names>H.</given-names></name></author>; <author type="author"><name><surname>Baltimore</surname>, <given-names>D.</given-names></name></author> <book-title>Molecular Cell Biology</book-title>, <publisher-name>Scientific American Books</publisher-name>, <publisher-loc>New York</publisher-loc> <year>1986</year>. ISBN 0716714485</citation>
+<citation type="book" id="c12345-10-bib19"><label>19.</label><author type="author"><name><surname>Deer</surname>, <given-names>W. A.</given-names></name></author>; <author type="author"><name><surname>Howie</surname>, <given-names>R. A.</given-names></name></author>; <author type="author"><name><surname>Zussman</surname>, <given-names>J.</given-names></name></author> <book-title>An Introduction to the Rock Forming Minerals</book-title>, 1st Ed., <publisher-name>Longman</publisher-name>, <publisher-loc>Essex</publisher-loc> <year>1966</year>; 15th Impression 1985. ISBN 0582442109</citation>
+<citation type="book" id="c12345-10-bib20"><label>20.</label><author type="author"><name><surname>Dzombak</surname>, <given-names>D. A.</given-names></name></author>; <author type="author"><name><surname>Morel</surname>, <given-names>F. M. M.</given-names></name></author> <book-title>Surface Complexation Modelling</book-title>, <publisher-name>J. Wiley &#x0026; Sons</publisher-name>, <publisher-loc>New York</publisher-loc> <year>1990</year>. ISBN 0471637319</citation>
+<citation type="book" id="c12345-10-bib21"><label>21.</label><author type="author"><name><surname>Fennell</surname>, <given-names>R.</given-names></name></author> <book-title>History of IUPAC 1919&#x2011;1987</book-title>, <publisher-name>Blackwell Science</publisher-name>, <publisher-loc>Oxford</publisher-loc> <year>1993</year>. ISBN 0865428786</citation>
+<citation type="book" id="c12345-10-bib22"><label>22.</label><author type="author"><name><surname>Franks</surname>, <given-names>F.</given-names></name></author> <book-title>Water</book-title>, <publisher-name>The Royal Society of Chemistry</publisher-name>, <publisher-loc>London</publisher-loc> <year>1983</year>. ISBN 0851864732</citation>
+<citation type="book" id="c12345-10-bib23"><label>23.</label><author type="author"><name><surname>Franz</surname>, <given-names>J. E.</given-names></name></author>; <author type="author"><name><surname>Mao</surname>, <given-names>M. K.</given-names></name></author>; <author type="author"><name><surname>Sikorski</surname>, <given-names>J. A.</given-names></name></author> <book-title>Glyphosate: A Unique Global Herbicide</book-title>, ACS Monograph 189, The American Chemical Society <year>1997</year>. ISSN 00657719;189</citation>
+<citation type="book" id="c12345-10-bib24"><label>24.</label><author type="author"><name><surname>Fra&#x00FA;sto da Silva</surname>, <given-names>J. J. R.</given-names></name></author>; <author type="author"><name><surname>Williams</surname>, <given-names>R. J. P.</given-names></name></author> <book-title>The Biological Chemistry of the Elements</book-title>, <publisher-name>Clarendon Press</publisher-name>, <publisher-loc>Oxford</publisher-loc> <year>1991</year>. ISBN 0198555989</citation>
+<citation type="book" id="c12345-10-bib25"><label>25.</label><author type="author"><name><surname>Garrels</surname>, <given-names>R. M.</given-names></name></author>; <author type="author"><name><surname>Christ</surname>, <given-names>C. L.</given-names></name></author> <book-title>Solutions, Minerals and Equilibria</book-title>, <publisher-name>Harper &#x0026; Row</publisher-name>, <publisher-loc>New York</publisher-loc> <year>1965</year>.</citation>
+<citation type="book" id="c12345-10-bib26"><label>26.</label><author type="author"><name><surname>Glasstone</surname>, <given-names>S.</given-names></name></author> <book-title>Textbook of Physical Chemistry</book-title>, 7th Ed., <author type="author"><name><given-names>D.</given-names> <surname>van Nostrand</surname></name></author>, <publisher-loc>New York</publisher-loc> <year>1946</year>.</citation>
+</ref-sec>
+<?att label="99." ?><ref-sec type="references" id="c12345-10-8101"><label>2.</label><title>Papers</title>
+
+<citation type="book" id="c12345-10-bib27"><label>27.</label><author type="author"><name><surname>Greenwood</surname>, <given-names>N. N.</given-names></name></author>; <author type="author"><name><surname>Earnshaw</surname>, <given-names>A.</given-names></name></author> <book-title>Chemistry of the Elements</book-title>, <publisher-name>Pergamon Press</publisher-name>, <publisher-loc>Oxford</publisher-loc> <year>1984</year>. ISBN 0080220576</citation>
+
+<citation type="book" id="c12345-10-bib2714"><label>28.</label>USDA (U. S. Department of Agriculture)</citation>
+<list type="number" id="c12345-10-104410">
+<list-item><label>a.</label><p>http://www.fas.usda.gov/</p></list-item>
+<list-item><label>b.</label><p>http://www.invasive.org/</p></list-item>
+<list-item><label>c.</label><p>Soil Taxonomy, Agricultural Handbook Number 436, 1999.</p></list-item>
+	  </list>
+
+<citation type="book" id="c12345-10-bib27454414"><label>29.</label>U. S. Department of Commerce: National Climatic Data Center, 2009.</citation>
+<list type="number" id="c12345-10-104410a">
+<list-item><label>a.</label><p>http://www.ncdc.noaa.gov/oa/climate/research/anomalies/index.html</p></list-item>
+<list-item><label>b.</label><p>http://www.ncdc.noaa.gov/paleo/icecore/antarctica/vostok/vostok_data.&break; html</p></list-item>
+	  </list>
+<citation type="book" id="c12345-10-bib28"><label>30.</label><author type="author"><name><surname>Hall</surname>, <given-names>A.</given-names></name></author> <book-title>Igneous Petrology</book-title>, <publisher-loc>Longman</publisher-loc>, Essex <year>1987</year>. ISBN 0582301742</citation>
+<citation type="book" id="c12345-10-bib29"><label>31.</label><author type="author"><name><surname>Hargis</surname>, <given-names>L. G.</given-names></name></author> <book-title>Analytical Chemistry, Principles and Techniques</book-title>, <publisher-name>Prentice-Hall International Editors</publisher-name>, <publisher-loc>New Jersey</publisher-loc> <year>1988</year>. ISBN 013033507</citation>
+<citation type="book" id="c12345-10-bib30"><label>32.</label><author type="author"><name><surname>Harned</surname>, <given-names>H. S.</given-names></name></author>; <author type="author"><name><surname>Owen</surname>, <given-names>B. B.</given-names></name></author> <book-title>The Physical Chemistry of Electrolytic Solutions</book-title>, 3rd Ed., Reinhold, <publisher-loc>New York</publisher-loc> <year>1958</year>.</citation>
+	</ref-sec>
+</references-->
+
+
+
+<?att index-hang="16pt" index-depth="2" ?><index id="c12345-10-888"><alt-title type="left-running">Index</alt-title>
+<alt-title type="right-running">Index</alt-title><title>Index</title>
+<index-list>
+<index-item>
+<index-entry id="c12345-1001203">Abundance of the elements 11, 126</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001204">Acid</index-entry>
+<index-item>
+<index-entry id="c12345-1001205">acid rain 196, 307</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001206">acidity constant 218, 221, 228</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001207">acidity exponents (table) 220</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001208">boric acid 232</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001209">carbonic acid 233, 236</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001210">carbonic acid (table) 235</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001211">chemistry 214</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001212">conjugate base 215, 217</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001213">definition 215</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001214">degree of dissociation 221</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001215">dicarboxylic acids (table) 231</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001216">divalent 226</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001217">glycine 232</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001218">hard acid 245</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001219">Lewis acid, electron acceptor 244</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001220">oligovalent 226</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001221">polyvalent acid 237, 479</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001222">silicic acid 232</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001223">soft acid 245</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001224">strength 218, 219</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001225">tetraaquamercury(II) 233</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001226">trivalent 226</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001227">weak acid 220</index-entry></index-item></index-item>
+<index-item>
+<index-entry id="c12345-1001228">Acronyms</index-entry>
+<index-item>
+<index-entry id="c12345-1001229">2,4,5-T, 2,4,5-trichlorophenoxyacetic acid 401</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001230">2,4-D, 2,4-dichlorophenoxyacetic acid 401</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001231">BIF, banded iron formation 45</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001232">BOD, biological oxygen demand 150</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001233">BPL, bone phosphate of lime 353</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001234">CFC, chloroflouorocarbons 203</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001235">CHEMRAWN, Chemical Research Applied to World Needs 3, 517</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001236">cmc, carboxymethyl cellulose 422</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001237">COD, chemical oxygen demand 151</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001238">CODATA, Committee on Data for Science and Technology 465</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001241">DDT, 1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane 395</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001242">DIC, dissolved inorganic carbon 323</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001243">DMS, dimethylsulfide 340</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001244">DOM, dissolved organic matter 146</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001245">DU, Dobson unit 200</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001246">EPA, U. S. Environmental Protection Agency 394, 517</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001247">EPICA, European Project for Ice Coring in Antarctica 452</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001248">FAO, Food and Agricultural Organization of the UN 517</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001249">HCH, hexachlorocyclohexane 412</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001250">ICSU, International Council for Science 3, 517</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001251">iep, isoelectric point 229</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001252">IGBP, International Geosphere-Biosphere Programme 3</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001253">IPCC, Intergovernmental Panel on Climate Change 517</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001254">IPY, International Polar Year 3</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001255">ISO, International Organization for Standardization 471</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001256">IUGS, International Union of Geological Sciences 509, 517</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001257">IUPAC, International Union of Pure and Applied Chemistry 3, 517</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001258">IYC, International Year of Chemistry (2011) 4</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001259">LAS, linear alkylbenzene sulfonate 421</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001260">LFER, Linear Free-Energy Relationship 120</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001261">MCPA, 4-chloro-2-methylphenoxyacetic acid 401</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001262">NIST, U. S. National Institute of Standards and Technology 518</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001263">NMHC, non-methane hydrocarbon 182, 190</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001264">PAN, peroxyacetyl nitrate, polyacrylonitrile 188</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001265">PCCH, pentachlorocyclohexene 412</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001266">PCDF, (polychloro)dibenzofuran 411</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001267">PCDT, (polychloro)dibenzothiophene 411</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001268">PDB, Pee Dee Belemnite 38</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001269">PE, person equivalent 426</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001270">PSC, polar stratospheric clouds 209</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001271">PVC, poly(vinyl chloride) 383</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001272">pzc, point of zero charge 308</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001273">QSAR, Quantitative Structure Activity Relationship 405</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001274">RUP, restricted use pesticide 394</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001275">SCOPE, Scientific Committee on Problems of the Environment 3, 317</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001276">SI, international system of units 470</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001277">SIT, Specific Ionic interaction Theory 492</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001278">SOM, soil organic matter 146, 288, 313</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001279">STP, Standard Temperature and Pressure 366</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001282">TBT, 'tributyltin', Bu3SnOH 416</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001283">TCDD, 2,3,7,8-tetrachlorodibenzo[1,4]dioxin 410</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001284">UNESCO 4</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001285">United Nations Educational, Scientific and Cultural Organization 4</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001286">USDA, U. S. Department of Agriculture 518</index-entry></index-item>
+<!-- <index-item> -->
+<!-- <index-entry id="c12345-1001287">VPDB, Vienna Pee Dee Belemnite 38</index-entry></index-item> -->
+<!-- <index-item> -->
+<!-- <index-entry id="c12345-1001288">VSMOW, Vienna Standard Mean Ocean Water 36</index-entry></index-item> -->
+<!-- <index-item> -->
+<!-- <index-entry id="c12345-1001289">WHO, World Health Organization 417</index-entry></index-item> -->
+</index-item>
+<index-item>
+<index-entry id="c12345-1001290">Activity 95, 105</index-entry>
+<index-item>
+<index-entry id="c12345-1001291">activity of electrolytes 269, 489</index-entry></index-item></index-item>
+<index-item>
+<index-entry id="c12345-1001292">Adsorption</index-entry>
+<index-item>
+<index-entry id="c12345-1001293">isotherm 69, 309, 422</index-entry></index-item></index-item>
+<index-item>
+<index-entry id="c12345-1001294">Advection 83</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001295">Aerosol 195</index-entry>
+<index-item>
+<index-entry id="c12345-1001296">climate impact 195, 456</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001297">sea spray 195</index-entry></index-item></index-item>
+<index-item>
+<index-entry id="c12345-1001298">Affinity 97</index-entry>
+<index-item>
+<index-entry id="c12345-1001299">standard affinity 100</index-entry></index-item></index-item>
+<index-item>
+<index-entry id="c12345-1001300">Alkalinity 225, 226, 228, 230, 236, 238</index-entry>
+<index-item>
+<index-entry id="c12345-1001301">definition 222</index-entry></index-item>
+<index-item></index-item>
+<index-entry id="c12345-1001302">Aluminium</index-entry>
+<index-item>
+<index-entry id="c12345-1001303">alumina 369</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001304">aluminium oxide 275</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001305">aluminiumhydroxide 252</index-entry></index-item>
+<!-- %% </index-list> -->
+<!-- %% <index-list> -->
+<index-item>
+<index-entry id="c12345-1001306">Bayer's method 369</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001307">production 348</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001308">production rate 369</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001309">red mud 369</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001310">synthesis 368</index-entry></index-item></index-item>
+
+<index-item>
+<index-entry id="c12345-1001311">Amphiprotic solvent 215</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001312">Amphoteric species 215</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001313">Arrhenius' equation 117</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001314">Astronomical climate theory 445, 496</index-entry>
+<index-item>
+<index-entry id="c12345-1001315">general precession 496</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001316">luni-solar precession 500</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001317">planetary precession 496</index-entry></index-item></index-item>
+<index-item>
+<index-entry id="c12345-1001318">Astronomical forcing</index-entry>
+<index-item>
+<index-entry id="c12345-1001319">climate records 450</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001320">insolation formula 445</index-entry></index-item>
+	  <index-item><index-entry id="c12345-1001323">time dependence of insolation 447</index-entry></index-item></index-item>
+<index-item>
+<index-entry id="c12345-1001324">Atmosphere 16, 155, 177</index-entry>
+<index-item>
+<index-entry id="c12345-1001325">aerosol 155</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001326">chemical composition 157</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001327">convection 493</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001328">equation of state 163</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001329">evolution 16</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001330">exosphere 22, 156</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001331">greenhouse gases 455</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001332">Hadley model 165</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001333">humidity 159</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001334">lapse rate 157, 495</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001335">mesosphere 157</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001336">ozone layer 164</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001337">photolysis 177</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001338">polar vortex 207</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001339">pressure 157</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001340">radiant forcing (tables) 455, 456</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001341">standard atmosphere 158</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001342">stratosphere 157, 457</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001343">temperature 157</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001344">thermosphere 156</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001345">trace gases 159</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001346">tropopause 157</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001347">troposphere 157, 457</index-entry></index-item>
+</index-item>
+
+
+<index-item>
+<index-entry id="c12345-10-0002">ACLU American Civil Liberties Union</index-entry>
+</index-item>
+<index-item>
+<index-entry id="c12345-10-0003" pages="45,47">Adam Walsh Child Protection and 
+Safety Act of 2006,</index-entry>
+</index-item>
+<index-item>
+<index-entry id="c12345-10-0004" pages="39">Alabama,</index-entry>
+</index-item>
+<index-item><index-entry id="c12345-10-0005" pages="39">Alaska,</index-entry>
+</index-item>
+<index-item>
+<index-entry id="c12345-10-0007" pages="10--1+12">American Civil Liberties Union,</index-entry>
+</index-item>
+<index-item>
+<index-entry id="c12345-10-0008" pages="55">American Insurance Association,</index-entry>
+</index-item>
+<index-item>
+<index-entry id="c12345-10-0011" pages="7,1/n2,98">Aravamudan, Srinivas</index-entry> 
+</index-item>
+<!-- <index-item> -->
+<!-- <index-entry id="c12345-10-0009" pages="93">American Society for the Defense of Tradition, Family, and Property,</index-entry> -->
+<!-- </index-item> -->
+<!-- <index-item> -->
+<!-- <index-entry id="c12345-10-0010" pages="71">Amyx, Dale &#x201C;Dickie&#x201D;,</index-entry> -->
+<!-- </index-item> -->
+<index-item>
+<index-entry id="c12345-10-0016" pages="9,33,34,108,109,nb:117,132,152,196">Atlantic world</index-entry> 
+</index-item>
+<index-item>
+<index-entry id="c12345-10-0014" pages="156,158,166,ni:177,178,186">Arnold, Matthew</index-entry> 
+</index-item>
+</index-list>
+<index-list>
+
+<index-item>
+<index-entry id="c12345-1001348">Bacteria</index-entry>
+<index-item>
+<index-entry id="c12345-1001349"><emphasis type="italic">Escherichia coli</emphasis> 330</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001350">microbial leaching 342</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001351">nitrification 308</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001352"><emphasis type="italic">Nitrobacter</emphasis> 329</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001353"><emphasis type="italic">Nitrosococcus</emphasis> 329</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001354"><emphasis type="italic">Nitrosomonas</emphasis> 329</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001355"><emphasis type="italic">Pseudomonas aeruginosa</emphasis> 330, 390</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001356"><emphasis type="italic">Sphingomonas paucimobilis</emphasis>  UT26 414</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001357">sulfate-reducing bacteria 39</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001358"><emphasis type="italic">Thiobacillus ferrooxidans </emphasis> 342</index-entry></index-item></index-item>
+
+<index-item>
+<index-entry id="c12345-1001359">Barometric law 71</index-entry>
+<index-item>
+<index-entry id="c12345-1001360">scale height 72</index-entry></index-item></index-item>
+<index-item>
+<index-entry id="c12345-1001361">Base</index-entry>
+<index-item>
+<index-entry id="c12345-1001364">basicity constant 218</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001365">chemistry 214</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001366">conjugate acid 215</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001367">definition 215</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001368">electron donor 244</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001369">oligovalent 226</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001370">strength 219</index-entry></index-item></index-item>
+
+<index-item>
+<index-entry id="c12345-1001371">Bernoulli's equation 75, 76, 280</index-entry>
+<index-item>
+<index-entry id="c12345-1001372">elevation head 76, 280</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001373">hydraulic head 76, 280</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001374">osmotic pressure head 281</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001375">pressure head 76, 280</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001376">velocity head 76, 280</index-entry></index-item></index-item>
+<index-item>
+<index-entry id="c12345-1001377">Big Bang 5--7</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001378">Bimolecular reactions 116, 118--120</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001379">Biogeochemical cycles 317</index-entry>
+<index-item>
+<index-entry id="c12345-1001380">carbon 319</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001381">chlorine 343</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001382">nitrogen 326</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001383">phosphorus 335</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001384">sulfur 338</index-entry></index-item></index-item>
+<index-item>
+<index-entry id="c12345-1001385">Biota 167</index-entry>
+<index-item>
+<index-entry id="c12345-1001386">chemical composition 166, 169</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001387">diagenesis 169</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001388">eukaryote 166</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001389">prokaryote 166</index-entry></index-item></index-item>
+<index-item>
+<index-entry id="c12345-1001390">Blackbody radiation 5, 178</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001391">Bowen's reaction series 140</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001392">Box model 88</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001393">Bronze age 416</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001394">Buffer equation 223</index-entry>
+<index-item>
+<index-entry id="c12345-1001395">Henderson-Hasselbalch equation 224</index-entry></index-item></index-item>
+<index-item>
+<index-entry id="c12345-1001396">Buffer value 223--230, 236--238</index-entry></index-item>
+</index-list>
+<index-list>
+<index-item>
+<index-entry id="c12345-1001397">Capillary forces 282</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001398">Capillary tube 80</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001399">Carbon 319--325</index-entry>
+<index-item>
+<index-entry id="c12345-1001400">anthracite 319</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001401">bitumen 319, 365</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001402">bituminous coal 365</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001405">carbon cycles 321</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001406">coal 365</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001407">coal gas 366</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001408">coke 365</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001409">global distribution 319</index-entry></index-item></index-item>
+<index-item>
+<index-entry id="c12345-1001410">Carbon dioxide</index-entry>
+<index-item>
+<index-entry id="c12345-1001411">anthropogenic production, the Keeling curve 323</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001412">biological pump 324</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001413">cement manufacture 325</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001414">emission from cement manufacture 359</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001415">flux 320, 324</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001416">greenhouse gas 459</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001417">lifetime in atmosphere 321</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001418">limeburning 325</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001419">ocean sink 323</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001420">radiant forcing 455</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001421">Vostok ice core record 452</index-entry></index-item></index-item>
+<index-item>
+<index-entry id="c12345-1001422">Carbon monoxide 182</index-entry>
+<index-item>
+<index-entry id="c12345-1001423">emission 191</index-entry></index-item></index-item>
+<index-item>
+<index-entry id="c12345-1001424">Carbonic acid 233</index-entry>
+<index-item>
+<index-entry id="c12345-1001425">constants 235</index-entry></index-item></index-item>
+<index-item>
+<index-entry id="c12345-1001426">Catalyst design 385--390</index-entry>
+<index-item>
+<index-entry id="c12345-1001427">air pollution 390</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001428">asymmetric synthesis 385</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001429">metathetic catalysis 388</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001430">pheromone 388</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001431">supercritical solvents 390</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001432">waste water 390</index-entry></index-item></index-item>
+<index-item>
+<index-entry id="c12345-1001433">Cell 171</index-entry>
+<index-item>
+<index-entry id="c12345-1001434">aerobic respiration 175</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001435">classification 176</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001436">denitrification 175</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001437">dicot 172, 400</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001438">eukaryote 171</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001439">fermentation 174</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001440">iron reduction 175</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001441">manganese reduction 175</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001442">metabolism 173</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001443">methanogenesis 175</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001446">monocot 172, 401</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001447">photosynthesis 172</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001448">prokaryote 171</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001449">respiration 172</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001450">sulfate reduction 175</index-entry></index-item></index-item>
+
+<index-item>
+<index-entry id="c12345-1001451">Centrifugal acceleration 73</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001452">Chapman Mechanism 197--200</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001453">Chemical kinetics 52</index-entry>
+<index-item>
+<index-entry id="c12345-1001454">Arrhenius' equation 117</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001455">bimolecular reaction 115, 178</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001456">chain reaction 178</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001457">electron transfer 121</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001458">elementary reaction 115</index-entry></index-item><?pgbrk?>
+<index-item>
+<index-entry id="c12345-1001459">molecularity 115</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001460">steady state approximation 180</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001461">termolecular reaction 115</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001462">transition state 119</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001463">unimolecular reaction 115</index-entry></index-item></index-item>
+
+<index-item>
+<index-entry id="c12345-1001464">Chemical potential 93, 108</index-entry>
+<index-item>
+<index-entry id="c12345-1001465">excess chemical potential 110</index-entry></index-item></index-item>
+
+<index-item>
+<index-entry id="c12345-1001466">Chemicals Industry 347</index-entry>
+<index-item>
+<index-entry id="c12345-1001467">agricultural products (table) 352</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001468">agriculture 351</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001469">cement 357, 359, 360</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001470">chemical tools 349--351</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001471">clinker 358</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001472">commodities (table) 348</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001473">energy consumption (table) 349</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001474">ethene, use of 355</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001475">fertilizers 352</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001476">food industry 351</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001477">heavy industry 357--373</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001478">introduction 347--357</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001479">lime production 350</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001480">NPK-fertilizer 352</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001481">plastic production 348</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001482">polyamides, examples 357</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001483">polyesters, examples 356</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001484">Portland cement 358</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001487">production of chemicals (table) 355</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001488">survey of chemical industries (table) 351</index-entry></index-item></index-item>
+
+<index-item>
+<index-entry id="c12345-1001489">Chlorine 343--346</index-entry>
+<index-item>
+<index-entry id="c12345-1001490">applications (table) 383</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001491">bleach 371</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001492">chlorine cycles 345</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001493">chloromethane 345</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001494">Deacon process 382</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001495">electrolysis 374</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001496">history 344</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001497">Kel-Chlor process 382</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001498">organochlorine compounds 409</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001499">persistent organic pollutants 409</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001500">pesticides 396</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001501">PVC, poly(vinyl chloride) 383</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001502">Scheele's method 381</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001503">Weldon process 382</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001504">world production 382</index-entry></index-item></index-item>
+<index-item>
+<index-entry id="c12345-1001505">Chloroflouorocarbons (CFC) 203</index-entry>
+<index-item>
+<index-entry id="c12345-1001506">destruction 360</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001507">replacements 211</index-entry></index-item></index-item>
+<index-item>
+<index-entry id="c12345-1001508">Clapeyron equation 104</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001509">Clausius-Clapeyron equation 104</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001510">Climate (see also 'Modern Climate')</index-entry>
+<index-item>
+<index-entry id="c12345-1001511">Anthropocene 433</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001512">climate change 433</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001513">forcing 434</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001514">greenhouse gases 444</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001515">history 452, 453</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001516">mean surface temperature 454</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001517">proxies 450--453</index-entry></index-item>
+<index-item>
+<index-entry id="c12345-1001518">Vostok ice core record 452, 453</index-entry></index-item></index-item>
+</index-list>
+</index>
+
+</endmatter>
+</main>
+</book>
+
